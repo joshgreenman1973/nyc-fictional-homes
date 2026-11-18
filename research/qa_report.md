@@ -1,6 +1,6 @@
 # QA report
 
-825 records kept. 18 problems.
+826 records kept. 18 problems.
 
 - no setting years Jude St. Francis and Willem Ragnarsson — A Little Life [5c2754d2b9, books_1960_now]; using work year
 - no setting years Jude St. Francis — A Little Life [f2452ad296, books_1960_now]; using work year

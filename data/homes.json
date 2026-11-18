@@ -12774,6 +12774,43 @@
   "batch": "tv"
  },
  {
+  "id": "88e71bc4d8",
+  "home_key": "popeye-doyle-marlboro-houses",
+  "kind": "exterior",
+  "character": "Jimmy \"Popeye\" Doyle",
+  "household": null,
+  "work": "The French Connection",
+  "medium": "film",
+  "creator": "William Friedkin",
+  "work_year": 1971,
+  "start": 1971,
+  "end": 1971,
+  "address": "the Marlboro Houses, Avenues V, W and X off Stillwell Avenue",
+  "borough": "Brooklyn",
+  "neighborhood": "Gravesend",
+  "precision": "screen_exterior",
+  "lat": 40.5928,
+  "lon": -73.9811,
+  "radius_m": 200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The film shot Popeye's apartment building at the Marlboro Houses, a city housing project across the street from the elevated Stillwell Avenue tracks. A sniper fires at him from its roof, which sets off the car-and-train chase from the Bay 50th Street station. Doyle is fictional, though based on the detective Eddie Egan. The project is a group of buildings, so the mark covers the complex.",
+  "sources": [
+   {
+    "url": "https://movie-locations.com/movies/f/French-Connection.php",
+    "quote": "Popeye’s home is the Marlboro Housing Project , on Avenues V, W and X off Stillwell Avenue in Brooklyn",
+    "check": "verified"
+   },
+   {
+    "url": "https://www.dga.org/craft/dgaq/issues/0603-fall-2006/feature-anatomy-of-a-chase",
+    "quote": "The project was perfect for Doyle's apartment building, and it stood directly across the street from the Stillwell track.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_followups"
+ },
+ {
   "id": "0164e2b45a",
   "home_key": "edisons-prisoner-of-second-avenue",
   "kind": "story",
