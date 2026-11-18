@@ -2068,5 +2068,107 @@
   "lon": -73.9662021,
   "label": "West 105th Street and Amsterdam Avenue (OpenStreetMap)",
   "via": "osm-corner"
+ },
+ "Irving Place & East 17th Street, Manhattan|Manhattan": {
+  "lat": 40.7358905,
+  "lon": -73.987395,
+  "label": "Irving Place and East 17th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "86 Bedford Street, Manhattan|Manhattan": {
+  "lat": 40.732103,
+  "lon": -74.00503,
+  "label": "86 BEDFORD STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Barrow Street & Commerce Street, Manhattan|Manhattan": {
+  "lat": 40.7316248,
+  "lon": -74.0060166,
+  "label": "Barrow Street and Commerce Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "49 Bank Street, Manhattan|Manhattan": {
+  "lat": 40.736897,
+  "lon": -74.003894,
+  "label": "49, Bank Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",
+  "via": "nominatim"
+ },
+ "East 81st Street & Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.7776355,
+  "lon": -73.9611664,
+  "label": "East 81st Street and Madison Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 71st Street & Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.7779122,
+  "lon": -73.982096,
+  "label": "West 71st Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "108 East 119th Street, Manhattan|Manhattan": {
+  "lat": 40.80078,
+  "lon": -73.94163,
+  "label": "108 EAST 119 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Morton Street & Hudson Street, Manhattan|Manhattan": {
+  "lat": 40.7309445,
+  "lon": -74.006721,
+  "label": "Morton Street and Hudson Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "17 Gay Street, Manhattan|Manhattan": {
+  "lat": 40.733654,
+  "lon": -74.000275,
+  "label": "17 GAY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "71 East 97th Street, Manhattan|Manhattan": {
+  "lat": 40.787512,
+  "lon": -73.95221,
+  "label": "71 EAST 97 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "33 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.782577,
+  "lon": -73.984492,
+  "label": "33 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "435 West 47th Street, Manhattan|Manhattan": {
+  "lat": 40.762355,
+  "lon": -73.991621,
+  "label": "435 WEST 47 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "45 West 89th Street, Manhattan|Manhattan": {
+  "lat": 40.788059,
+  "lon": -73.96934,
+  "label": "45 WEST 89 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "231 East 55th Street, Manhattan|Manhattan": {
+  "lat": 40.758584,
+  "lon": -73.966961,
+  "label": "231 EAST 55 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "502 Henry Street, Brooklyn|Brooklyn": {
+  "lat": 40.684098,
+  "lon": -73.999649,
+  "label": "502 HENRY STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "5th Avenue and West 12th Street, Manhattan|Manhattan": {
+  "lat": 40.7346805,
+  "lon": -73.9946012,
+  "label": "5th Avenue and West 12th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "214 Lafayette Street, Manhattan|Manhattan": {
+  "lat": 40.721884,
+  "lon": -73.997891,
+  "label": "214 LAFAYETTE STREET, New York, NY, USA",
+  "via": "geosearch"
  }
 }

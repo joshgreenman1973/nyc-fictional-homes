@@ -244,8 +244,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.73592,
-  "lon": -74.002341,
+  "lat": 40.735909,
+  "lon": -74.002236,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -3400,8 +3400,8 @@
   "borough": "Manhattan",
   "neighborhood": "Central Park West (inferred)",
   "precision": "invented",
-  "lat": 40.779,
-  "lon": -73.974,
+  "lat": 40.780928,
+  "lon": -73.972258,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -4358,6 +4358,38 @@
   "batch": "books_1900_1959"
  },
  {
+  "id": "8a18907a32",
+  "home_key": "ira-stigman-east-114th",
+  "kind": "story",
+  "character": "Ira Stigman",
+  "household": "with his parents Chaim and Leah",
+  "work": "Mercy of a Rude Stream: A Star Shines Over Mt. Morris Park",
+  "medium": "book",
+  "creator": "Henry Roth",
+  "work_year": 1994,
+  "start": 1914,
+  "end": 1915,
+  "address": "three sweltering little rooms on 114th Street, just east of Park Avenue",
+  "borough": "Manhattan",
+  "neighborhood": "East Harlem",
+  "precision": "block_inferred",
+  "lat": 40.7985,
+  "lon": -73.9433,
+  "radius_m": 150,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The Stigmans' first home after leaving the Lower East Side for 'Jewish Harlem' in 1914, before the move to 119th Street. Ira is Henry Roth's fictional stand-in. The move date is an estimate.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Amercyofrudestrea00roth%20AND%20%22little%20rooms%22",
+    "quote": "on 114th Street, just east of Park",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "eae4656d10",
   "home_key": "rebecca-rubin-lower-east-side",
   "kind": "story",
@@ -4420,6 +4452,38 @@
    }
   ],
   "batch": "gaps_books_theater"
+ },
+ {
+  "id": "ffa4f5057c",
+  "home_key": "ira-stigman-108-east-119th",
+  "kind": "story",
+  "character": "Ira Stigman",
+  "household": "with his parents Chaim and Leah and his sister Minnie",
+  "work": "Mercy of a Rude Stream",
+  "medium": "book",
+  "creator": "Henry Roth",
+  "work_year": 1994,
+  "start": 1915,
+  "end": 1927,
+  "address": "a five-story brick tenement at 108 East 119th Street",
+  "borough": "Manhattan",
+  "neighborhood": "East Harlem",
+  "precision": "address_in_work",
+  "lat": 40.80078,
+  "lon": -73.94163,
+  "radius_m": 30,
+  "placed_by": "geosearch",
+  "geocode_label": "108 EAST 119 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The family tenement through all four volumes, among Irish neighbors, until Ira leaves to live with Edith Welles. Whether the building at that number survives was not checked. The start year is an estimate.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Amercyofrudestrea00roth%20AND%20%22brick%20tenement%20that%20occupied%22",
+    "quote": "the lot at 108 East 119th Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "da91d29b94",
@@ -4659,6 +4723,43 @@
    }
   ],
   "batch": "film"
+ },
+ {
+  "id": "3a7383de9c",
+  "home_key": "noodles-lower-east-side",
+  "kind": "story",
+  "character": "David \"Noodles\" Aaronson",
+  "household": "with his family; Max, Patsy, Cockeye and Dominic are neighborhood boys",
+  "work": "Once Upon a Time in America",
+  "medium": "film",
+  "creator": "Sergio Leone",
+  "work_year": 1984,
+  "start": 1918,
+  "end": 1933,
+  "address": "a Jewish enclave in Manhattan's Lower East Side",
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side",
+  "precision": "neighborhood",
+  "lat": 40.7155,
+  "lon": -73.987,
+  "radius_m": 900,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Noodles grows up poor on the Lower East Side and runs a gang there from 1918. The film's 1920s street scenes were shot in Williamsburg, Brooklyn, under the Williamsburg Bridge, not in Manhattan, and no building is identified as his home.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/David_%22Noodles%22_Aaronson",
+    "quote": "born in either 1903 or 1904 into poverty in a Jewish enclave in Manhattan's Lower East Side",
+    "check": "verified"
+   },
+   {
+    "url": "https://movie-locations.com/movies/o/Once-Upon-A-Time-In-America.php",
+    "quote": "The twenties ‘Lower East Side’ neighbourhood, where Noodles and Max first meet up, was indeed filmed on the streets below the towering Williamsburg Bridge",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "55a62c0aa7",
@@ -5326,8 +5427,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "invented",
-  "lat": 40.786143,
-  "lon": -73.97253,
+  "lat": 40.786341,
+  "lon": -73.97244,
   "radius_m": 1000,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -5395,8 +5496,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.809916,
-  "lon": -73.948638,
+  "lat": 40.809672,
+  "lon": -73.948242,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -5442,6 +5543,43 @@
    }
   ],
   "batch": "books_1900_1959"
+ },
+ {
+  "id": "adacefcc91",
+  "home_key": "edith-welles-morton-street",
+  "kind": "story",
+  "character": "Edith Welles",
+  "household": "Ira Stigman moves in at the end of Requiem for Harlem",
+  "work": "Mercy of a Rude Stream: Requiem for Harlem",
+  "medium": "book",
+  "creator": "Henry Roth",
+  "work_year": 1998,
+  "start": 1927,
+  "end": 1927,
+  "address": "Edith's apartment, on Morton Street in the Village",
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "precision": "block_inferred",
+  "lat": 40.730944,
+  "lon": -74.006721,
+  "radius_m": 300,
+  "placed_by": "osm-corner",
+  "geocode_label": "Morton Street and Hudson Street (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "Edith Welles, Ira's older lover and an NYU instructor (drawn from Eda Lou Walton), lives on Morton Street; the last volume ends with Ira leaving the family tenement to move in with her the night before Thanksgiving. No number is given. The year is an estimate.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Arequiemforharlem00roth%20AND%20%22Or%20try%20to%22",
+    "quote": "In Edith's apartment, on Morton Street",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Arequiemforharlem00roth%20AND%20%22ancestral%20family%20tenement%22",
+    "quote": "and move in with Edith Welles",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "4bb48284e1",
@@ -5555,8 +5693,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.809277,
-  "lon": -73.94682,
+  "lat": 40.809265,
+  "lon": -73.946413,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -6279,6 +6417,43 @@
   "batch": "theater"
  },
  {
+  "id": "743826680c",
+  "home_key": "ray-carney-127th-street-boyhood",
+  "kind": "story",
+  "character": "Ray Carney",
+  "household": "as a boy, son of the crook Big Mike Carney",
+  "work": "Harlem Shuffle",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2021,
+  "start": 1935,
+  "end": 1950,
+  "address": "his old stretch of 127th",
+  "borough": "Manhattan",
+  "neighborhood": "Harlem",
+  "precision": "block_inferred",
+  "lat": 40.8097,
+  "lon": -73.9464,
+  "radius_m": 1000,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Carney grew up on West 127th Street; the novel names the street but no avenue or number, so the point sits mid-street between Lenox and Eighth Avenues. Years are an estimate of his 1930s-40s boyhood (he is a young father in 1959). This is separate from the small apartment he rents as an adult.",
+  "sources": [
+   {
+    "url": "https://www.litcharts.com/lit/harlem-shuffle/characters/raymond-carney",
+    "quote": "Carney reflects on the differences between the Jones’s pretentious block and the humble “stretch of 127th” where he himself grew up.",
+    "check": "verified"
+   },
+   {
+    "url": "https://www.litcharts.com/lit/harlem-shuffle/characters/elizabeth-carney",
+    "quote": "What would they call his old stretch of 127th? Crooked Way",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
+ },
+ {
   "id": "b24e3f180f",
   "home_key": "rufus-scott-family-harlem",
   "kind": "story",
@@ -6582,6 +6757,43 @@
   "batch": "theater"
  },
  {
+  "id": "9a627e9bba",
+  "home_key": "von-humboldt-fleisher-bedford-street",
+  "kind": "story",
+  "character": "Von Humboldt Fleisher",
+  "household": null,
+  "work": "Humboldt's Gift",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1975,
+  "start": 1938,
+  "end": 1938,
+  "address": "Bedford Street, near Chumley's",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "block_inferred",
+  "lat": 40.732103,
+  "lon": -74.00503,
+  "radius_m": 120,
+  "placed_by": "geosearch",
+  "geocode_label": "86 BEDFORD STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "Citrine visits Humboldt on Bedford Street near Chumley's in 1938. Chumley's, the old speakeasy, is at 86 Bedford Street, so the point is that building with a block radius; the novel gives no house number. Humboldt is modeled in part on Delmore Schwartz but is a fictional character.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22discuss%20literature%20and%20ideas%22",
+    "quote": "He lived on Bedford Street,",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22Bedford%20Street%22",
+    "quote": "near Chumley's. First he gave me black",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "4318abd7f1",
   "home_key": "cassie-tar-beach-harlem",
   "kind": "story",
@@ -6597,8 +6809,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.812311,
-  "lon": -73.943561,
+  "lat": 40.812384,
+  "lon": -73.943593,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -6718,6 +6930,75 @@
    }
   ],
   "batch": "film"
+ },
+ {
+  "id": "39b3d7497a",
+  "home_key": "demmie-vonghel-barrow-street",
+  "kind": "story",
+  "character": "Demmie Vonghel",
+  "household": "Charlie Citrine's girlfriend at the time",
+  "work": "Humboldt's Gift",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1975,
+  "start": 1940,
+  "end": 1949,
+  "address": "Demmie's apartment building on Barrow Street near the Cherry Lane Theatre",
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "precision": "block_inferred",
+  "lat": 40.731625,
+  "lon": -74.006017,
+  "radius_m": 150,
+  "placed_by": "osm-corner",
+  "geocode_label": "Barrow Street and Commerce Street (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "Humboldt picks Citrine up outside Demmie Vonghel's building on Barrow Street near the Cherry Lane Theatre, which stands at Commerce Street, around the bend of Barrow. The novel does not make clear whether Citrine lived there with her, so the record is hers. Years estimated as the 1940s.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22Cherry%20Lane%22",
+    "quote": "apartment building on Barrow Street near the",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22apartment%22",
+    "quote": "Humboldt picked me up in front of Demmie's",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
+  "id": "195c4fc4ac",
+  "home_key": "humboldt-mother-west-end-avenue",
+  "kind": "story",
+  "character": "Humboldt's mother",
+  "household": null,
+  "work": "Humboldt's Gift",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1975,
+  "start": 1940,
+  "end": 1950,
+  "address": "her dark apartment on West End Avenue",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "neighborhood",
+  "lat": 40.787,
+  "lon": -73.9795,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Citrine recalls seeing Humboldt's mother once in her dark apartment on West End Avenue. The avenue runs about 50 blocks and no cross street is given, so this is placed at its middle with a wide radius. Years estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22Humboldt%27s%20mother%22",
+    "quote": "in her dark apartment on West End",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "3d77272cb3",
@@ -7161,6 +7442,43 @@
   "batch": "books_1900_1959"
  },
  {
+  "id": "15c351d220",
+  "home_key": "don-birnam-e55th",
+  "kind": "exterior",
+  "character": "Don Birnam",
+  "household": "with his brother Wick",
+  "work": "The Lost Weekend",
+  "medium": "film",
+  "creator": "Billy Wilder",
+  "work_year": 1945,
+  "start": 1945,
+  "end": 1945,
+  "address": "231 East 55th Street (a rooftop set on Hahn's Warehouse)",
+  "borough": "Manhattan",
+  "neighborhood": "Midtown East",
+  "precision": "screen_exterior",
+  "lat": 40.758584,
+  "lon": -73.966961,
+  "radius_m": 60,
+  "placed_by": "geosearch",
+  "geocode_label": "231 EAST 55 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The opening pan ends at Don's window with a bottle hung outside. Researchers traced it to a set built on the roof of Hahn's Warehouse, 231 East 55th Street, around the corner from P.J. Clarke's; the warehouse is demolished. Another blog estimates 209 East 54th Street instead. The film gives no story address.",
+  "sources": [
+   {
+    "url": "https://nycinfilm.com/2017/12/14/lost-weekend-1945",
+    "quote": "The camera ends on Don Birnam’s apartment window at 231 E. 55th Street with a bottle hanging on a string outside it.",
+    "check": "verified"
+   },
+   {
+    "url": "https://thebernardolcottstory.com/2016/01/07/the-lost-weekend-2/",
+    "quote": "The movie was filmed on location in Don’s apartment, a fourth story walkup at what appears to be (according to my analysis) 209 East 54th Street.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "5e9f22f4c0",
   "home_key": "grady-mcneil-fifth-avenue",
   "kind": "story",
@@ -7208,8 +7526,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.731683,
-  "lon": -74.000939,
+  "lat": 40.731885,
+  "lon": -74.000607,
   "radius_m": 900,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -7292,6 +7610,70 @@
    }
   ],
   "batch": "theater"
+ },
+ {
+  "id": "78b1da2164",
+  "home_key": "asa-leventhal-irving-place",
+  "kind": "story",
+  "character": "Asa Leventhal",
+  "household": "wife Mary, away for most of the novel; Kirby Allbee later stays in the flat",
+  "work": "The Victim",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1947,
+  "start": 1946,
+  "end": 1946,
+  "address": "a high walk-up on Irving Place",
+  "borough": "Manhattan",
+  "neighborhood": "Gramercy",
+  "precision": "block_inferred",
+  "lat": 40.73589,
+  "lon": -73.987395,
+  "radius_m": 300,
+  "placed_by": "osm-corner",
+  "geocode_label": "Irving Place and East 17th Street (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "The novel puts Leventhal's flat on Irving Place, a six-block street from 14th to 20th Street, with no number; the point is the street's midpoint. Kirby Allbee, who has no fixed address, moves in with him for a stretch. The setting year is an estimate for the novel's single hot summer.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Avictim0000bell%20AND%20%22high%20walk-up%22",
+    "quote": "own on Irving Place, was a",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
+  "id": "209030dda3",
+  "home_key": "coleman-silk-sullivan-street",
+  "kind": "story",
+  "character": "Coleman Silk",
+  "household": "visited by his girlfriend Steena Palsson",
+  "work": "The Human Stain",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 2000,
+  "start": 1946,
+  "end": 1948,
+  "address": "the basement room on Sullivan Street",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "block_inferred",
+  "lat": 40.7287,
+  "lon": -74.0007,
+  "radius_m": 500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Right after the war, while at NYU, the young Coleman Silk rents a basement room on Sullivan Street, where his affair with Steena Palsson plays out. No number is given; the point is mid-street.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumanstain00roth_0%20AND%20%22Steena%20Palsson%20and%20the%22",
+    "quote": "basement room on Sullivan Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "e52e89cf94",
@@ -7994,8 +8376,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.732044,
-  "lon": -74.004999,
+  "lat": 40.731672,
+  "lon": -74.00444,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -8026,8 +8408,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.731413,
-  "lon": -74.003781,
+  "lat": 40.731291,
+  "lon": -74.003164,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -8317,6 +8699,38 @@
    }
   ],
   "batch": "gaps_boroughs"
+ },
+ {
+  "id": "6fa1dc0604",
+  "home_key": "gabe-wallach-central-park-west",
+  "kind": "story",
+  "character": "Gabe Wallach",
+  "household": "his widowed father, Dr. Wallach, a dentist",
+  "work": "Letting Go",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1962,
+  "start": 1952,
+  "end": 1953,
+  "address": "the Central Park West apartment, looking out over Central Park",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.785,
+  "lon": -73.9695,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Gabe's family apartment overlooks Central Park from Central Park West; after the Army he moved back into his old room there before graduate school in Iowa and Chicago. No building or cross street is given. Paul Herz's parents live in Brooklyn, too vague to map.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Alettinggo00roth%20AND%20%22moved%20back%20into%20his%20old%20room%22",
+    "quote": "in the Central Park West apartment;",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "f95d4283f0",
@@ -8736,6 +9150,38 @@
    }
   ],
   "batch": "gaps_screen"
+ },
+ {
+  "id": "eb86cc1ae4",
+  "home_key": "nathan-zuckerman-lower-broadway-walkup",
+  "kind": "story",
+  "character": "Nathan Zuckerman",
+  "household": "with his girlfriend Betsy, a ballet dancer",
+  "work": "The Ghost Writer",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1979,
+  "start": 1955,
+  "end": 1956,
+  "address": "a five-flight walk-up off lower Broadway",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village / NoHo",
+  "precision": "neighborhood",
+  "lat": 40.726,
+  "lon": -73.9965,
+  "radius_m": 1000,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Since his Army discharge the 23-year-old Zuckerman has been living and writing in a five-flight walk-up off lower Broadway; elsewhere in the book it is called a Village walk-up. No street is named, so the point is a guess along lower Broadway near Bleecker Street.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aghostwriter0000phil%20AND%20%22living%20and%20writing%22",
+    "quote": "in a five-flight walk-up off lower Broadway",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "3f6b5b00f7",
@@ -9216,6 +9662,43 @@
   "batch": "gaps_ensembles"
  },
  {
+  "id": "02e39e076c",
+  "home_key": "nathan-zuckerman-lower-east-side-basement",
+  "kind": "story",
+  "character": "Nathan Zuckerman",
+  "household": null,
+  "work": "The Counterlife",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1986,
+  "start": 1958,
+  "end": 1960,
+  "address": "a basement apartment on a Lower East Side street among poor Ukrainians and Puerto Ricans",
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side / East Village",
+  "precision": "neighborhood",
+  "lat": 40.727,
+  "lon": -73.984,
+  "radius_m": 800,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Zuckerman recalls his early years in New York in a Lower East Side basement apartment; the Ukrainian neighbors point to the blocks now called the East Village. The Ghost Writer instead puts the young Zuckerman in a walk-up off lower Broadway, a separate record. Years estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Acounterlife00roth%20AND%20%22basement%20apartment%22",
+    "quote": "on a Lower East Side street among",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Acounterlife00roth%20AND%20%22Lower%20East%20Side%20street%22",
+    "quote": "living in a basement apartment on a",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "e0fbb8423c",
   "home_key": "susie-myerson-village-studio",
   "kind": "story",
@@ -9231,8 +9714,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.735142,
-  "lon": -74.005016,
+  "lat": 40.734457,
+  "lon": -74.005567,
   "radius_m": 1000,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -9386,6 +9869,43 @@
   "batch": "theater"
  },
  {
+  "id": "70c6c1d5bd",
+  "home_key": "jones-family-strivers-row",
+  "kind": "story",
+  "character": "Leland and Alma Jones",
+  "household": "Elizabeth Carney's parents; she grew up in the house",
+  "work": "Harlem Shuffle",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2021,
+  "start": 1959,
+  "end": 1964,
+  "address": "the Jones house on Strivers’ Row",
+  "borough": "Manhattan",
+  "neighborhood": "Strivers' Row, Harlem",
+  "precision": "block_inferred",
+  "lat": 40.8182,
+  "lon": -73.9432,
+  "radius_m": 200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Strivers' Row is the pair of landmarked rowhouse blocks on West 138th and 139th Streets between Adam Clayton Powell Jr. and Frederick Douglass Boulevards; the sources don't say which house or which of the two blocks. The rowhouses survive.",
+  "sources": [
+   {
+    "url": "https://www.penguinrandomhouse.com/books/608668/harlem-shuffle-by-colson-whitehead/9780385545136/excerpt",
+    "quote": "if her parents on Striver’s Row don’t approve of him or their cramped apartment across from the subway tracks",
+    "check": "verified"
+   },
+   {
+    "url": "https://www.litcharts.com/lit/harlem-shuffle/characters/elizabeth-carney",
+    "quote": "and May have dinner at the Jones house on Strivers’ Row",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
+ },
+ {
   "id": "5c95154171",
   "home_key": "odetta-holmes-central-park-south",
   "kind": "story",
@@ -9471,7 +9991,7 @@
   "placed_by": "approx",
   "geocode_label": "placed by hand",
   "outside_nyc": false,
-  "notes": "Street not sourced (a 127th Street location was not confirmed). His furniture store on 125th Street is a workplace, not a home.",
+  "notes": "Street not sourced. His furniture store on 125th Street is a workplace, not a home.",
   "sources": [
    {
     "url": "https://en.wikipedia.org/wiki/Harlem_Shuffle_(novel)",
@@ -9862,8 +10382,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.733032,
-  "lon": -74.00569,
+  "lat": 40.732435,
+  "lon": -74.005372,
   "radius_m": 700,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -9909,6 +10429,43 @@
    }
   ],
   "batch": "kids_comics"
+ },
+ {
+  "id": "d4a5eebd61",
+  "home_key": "von-humboldt-fleisher-ilscombe-hotel",
+  "kind": "story",
+  "character": "Von Humboldt Fleisher",
+  "household": null,
+  "work": "Humboldt's Gift",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1975,
+  "start": 1960,
+  "end": 1966,
+  "address": "the Ilscombe Hotel, a flophouse in the West Forties around the corner from the Belasco",
+  "borough": "Manhattan",
+  "neighborhood": "Theater District",
+  "precision": "invented",
+  "lat": 40.7565,
+  "lon": -73.9842,
+  "radius_m": 250,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Humboldt was living at the Ilscombe, a welfare hotel for old people, when he died of a heart attack; the novel says it has since collapsed. The hotel is invented; the point is near the real Belasco Theatre on West 44th Street. Years are an estimate: the novel's present is the mid-1970s and Humboldt has been dead some years.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22I%20went%20later%20to%20have%20a%20look%22",
+    "quote": "a place called the Ilscombe.",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ahumboldtsgift000bell%20AND%20%22around%20the%20corner%20from%20the%20Belasco%22",
+    "quote": "death: he died at the Ilscombe",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "95524bbcfe",
@@ -10118,38 +10675,6 @@
   "batch": "film"
  },
  {
-  "id": "dde4af6104",
-  "home_key": "ray-carney-riverside-drive",
-  "kind": "story",
-  "character": "Ray Carney",
-  "household": "with wife Elizabeth and children",
-  "work": "Harlem Shuffle",
-  "medium": "book",
-  "creator": "Colson Whitehead",
-  "work_year": 2021,
-  "start": 1961,
-  "end": 1964,
-  "address": "Riverside Drive",
-  "borough": "Manhattan",
-  "neighborhood": "Morningside Heights / Hamilton Heights",
-  "precision": "block_inferred",
-  "lat": 40.815,
-  "lon": -73.959,
-  "radius_m": 1500,
-  "placed_by": "approx",
-  "geocode_label": "placed by hand",
-  "outside_nyc": false,
-  "notes": "The family moves up to Riverside Drive; no cross street sourced, so the point is a wide guess along the uptown drive. Carney then eyes Strivers' Row.",
-  "sources": [
-   {
-    "url": "https://portside.org/node/27004",
-    "quote": "After Carney and his family move to Riverside Drive",
-    "check": "verified"
-   }
-  ],
-  "batch": "books_1960_now"
- },
- {
   "id": "96833f9162",
   "home_key": "top-cat-hoagys-alley",
   "kind": "story",
@@ -10251,6 +10776,38 @@
   "batch": "kids_comics"
  },
  {
+  "id": "ce32467544",
+  "home_key": "moses-herzog-17th-street",
+  "kind": "story",
+  "character": "Moses Herzog",
+  "household": null,
+  "work": "Herzog",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1964,
+  "start": 1962,
+  "end": 1962,
+  "address": "the kitchenette apartment he had rented on 17th Street",
+  "borough": "Manhattan",
+  "neighborhood": "Chelsea / Union Square",
+  "precision": "block_inferred",
+  "lat": 40.738,
+  "lon": -73.992,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Herzog rents a kitchenette apartment on 17th Street after his divorce; the novel does not say East or West, so the point sits at Fifth Avenue with a wide radius. Herzog's main house is in the fictional Ludeyville in the Berkshires. Setting year estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aherzog0000saul%20AND%20%22apartment%22",
+    "quote": "he had rented on 17th Street, he sometimes imagined",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "45829d6759",
   "home_key": "peter-parker-20-ingram-street",
   "kind": "story",
@@ -10286,6 +10843,43 @@
    }
   ],
   "batch": "kids_comics"
+ },
+ {
+  "id": "415a0a7ebb",
+  "home_key": "ramona-donsell-west-side",
+  "kind": "story",
+  "character": "Ramona Donsell",
+  "household": null,
+  "work": "Herzog",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1964,
+  "start": 1962,
+  "end": 1962,
+  "address": "Ramona's large West Side apartment, with a downtown view of Broadway and Columbus Circle",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "neighborhood",
+  "lat": 40.776,
+  "lon": -73.982,
+  "radius_m": 900,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Herzog's lover Ramona, who owns a flower shop on Lexington Avenue, lives in a large West Side apartment whose windows look downtown along Broadway to Columbus Circle. That view puts it on or near Broadway somewhere above the circle; the point and radius are our inference, not the novel's.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aherzog0000saul%20AND%20%22armchairs%20by%20the%20windows%22",
+    "quote": "the downtown view of Broadway and Columbus",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aherzog0000saul%20AND%20%22drab%20lecture%20hall%22",
+    "quote": "large West Side apartment, she",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "3eb74c39bd",
@@ -10471,6 +11065,38 @@
    }
   ],
   "batch": "tv"
+ },
+ {
+  "id": "3fd8cee172",
+  "home_key": "peter-tarnopol-west-twelfth-street",
+  "kind": "story",
+  "character": "Peter Tarnopol",
+  "household": null,
+  "work": "My Life as a Man",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1974,
+  "start": 1963,
+  "end": 1967,
+  "address": "my own small apartment on West Twelfth Street (a sublet)",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "block_inferred",
+  "lat": 40.737,
+  "lon": -74.0005,
+  "radius_m": 600,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Tarnopol, a novelist who echoes Roth, lives in a small sublet on West Twelfth Street during his separation from his wife Maureen. No number is given; the point is mid-street near Seventh Avenue. He was raised in Yonkers, outside the map. Years estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Amylifeasman00roth_0%20AND%20%22my%20own%20small%20apartment%22",
+    "quote": "on West Twelfth Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "0f07d188cf",
@@ -10749,6 +11375,38 @@
   "batch": "gaps_mad_men"
  },
  {
+  "id": "dde4af6104",
+  "home_key": "ray-carney-riverside-drive",
+  "kind": "story",
+  "character": "Ray Carney",
+  "household": "with wife Elizabeth and children",
+  "work": "Harlem Shuffle",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2021,
+  "start": 1964,
+  "end": 1970,
+  "address": "Riverside Drive",
+  "borough": "Manhattan",
+  "neighborhood": "Morningside Heights / Hamilton Heights",
+  "precision": "block_inferred",
+  "lat": 40.815,
+  "lon": -73.959,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The family moves up to Riverside Drive; no cross street sourced, so the point is a wide guess along the uptown drive. Carney then eyes Strivers' Row.",
+  "sources": [
+   {
+    "url": "https://portside.org/node/27004",
+    "quote": "After Carney and his family move to Riverside Drive",
+    "check": "verified"
+   }
+  ],
+  "batch": "books_1960_now"
+ },
+ {
   "id": "42c94cf21a",
   "home_key": "brusteins-greenwich-village",
   "kind": "story",
@@ -10848,6 +11506,38 @@
    }
   ],
   "batch": "gaps_wikilist_1"
+ },
+ {
+  "id": "0ffbac9a79",
+  "home_key": "nathan-zuckerman-49-bank-street",
+  "kind": "story",
+  "character": "Nathan Zuckerman",
+  "household": "with his wife Laura",
+  "work": "Zuckerman Unbound",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1981,
+  "start": 1965,
+  "end": 1969,
+  "address": "49 Bank Street, a downtown floor-through",
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "precision": "address_in_work",
+  "lat": 40.736897,
+  "lon": -74.003894,
+  "radius_m": 25,
+  "placed_by": "nominatim",
+  "geocode_label": "49, Bank Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",
+  "outside_nyc": false,
+  "notes": "Zuckerman and Laura shared a floor-through at 49 Bank Street until he left in 1969, after the success of Carnovsky, and moved uptown. Zuckerman is Roth's fictional alter ego. The start year is an estimate; whether the building at that number matches the novel's description was not checked.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Azuckermanunbound00roth%20AND%20%22eighty-one%20boxes%22",
+    "quote": "in 1969, he left ... 49 ... Bank Street with",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "a251efab41",
@@ -11099,7 +11789,7 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.81155,
+  "lat": 40.811666,
   "lon": -73.943415,
   "radius_m": 1200,
   "placed_by": "approx",
@@ -11222,6 +11912,43 @@
   "batch": "gaps_wikilist_1"
  },
  {
+  "id": "27d33f6e45",
+  "home_key": "the-monkey-east-eighties",
+  "kind": "story",
+  "character": "Mary Jane Reed (\"The Monkey\")",
+  "household": null,
+  "work": "Portnoy's Complaint",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1969,
+  "start": 1966,
+  "end": 1966,
+  "address": "the top floor of a big modern building in the East Eighties",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side",
+  "precision": "neighborhood",
+  "lat": 40.778,
+  "lon": -73.955,
+  "radius_m": 900,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Portnoy's lover, the Monkey, lives on the top floor of a big modern building in the East Eighties. Portnoy's own Manhattan apartment is not placed in any passage we could find; his family home is in Newark, outside the map.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aportnoyscomplain00roth%20AND%20%22big%20modern%20building%22",
+    "quote": "in the East Eighties, and it irritates",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aportnoyscomplain00roth%20AND%20%22She%20lives%20on%20the%20top%22",
+    "quote": "floor of a big modern building in",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "db26e576f4",
   "home_key": "mary-jane-watson-ingram-street-next-door",
   "kind": "story",
@@ -11338,8 +12065,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.73361,
-  "lon": -73.999618,
+  "lat": 40.733771,
+  "lon": -73.999626,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -11370,8 +12097,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.813851,
-  "lon": -73.945679,
+  "lat": 40.813841,
+  "lon": -73.94563,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -11604,8 +12331,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.784767,
-  "lon": -73.974496,
+  "lat": 40.784894,
+  "lon": -73.974066,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -11897,8 +12624,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.787857,
-  "lon": -73.97827,
+  "lat": 40.78811,
+  "lon": -73.978114,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -12296,6 +13023,43 @@
   "batch": "gaps_wikilist_1"
  },
  {
+  "id": "3372fa8a48",
+  "home_key": "nathan-zuckerman-east-81st",
+  "kind": "story",
+  "character": "Nathan Zuckerman",
+  "household": null,
+  "work": "Zuckerman Unbound; The Anatomy Lesson",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1981,
+  "start": 1969,
+  "end": 1973,
+  "address": "the new apartment in the East Eighties, on Eighty-first Street; a brownstone apartment in The Anatomy Lesson",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side",
+  "precision": "block_inferred",
+  "lat": 40.777636,
+  "lon": -73.961166,
+  "radius_m": 250,
+  "placed_by": "osm-corner",
+  "geocode_label": "East 81st Street and Madison Avenue (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "In March 1969 Zuckerman moves to an apartment on East 81st Street, and he is still in a brownstone apartment there in The Anatomy Lesson (set about 1973). The novel has the Frank E. Campbell funeral parlor, on Madison Avenue at 81st, down the street from him; placing him near Madison is our inference from that. No house number is given.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Azuckermanunbound00roth%20AND%20%22to%20pack%20a%20bag%22",
+    "quote": "he got back to Eighty-first Street",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Azuckermanunbound00roth%20AND%20%22thereby%20separating%22",
+    "quote": "new apartment in the East Eighties,",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "63469c8601",
   "home_key": "sam-wilson-harlem",
   "kind": "story",
@@ -12311,8 +13075,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.812755,
-  "lon": -73.949182,
+  "lat": 40.812919,
+  "lon": -73.949047,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -12683,8 +13447,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.789309,
-  "lon": -73.974935,
+  "lat": 40.789297,
+  "lon": -73.974844,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -12843,6 +13607,43 @@
   "batch": "theater"
  },
  {
+  "id": "31cddbd8a5",
+  "home_key": "ray-carney-strivers-row-townhouse",
+  "kind": "story",
+  "character": "Ray Carney",
+  "household": "with wife Elizabeth and children May and John",
+  "work": "Crook Manifesto",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2023,
+  "start": 1971,
+  "end": 1976,
+  "address": "their townhouse on so-called Strivers' Row",
+  "borough": "Manhattan",
+  "neighborhood": "Strivers' Row, Harlem",
+  "precision": "block_inferred",
+  "lat": 40.818941,
+  "lon": -73.94253,
+  "radius_m": 200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "By 1971 the Carneys have left Riverside Drive for a townhouse of their own on Strivers' Row (West 138th and 139th Streets between Seventh and Eighth Avenues), the block Carney was eyeing at the end of Harlem Shuffle. No house number or block is sourced. A different house from Elizabeth's parents' place on the same row.",
+  "sources": [
+   {
+    "url": "https://www.bookreporter.com/reviews/crook-manifesto",
+    "quote": "his young family (who have settled into their townhouse on so-called Strivers' Row)",
+    "check": "verified"
+   },
+   {
+    "url": "https://www.washingtonindependentreviewofbooks.com/bookreview/crook-manifesto-a-novel",
+    "quote": "Carney, who has successfully installed his family in the upper-crust section of Harlem, Striver’s Row",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
+ },
+ {
   "id": "bbe6c9a01c",
   "home_key": "tish-rivers-harlem",
   "kind": "story",
@@ -12858,8 +13659,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.813352,
-  "lon": -73.948541,
+  "lat": 40.81345,
+  "lon": -73.948384,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -12996,8 +13797,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.809482,
-  "lon": -73.947799,
+  "lat": 40.809359,
+  "lon": -73.94737,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -13097,8 +13898,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.73578,
-  "lon": -74.003805,
+  "lat": 40.735833,
+  "lon": -74.003604,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -13348,6 +14149,70 @@
   "batch": "gaps_ensembles"
  },
  {
+  "id": "55fc6995e3",
+  "home_key": "theo-kojak-village",
+  "kind": "story",
+  "character": "Theo Kojak",
+  "household": null,
+  "work": "Kojak",
+  "medium": "tv",
+  "creator": "Abby Mann",
+  "work_year": 1973,
+  "start": 1973,
+  "end": 1978,
+  "address": "the Village",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "neighborhood",
+  "lat": 40.735315,
+  "lon": -74.004793,
+  "radius_m": 800,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The show puts the lieutenant's apartment in Greenwich Village but shot its exterior on Fifth Avenue at 12th Street.",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20230329101140/https://www.metv.com/stories/where-television-characters-lived-in-new-york-city-map",
+    "quote": "The apartment was supposedly in the Village, but the exteriors were shot at 5th Ave and 12th St.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
+  "id": "8191875579",
+  "home_key": "theo-kojak-village",
+  "kind": "exterior",
+  "character": "Theo Kojak",
+  "household": null,
+  "work": "Kojak",
+  "medium": "tv",
+  "creator": "Abby Mann",
+  "work_year": 1973,
+  "start": 1973,
+  "end": 1978,
+  "address": "Fifth Avenue and 12th Street",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "block_inferred",
+  "lat": 40.734681,
+  "lon": -73.994601,
+  "radius_m": 80,
+  "placed_by": "osm-corner",
+  "geocode_label": "5th Avenue and West 12th Street (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "Only the intersection is given for the exterior, not the building, so this is graded below screen_exterior.",
+  "sources": [
+   {
+    "url": "https://web.archive.org/web/20230329101140/https://www.metv.com/stories/where-television-characters-lived-in-new-york-city-map",
+    "quote": "The apartment was supposedly in the Village, but the exteriors were shot at 5th Ave and 12th St.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "06b65ce25f",
   "home_key": "tim-farr-sutton-place",
   "kind": "story",
@@ -13577,6 +14442,43 @@
   "batch": "books_1960_now"
  },
  {
+  "id": "3693d3239a",
+  "home_key": "paul-kersey-riverside-drive",
+  "kind": "exterior",
+  "character": "Paul Kersey",
+  "household": "with his wife Joanna",
+  "work": "Death Wish",
+  "medium": "film",
+  "creator": "Michael Winner",
+  "work_year": 1974,
+  "start": 1974,
+  "end": 1974,
+  "address": "33 Riverside Drive at West 75th Street",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "screen_exterior",
+  "lat": 40.782577,
+  "lon": -73.984492,
+  "radius_m": 20,
+  "placed_by": "geosearch",
+  "geocode_label": "33 RIVERSIDE DRIVE, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The architect's apartment, where muggers attack his wife and daughter. Movie-locations.com writes Riverside Avenue, which is a slip for Riverside Drive. The story itself gives no address beyond Manhattan.",
+  "sources": [
+   {
+    "url": "https://www.onthesetofnewyork.com/deathwish.html",
+    "quote": "Paul Kersey's Apartment, 33 Riverside Drive and West 75th Street, Manhattan.",
+    "check": "verified"
+   },
+   {
+    "url": "https://movie-locations.com/movies/d/Death-Wish.php",
+    "quote": "The apartment of architect Paul Kersey (Bronson) is 33 Riverside Avenue at West 75th Street on the West Side",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "8cdd38acf4",
   "home_key": "rhoda-east-64th",
   "kind": "story",
@@ -13708,6 +14610,38 @@
    }
   ],
   "batch": "tv"
+ },
+ {
+  "id": "9d04fbf798",
+  "home_key": "gail-gay-street",
+  "kind": "exterior",
+  "character": "Gail",
+  "household": null,
+  "work": "Carlito's Way",
+  "medium": "film",
+  "creator": "Brian De Palma",
+  "work_year": 1993,
+  "start": 1975,
+  "end": 1975,
+  "address": "17 Gay Street",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "precision": "screen_exterior",
+  "lat": 40.733654,
+  "lon": -74.000275,
+  "radius_m": 20,
+  "placed_by": "geosearch",
+  "geocode_label": "17 GAY STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "Carlito's old girlfriend Gail, a dancer, lives here; the film shot her building on Gay Street, and Carlito is arrested at the street's end at Waverly Place. No source places Carlito's own home.",
+  "sources": [
+   {
+    "url": "https://movie-locations.com/movies/c/Carlitos-Way.php",
+    "quote": "Gail's apartment is 17 Gay Street, also in the village",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "8953a6ce7f",
@@ -14156,6 +15090,38 @@
   "batch": "gaps_tmag"
  },
  {
+  "id": "5ae7038dd2",
+  "home_key": "babe-levy-w47th",
+  "kind": "exterior",
+  "character": "Thomas Babington \"Babe\" Levy",
+  "household": null,
+  "work": "Marathon Man",
+  "medium": "film",
+  "creator": "John Schlesinger",
+  "work_year": 1976,
+  "start": 1976,
+  "end": 1976,
+  "address": "435 West 47th Street, between Ninth and Tenth Avenues",
+  "borough": "Manhattan",
+  "neighborhood": "Hell's Kitchen",
+  "precision": "screen_exterior",
+  "lat": 40.762355,
+  "lon": -73.991621,
+  "radius_m": 20,
+  "placed_by": "geosearch",
+  "geocode_label": "435 WEST 47 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The Columbia graduate student's apartment, where his brother Doc dies after being stabbed. The film shot it in Hell's Kitchen; no source gives a story address.",
+  "sources": [
+   {
+    "url": "https://www.onthesetofnewyork.com/marathonman.html",
+    "quote": "Thomas Babington's Apartment, 435 West 47th Street (btw 9th and 10th Avenue) Manhattan.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "00e3e018a9",
   "home_key": "tony-manero-bay-ridge",
   "kind": "story",
@@ -14326,6 +15292,43 @@
   "batch": "theater"
  },
  {
+  "id": "9dd323e20c",
+  "home_key": "maria-freshfield-east-80s-duplex",
+  "kind": "story",
+  "character": "Maria Freshfield",
+  "household": "with her husband Michael; Nathan Zuckerman lives in the apartment below",
+  "work": "The Counterlife",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1986,
+  "start": 1977,
+  "end": 1978,
+  "address": "the duplex upstairs from Nathan's apartment, at the top of a brownstone in the East 80s",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side",
+  "precision": "neighborhood",
+  "lat": 40.7785,
+  "lon": -73.956,
+  "radius_m": 800,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "In The Counterlife, Maria and her estranged English husband move into the duplex at the top of the brownstone where Zuckerman has his Manhattan apartment; Henry parks in the East 80s to reach it. The book gives no street, though Zuckerman's earlier apartment was on East 81st. Setting years estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Acounterlife00roth%20AND%20%22hopelessly%20estranged%22",
+    "quote": "had moved into the duplex upstairs",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Acounterlife00roth%20AND%20%22found%20a%20garage%22",
+    "quote": "in the East 80s and from a street-corner",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "9cb72b6f8f",
   "home_key": "vinny-dionna-bronx",
   "kind": "story",
@@ -14378,8 +15381,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.810795,
-  "lon": -73.943603,
+  "lat": 40.810941,
+  "lon": -73.943539,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -14447,8 +15450,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.785835,
-  "lon": -73.978074,
+  "lat": 40.786216,
+  "lon": -73.978306,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -14969,8 +15972,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.787171,
-  "lon": -73.972323,
+  "lat": 40.78731,
+  "lon": -73.972342,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -15102,8 +16105,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.813758,
-  "lon": -73.947679,
+  "lat": 40.8138,
+  "lon": -73.947536,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -15181,6 +16184,38 @@
    }
   ],
   "batch": "film"
+ },
+ {
+  "id": "ad422e7619",
+  "home_key": "charlie-paulie-greenwich-village",
+  "kind": "story",
+  "character": "Charlie Moran and Paulie Gibonni",
+  "household": null,
+  "work": "The Pope of Greenwich Village",
+  "medium": "film",
+  "creator": "Stuart Rosenberg",
+  "work_year": 1984,
+  "start": 1984,
+  "end": 1984,
+  "address": "an Italian neighborhood of Greenwich Village",
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village (South Village)",
+  "precision": "neighborhood",
+  "lat": 40.7275,
+  "lon": -74.002,
+  "radius_m": 600,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The two cousins live and scheme in the Italian South Village; the film shot shops on Sullivan Street near West Houston. No source places either man's apartment. The Vincent Patrick novel is not covered here.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Pope_of_Greenwich_Village",
+    "quote": "In an Italian neighborhood of Greenwich Village, cousins Charlie Moran",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "6a928dc653",
@@ -15442,8 +16477,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.732523,
-  "lon": -73.999965,
+  "lat": 40.732743,
+  "lon": -73.999833,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -15592,6 +16627,43 @@
   "batch": "film"
  },
  {
+  "id": "4625d6af81",
+  "home_key": "benji-cooper-west-end-avenue",
+  "kind": "story",
+  "character": "Benji Cooper",
+  "household": "with his parents, brother Reggie and sister Elena",
+  "work": "Sag Harbor",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2009,
+  "start": 1985,
+  "end": 1985,
+  "address": "the city apartment, where we faced West End Avenue; a few blocks from Ninety-eighth off West End",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.7967,
+  "lon": -73.9718,
+  "radius_m": 400,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The Coopers' Manhattan apartment faces West End Avenue, and Benji says a party on 98th Street off West End is a few blocks from his house. No building or cross street is given, so the point is West End Avenue near 98th with a few blocks of slack. The summer house in Sag Harbor is outside the map.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Asagharbor0000whit%20AND%20%22for%20the%20city%22",
+    "quote": "where we faced West End Avenue and teeming",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Asagharbor0000whit%20AND%20%22away%20from%20my%22",
+    "quote": "house, on Ninety- eighth off West End Avenue",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
+ },
+ {
   "id": "1ec5a696df",
   "home_key": "bud-fox-w75th",
   "kind": "exterior",
@@ -15735,8 +16807,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.73415,
-  "lon": -74.005696,
+  "lat": 40.733429,
+  "lon": -74.005774,
   "radius_m": 1000,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -15925,6 +16997,80 @@
    }
   ],
   "batch": "gaps_screen"
+ },
+ {
+  "id": "05e660607a",
+  "home_key": "pamela-street-father-harlem",
+  "kind": "story",
+  "character": "Pamela Street's father",
+  "household": "alone, with the John Henry collection he ran as a museum out of the apartment",
+  "work": "John Henry Days",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2001,
+  "start": 1985,
+  "end": 1996,
+  "address": "her father’s apartment in Harlem, in a brownstone",
+  "borough": "Manhattan",
+  "neighborhood": "Harlem",
+  "precision": "neighborhood",
+  "lat": 40.810816,
+  "lon": -73.949407,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Pamela Street's father kept his John Henry memorabilia as a home museum in his Harlem brownstone apartment until he died; she clears it out before the 1996 festival in West Virginia. No street is given. Years are an estimate. The second quote keeps the archive scan's OCR typo (apdrtment).",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ajohnhenrydaysnov0000whit%20AND%20%22spruce%20up%20the%20brownstone%22",
+    "quote": "people were returning to Harlem, new",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Ajohnhenrydaysnov0000whit%20AND%20%22Saturday%20at%20her%22",
+    "quote": "apdrtment in Harlem. The movers were",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
+ },
+ {
+  "id": "da60cb34cc",
+  "home_key": "rachel-samstat-father-apthorp",
+  "kind": "exterior",
+  "character": "Rachel Samstat",
+  "household": "with her father and her daughter",
+  "work": "Heartburn",
+  "medium": "film",
+  "creator": "Mike Nichols",
+  "work_year": 1986,
+  "start": 1985,
+  "end": 1986,
+  "address": "her father's apartment, the Apthorp, 2211 Broadway",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "screen_exterior",
+  "lat": 40.783752,
+  "lon": -73.980498,
+  "radius_m": 60,
+  "placed_by": "geosearch",
+  "geocode_label": "2211 BROADWAY, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "When Rachel leaves Mark in Washington she takes their daughter to New York and moves in with her father; the film shot his building at the Apthorp, the block-square 1908 apartment house on Broadway between West 78th and 79th Streets, where Nora Ephron herself once lived. The film does not name the building in the story. Ephron wrote the screenplay from her 1983 novel, which gives no address for the father's place.",
+  "sources": [
+   {
+    "url": "https://www.iamnotastalker.com/2016/08/26/the-apthorp-from-funny-farm",
+    "quote": "In the 1986 dramedy Heartburn, Rachel Samstat (Meryl Streep) heads to the home of her father at The Apthorp after finding out that her husband is cheating on her.",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Heartburn_(film)",
+    "quote": "She leaves him and takes their daughter to New York, where she moves in with her father.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_ephron"
  },
  {
   "id": "5d04232467",
@@ -16588,8 +17734,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.811265,
-  "lon": -73.949554,
+  "lat": 40.811534,
+  "lon": -73.949585,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -16620,8 +17766,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.812033,
-  "lon": -73.949532,
+  "lat": 40.812259,
+  "lon": -73.949461,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -16635,6 +17781,43 @@
    }
   ],
   "batch": "books_1960_now"
+ },
+ {
+  "id": "810801a03b",
+  "home_key": "clara-velde-park-avenue",
+  "kind": "story",
+  "character": "Clara Velde",
+  "household": "with her young daughters and their au pair, Gina Wegman",
+  "work": "A Theft",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1989,
+  "start": 1987,
+  "end": 1988,
+  "address": "this vast Park Avenue co-op apartment",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side",
+  "precision": "block_inferred",
+  "lat": 40.771,
+  "lon": -73.9645,
+  "radius_m": 1200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The fashion writer Clara Velde lives in a large Park Avenue co-op on the Upper East Side, where the au pair Gina has her own room. No cross street is given. Setting years estimated.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Atheft0000bell%20AND%20%22decent%20room%22",
+    "quote": "in this vast Park Avenue co-op apartment",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/A_Theft",
+    "quote": "Gina resigns and moves from Clara's Upper East Side apartment to East Harlem",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "01c2d3fa8b",
@@ -16977,6 +18160,43 @@
   "batch": "film"
  },
  {
+  "id": "76c4f1ae54",
+  "home_key": "ronny-cammareri-henry-st",
+  "kind": "story",
+  "character": "Ronny Cammareri",
+  "household": null,
+  "work": "Moonstruck",
+  "medium": "film",
+  "creator": "Norman Jewison",
+  "work_year": 1987,
+  "start": 1987,
+  "end": 1987,
+  "address": "his apartment above the Cammareri Bros. bakery, Henry Street at Sackett Street",
+  "borough": "Brooklyn",
+  "neighborhood": "Carroll Gardens",
+  "precision": "building_in_work",
+  "lat": 40.684098,
+  "lon": -73.999649,
+  "radius_m": 25,
+  "placed_by": "geosearch",
+  "geocode_label": "502 HENRY STREET, Brooklyn, NY, USA",
+  "outside_nyc": false,
+  "notes": "Ronny, the one-handed baker, lives over the family bakery, the real Cammareri Bros. at 502 Henry Street, which closed in 1998. The bakery scenes were shot there; a neighborhood blogger believes the apartment interior was too, with its entrance on Sackett Street, but that is unconfirmed.",
+  "sources": [
+   {
+    "url": "https://doorsixteen.com/2013/07/20/new-york-in-the-movies-moonstruck/",
+    "quote": "In the movie, Ronny’s apartment is above the bakery.",
+    "check": "verified"
+   },
+   {
+    "url": "https://pardonmeforasking.blogspot.com/2012/04/moonstruck-when-cher-walked-into.html",
+    "quote": "The \"Moonstruck\" scene was filmed in the bakery's storefront and in the basement at 502 Henry Street.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "863ccbc4be",
   "home_key": "sherman-mccoy-park-ave-film",
   "kind": "story",
@@ -17078,6 +18298,38 @@
   "batch": "gaps_sitcoms"
  },
  {
+  "id": "a8fa9bf2d6",
+  "home_key": "gina-wegman-east-harlem",
+  "kind": "story",
+  "character": "Gina Wegman",
+  "household": null,
+  "work": "A Theft",
+  "medium": "book",
+  "creator": "Saul Bellow",
+  "work_year": 1989,
+  "start": 1988,
+  "end": 1988,
+  "address": "a building in East Harlem",
+  "borough": "Manhattan",
+  "neighborhood": "East Harlem",
+  "precision": "neighborhood",
+  "lat": 40.7957,
+  "lon": -73.9389,
+  "radius_m": 1200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "After Clara accuses her Haitian boyfriend of stealing the emerald ring, the Austrian au pair Gina quits and moves from the Park Avenue co-op to East Harlem. No street is given.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/A_Theft",
+    "quote": "Gina resigns and moves from Clara's Upper East Side apartment to East Harlem",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "9b0c86329d",
   "home_key": "bubbe-ida-kantor-les",
   "kind": "story",
@@ -17157,8 +18409,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.784691,
-  "lon": -73.975865,
+  "lat": 40.784665,
+  "lon": -73.975313,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -17189,8 +18441,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.809618,
-  "lon": -73.944868,
+  "lat": 40.80975,
+  "lon": -73.944616,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -17689,6 +18941,38 @@
   "batch": "gaps_directors"
  },
  {
+  "id": "10f7513be9",
+  "home_key": "frank-keller-w85th",
+  "kind": "exterior",
+  "character": "Frank Keller",
+  "household": null,
+  "work": "Sea of Love",
+  "medium": "film",
+  "creator": "Harold Becker",
+  "work_year": 1989,
+  "start": 1989,
+  "end": 1989,
+  "address": "85th Street, north of 365 West End Avenue",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.788,
+  "lon": -73.9775,
+  "radius_m": 500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The burned-out homicide detective's apartment was filmed on 85th Street on the West Side, but no source names the building, so the mark is placed near West End Avenue with a wide radius.",
+  "sources": [
+   {
+    "url": "https://movie-locations.com/movies/s/Sea-Of-Love.php",
+    "quote": "Keller lives just to the north on 85th Street, and Cruger even further north at 45 West 89th Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "78eaa4b24e",
   "home_key": "george-west-90th",
   "kind": "story",
@@ -17719,6 +19003,43 @@
    }
   ],
   "batch": "tv"
+ },
+ {
+  "id": "7ade9782e0",
+  "home_key": "helen-cruger-w89th",
+  "kind": "exterior",
+  "character": "Helen Cruger",
+  "household": null,
+  "work": "Sea of Love",
+  "medium": "film",
+  "creator": "Harold Becker",
+  "work_year": 1989,
+  "start": 1989,
+  "end": 1989,
+  "address": "45 West 89th Street, between Columbus Avenue and Central Park West",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "screen_exterior",
+  "lat": 40.788059,
+  "lon": -73.96934,
+  "radius_m": 20,
+  "placed_by": "geosearch",
+  "geocode_label": "45 WEST 89 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The apartment of the suspect Frank Keller falls for, where the killer, her ex-husband, finally turns up. Many interiors were shot in Toronto.",
+  "sources": [
+   {
+    "url": "https://www.onthesetofnewyork.com/seaoflove.html",
+    "quote": "Helen Cruger Apartment, 45 West 89th Street and Central Park West, Manhattan.",
+    "check": "verified"
+   },
+   {
+    "url": "https://movie-locations.com/movies/s/Sea-Of-Love.php",
+    "quote": "Keller lives just to the north on 85th Street, and Cruger even further north at 45 West 89th Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "b1a49a72bc",
@@ -18273,6 +19594,43 @@
   "batch": "film"
  },
  {
+  "id": "e58989ce10",
+  "home_key": "frank-white-plaza",
+  "kind": "story",
+  "character": "Frank White",
+  "household": null,
+  "work": "King of New York",
+  "medium": "film",
+  "creator": "Abel Ferrara",
+  "work_year": 1990,
+  "start": 1990,
+  "end": 1990,
+  "address": "his suite at the top of the Plaza Hotel",
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "precision": "building_in_work",
+  "lat": 40.76446,
+  "lon": -73.97449,
+  "radius_m": 40,
+  "placed_by": "geosearch",
+  "geocode_label": "768 FIFTH AVENUE, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "Out of Sing Sing, the drug lord lives and runs his operation from a suite high in the Plaza Hotel. The film shot in the real hotel, so the story building and the filmed building are the same.",
+  "sources": [
+   {
+    "url": "https://www.denofgeek.com/movies/looking-back-at-king-of-new-york",
+    "quote": "From his opulent retreat at the top of Manhattan’s Plaza Hotel, Frank coordinates a series of similar hits",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/King_of_New_York",
+    "quote": "gave him permission to film at the Plaza Hotel at no charge",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "8b2c75f090",
   "home_key": "hector-christodora",
   "kind": "story",
@@ -18340,6 +19698,43 @@
    }
   ],
   "batch": "gaps_lists_b"
+ },
+ {
+  "id": "e90062a590",
+  "home_key": "terry-noonan-hells-kitchen",
+  "kind": "story",
+  "character": "Terry Noonan",
+  "household": null,
+  "work": "State of Grace",
+  "medium": "film",
+  "creator": "Phil Joanou",
+  "work_year": 1990,
+  "start": 1990,
+  "end": 1990,
+  "address": "Hell's Kitchen",
+  "borough": "Manhattan",
+  "neighborhood": "Hell's Kitchen",
+  "precision": "neighborhood",
+  "lat": 40.761872,
+  "lon": -73.993541,
+  "radius_m": 900,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "An undercover cop comes back to the neighborhood he grew up in, where his friend Jackie Flannery's family runs an Irish gang modeled on the Westies. No building is named for anyone's home.",
+  "sources": [
+   {
+    "url": "https://www.onthesetofnewyork.com/stateofgrace.html",
+    "quote": "Terry Noonan (Sean Penn) returns home to New York's Hells Kitchen after a ten year absence.",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/State_of_Grace_(1990_film)",
+    "quote": "Irish-American Terry Noonan returns to Hell's Kitchen in New York City after a long absence",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "38297d4b87",
@@ -18421,8 +19816,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.734694,
-  "lon": -73.999977,
+  "lat": 40.734765,
+  "lon": -74.000028,
   "radius_m": 900,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -19039,6 +20434,80 @@
   "batch": "gaps_boroughs"
  },
  {
+  "id": "b1675c444a",
+  "home_key": "leon-e97th",
+  "kind": "exterior",
+  "character": "Léon",
+  "household": null,
+  "work": "Léon: The Professional",
+  "medium": "film",
+  "creator": "Luc Besson",
+  "work_year": 1994,
+  "start": 1994,
+  "end": 1994,
+  "address": "71 East 97th Street at Park Avenue",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side (Carnegie Hill)",
+  "precision": "screen_exterior",
+  "lat": 40.787512,
+  "lon": -73.95221,
+  "radius_m": 25,
+  "placed_by": "geosearch",
+  "geocode_label": "71 EAST 97 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "The hitman's apartment is down the hall from Mathilda's family. The 97th Street building was used for exteriors only; the stairwells and corridors were shot inside the Hotel Chelsea on West 23rd Street.",
+  "sources": [
+   {
+    "url": "https://www.onthesetofnewyork.com/leon.html",
+    "quote": "Leon's Apartment, 71 East 97th Street and Park Avenue, Manhattan.",
+    "check": "verified"
+   },
+   {
+    "url": "https://movie-locations.com/movies/l/Leon.php",
+    "quote": "the stairwell and corridors are those of the famous, and unbelievably closed, Hotel Chelsea, 222 West 23rd Street",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
+  "id": "d89243cacf",
+  "home_key": "mathilda-lando-e97th",
+  "kind": "exterior",
+  "character": "Mathilda Lando",
+  "household": "with her father, stepmother, half-sister and little brother",
+  "work": "Léon: The Professional",
+  "medium": "film",
+  "creator": "Luc Besson",
+  "work_year": 1994,
+  "start": 1994,
+  "end": 1994,
+  "address": "71 East 97th Street at Park Avenue",
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side (Carnegie Hill)",
+  "precision": "screen_exterior",
+  "lat": 40.787512,
+  "lon": -73.95221,
+  "radius_m": 25,
+  "placed_by": "geosearch",
+  "geocode_label": "71 EAST 97 STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "Mathilda's family lives down the hall from Léon until corrupt DEA agents kill them. Same exterior as Léon's apartment; interiors were the Hotel Chelsea.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional",
+    "quote": "Léon and Mathilda's apartment building on the northwest corner of E 97th St & Park Ave",
+    "check": "verified"
+   },
+   {
+    "url": "https://movie-locations.com/movies/l/Leon.php",
+    "quote": "The hotel of precocious Mathilda (Natalie Portman), where she loses her family in a savage attack, 71 97th Street at Park Avenue",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "e691b778b4",
   "home_key": "monica-grove-street",
   "kind": "story",
@@ -19108,6 +20577,38 @@
   "batch": "tv"
  },
  {
+  "id": "d0cb10b93e",
+  "home_key": "norman-cowan-central-park-west",
+  "kind": "story",
+  "character": "Norman Cowan",
+  "household": "with his wife Michelle; Mickey Sabbath stays with them",
+  "work": "Sabbath's Theater",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 1995,
+  "start": 1994,
+  "end": 1994,
+  "address": "Norman Cowan's Central Park West apartment",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.779,
+  "lon": -73.974,
+  "radius_m": 1200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Sabbath, back in New York for the first time in nearly thirty years, stays at his old producer Norman Cowan's apartment on Central Park West. No cross street is given; Sabbath's mother's ghost appears to him at Central Park West and West 74th, which may hint at the area, so the point is there with a wide radius.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Asabbathstheater0000roth%20AND%20%22a%20few%20blocks%20from%22",
+    "quote": "Central Park West apartment",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
+ },
+ {
   "id": "a9cc18674a",
   "home_key": "phoebe-morton-street",
   "kind": "story",
@@ -19170,6 +20671,43 @@
    }
   ],
   "batch": "tv"
+ },
+ {
+  "id": "9db3ecdbe8",
+  "home_key": "shapira-family-brighton-beach",
+  "kind": "story",
+  "character": "Reuben Shapira",
+  "household": "with his parents Arkady and Irina; his estranged brother Joshua grew up here",
+  "work": "Little Odessa",
+  "medium": "film",
+  "creator": "James Gray",
+  "work_year": 1994,
+  "start": 1994,
+  "end": 1994,
+  "address": "the family's apartment, Brighton Beach",
+  "borough": "Brooklyn",
+  "neighborhood": "Brighton Beach",
+  "precision": "neighborhood",
+  "lat": 40.5776,
+  "lon": -73.9614,
+  "radius_m": 800,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The Soviet Jewish immigrant family lives in Brighton Beach; Joshua, the hitman son, stays in a hotel when he comes back. No source names the building.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Little_Odessa_(film)",
+    "quote": "reconnects with his estranged Soviet immigrant family in Brooklyn. The title is a reference to Brighton Beach, a Brooklyn community nicknamed",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Little_Odessa_(film)",
+    "quote": "Joshua stands outside his family's apartment, where he is spotted by one of his old friends Sasha",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "3c3163d52f",
@@ -19510,6 +21048,43 @@
    }
   ],
   "batch": "gaps_screen"
+ },
+ {
+  "id": "71c2afe63e",
+  "home_key": "uncle-lloyd-lafayette-street",
+  "kind": "story",
+  "character": "Uncle Lloyd",
+  "household": "visited by his nephew, the young Mark Spitz",
+  "work": "Zone One",
+  "medium": "book",
+  "creator": "Colson Whitehead",
+  "work_year": 2011,
+  "start": 1995,
+  "end": 2005,
+  "address": "downtown on Lafayette, nineteen stories above the street",
+  "borough": "Manhattan",
+  "neighborhood": "Lafayette Street, Lower Manhattan",
+  "precision": "block_inferred",
+  "lat": 40.7214,
+  "lon": -73.9983,
+  "radius_m": 900,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Before the plague, Mark Spitz's uncle has a doorman apartment nineteen floors up on Lafayette Street; the novel gives no number or cross street, and Lafayette runs about a mile from Foley Square to Astor Place. The quote keeps the scan's line-break hyphen. Years are a guess at Mark Spitz's childhood; the book dates nothing.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Azoneone0000whit%20AND%20%22His%20Uncle%20Lloyd%22",
+    "quote": "lived downtown on Lafa- yette",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Azoneone0000whit%20AND%20%22apartment%20hovered%22",
+    "quote": "nineteen stories above the street, a pulsing",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_whitehead"
  },
  {
   "id": "4c2145b0d7",
@@ -20251,6 +21826,80 @@
   "batch": "film"
  },
  {
+  "id": "8f7a13fedc",
+  "home_key": "joe-fox-riverside",
+  "kind": "story",
+  "character": "Joe Fox",
+  "household": "with Patricia Eden",
+  "work": "You've Got Mail",
+  "medium": "film",
+  "creator": "Nora Ephron",
+  "work_year": 1998,
+  "start": 1998,
+  "end": 1998,
+  "address": "152 Riverside Drive (the address on the building's awning)",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "invented",
+  "lat": 40.79079,
+  "lon": -73.97939,
+  "radius_m": 120,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The film puts 152 Riverside Drive on Joe's awning to explain his screen name, NY152, but no building has that number; location guides place it between West 87th and 88th Streets, between the real 140 and 160 Riverside Drive. The building filmed is 210 Riverside Drive at West 93rd Street, a separate exterior record. Joe moves out to his boat after he and Patricia split.",
+  "sources": [
+   {
+    "url": "https://movie-locations.com/movies/y/Youve-Got-Mail.php",
+    "quote": "Ignore the ‘152 Riverside Drive’ address – that’s simply to justify Joe’s online name",
+    "check": "verified"
+   },
+   {
+    "url": "https://whatlarawrote.com/2018/08/19/youve-got-mail-in-new-york-city/",
+    "quote": "Joe’s Apartment – 152 Riverside Drive, Between 87th and 88th Streets",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_ephron"
+ },
+ {
+  "id": "401ad9c5d2",
+  "home_key": "joe-fox-boat-basin",
+  "kind": "story",
+  "character": "Joe Fox",
+  "household": null,
+  "work": "You've Got Mail",
+  "medium": "film",
+  "creator": "Nora Ephron",
+  "work_year": 1998,
+  "start": 1998,
+  "end": 1998,
+  "address": "his boat at the 79th Street Boat Basin, on the Hudson",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.7844,
+  "lon": -73.9859,
+  "radius_m": 150,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "After he breaks up with Patricia, Joe moves onto the family's boat, moored at the city-run 79th Street Boat Basin at the foot of West 79th Street. The marina is shown on screen and was filmed there; it is not named in dialogue, so the placement is the location guides' identification. The mark covers the marina, not a slip.",
+  "sources": [
+   {
+    "url": "https://movie-locations.com/movies/y/Youve-Got-Mail.php",
+    "quote": "he moves out to live on the water at the 79th Street Boat Basin, 79th Street at the Hudson River",
+    "check": "verified"
+   },
+   {
+    "url": "https://lindsey-messenger.squarespace.com/blog-posts/2017/3/13/youve-got-mail-guide-to-nyc",
+    "quote": "After Joe decides to leave Patricia, he moves onto his boat which is parked on the Hudson at 79th Street.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_ephron"
+ },
+ {
   "id": "bc3679a29a",
   "home_key": "kathleen-kelly-w89th",
   "kind": "exterior",
@@ -20283,6 +21932,43 @@
   "batch": "film"
  },
  {
+  "id": "53aad8d467",
+  "home_key": "kathleen-kelly-w89th",
+  "kind": "story",
+  "character": "Kathleen Kelly",
+  "household": "with Frank Navasky",
+  "work": "You've Got Mail",
+  "medium": "film",
+  "creator": "Nora Ephron",
+  "work_year": 1998,
+  "start": 1998,
+  "end": 1998,
+  "address": "an Upper West Side apartment",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "neighborhood",
+  "lat": 40.78484,
+  "lon": -73.976574,
+  "radius_m": 1500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The film gives Kathleen no street address; she and Joe are neighbors on the Upper West Side who cross paths at the same Starbucks, Zabar's and Verdi Square. The brownstone shown is 328 West 89th Street, a separate exterior record.",
+  "sources": [
+   {
+    "url": "https://www.buzzfeed.com/jaimieetkin/youve-got-mail-guide-to-new-york",
+    "quote": "As two Upper West Side dwellers, Kathleen and Joe often crossed paths, even before they knew each other.",
+    "check": "verified"
+   },
+   {
+    "url": "https://www.brickunderground.com/blog/2015/02/reel_estate_youve_got_mail",
+    "quote": "Kathleen lives in the kind of dreamy, shabby-chic Upper West Side pad that befits the heroine of a Nora Ephron movie",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_ephron"
+ },
+ {
   "id": "a50004da40",
   "home_key": "miracles-boys-harlem",
   "kind": "story",
@@ -20298,8 +21984,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.810532,
-  "lon": -73.949245,
+  "lat": 40.810174,
+  "lon": -73.948944,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -20399,7 +22085,7 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.786829,
+  "lat": 40.787178,
   "lon": -73.978476,
   "radius_m": 1500,
   "placed_by": "approx",
@@ -21207,8 +22893,8 @@
   "borough": "Manhattan",
   "neighborhood": "East Harlem",
   "precision": "neighborhood",
-  "lat": 40.7957,
-  "lon": -73.9389,
+  "lat": 40.797628,
+  "lon": -73.937158,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -21276,8 +22962,8 @@
   "borough": "Manhattan",
   "neighborhood": "Greenwich Village",
   "precision": "neighborhood",
-  "lat": 40.731283,
-  "lon": -74.002316,
+  "lat": 40.731367,
+  "lon": -74.001796,
   "radius_m": 800,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -21626,8 +23312,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.785072,
-  "lon": -73.977142,
+  "lat": 40.785389,
+  "lon": -73.977633,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -21764,8 +23450,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.788165,
-  "lon": -73.972726,
+  "lat": 40.788225,
+  "lon": -73.972773,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -21978,6 +23664,43 @@
   "batch": "gaps_directors"
  },
  {
+  "id": "b7b984c5c7",
+  "home_key": "nathan-ingram-loft",
+  "kind": "exterior",
+  "character": "Nathan Ingram",
+  "household": "later his son Will",
+  "work": "Person of Interest",
+  "medium": "tv",
+  "creator": "Jonathan Nolan",
+  "work_year": 2011,
+  "start": 2002,
+  "end": 2010,
+  "address": "214 Lafayette Street",
+  "borough": "Manhattan",
+  "neighborhood": "SoHo / Nolita",
+  "precision": "screen_exterior",
+  "lat": 40.721884,
+  "lon": -73.997891,
+  "radius_m": 20,
+  "placed_by": "geosearch",
+  "geocode_label": "214 LAFAYETTE STREET, New York, NY, USA",
+  "outside_nyc": false,
+  "notes": "Finch's late partner moved into this loft with an indoor pool after his divorce; his son Will inherits it. The show gives no story address; the scenes were filmed in the real townhouse, a former Con Edison station. Setting years are estimated: Nathan dies in 2010.",
+  "sources": [
+   {
+    "url": "https://personofinterest.fandom.com/wiki/Ingram%27s_Loft",
+    "quote": "Located at 214 Lafayette St., the building is a five-story townhouse with an indoor pool",
+    "check": "verified"
+   },
+   {
+    "url": "https://personofinterest.fandom.com/wiki/Ingram%27s_Loft",
+    "quote": "The loft is where Nathan Ingram moved after his divorce.",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
+ },
+ {
   "id": "eb08d8269a",
   "home_key": "norman-osborn-tudor-city",
   "kind": "exterior",
@@ -22131,8 +23854,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "invented",
-  "lat": 40.785285,
-  "lon": -73.973306,
+  "lat": 40.785487,
+  "lon": -73.97305,
   "radius_m": 1200,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -22454,6 +24177,43 @@
    }
   ],
   "batch": "film"
+ },
+ {
+  "id": "0e7e9fbe51",
+  "home_key": "billy-davidoff-jamie-logan-w71st",
+  "kind": "story",
+  "character": "Billy Davidoff and Jamie Logan",
+  "household": null,
+  "work": "Exit Ghost",
+  "medium": "book",
+  "creator": "Philip Roth",
+  "work_year": 2007,
+  "start": 2004,
+  "end": 2004,
+  "address": "apartment 6B, top floor of a small six-story white-brick building on West 71st Street, across from a little Lutheran church",
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "precision": "block_inferred",
+  "lat": 40.777912,
+  "lon": -73.982096,
+  "radius_m": 500,
+  "placed_by": "osm-corner",
+  "geocode_label": "West 71st Street and Amsterdam Avenue (OpenStreetMap)",
+  "outside_nyc": false,
+  "notes": "The young couple's three-room apartment, which Zuckerman agrees to take in a house swap in October 2004 before fleeing back to the Berkshires without moving in. The novel names the street and a Lutheran church opposite but no house number or avenue, so the point is mid-street.",
+  "sources": [
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aexitghost0000roth_v1i7%20AND%20%22little%20Lutheran%20church%22",
+    "quote": "on West 71st Street, while Jamie escaped",
+    "check": "verified"
+   },
+   {
+    "url": "https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier%3Aexitghost0000roth_v1i7%20AND%20%22elevator%20of%20the%20small%22",
+    "quote": "six-story white-brick apartment building",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_bellow_roth"
  },
  {
   "id": "c73a17f248",
@@ -23762,8 +25522,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.809324,
-  "lon": -73.945806,
+  "lat": 40.8094,
+  "lon": -73.945464,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -24129,8 +25889,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.812995,
-  "lon": -73.944025,
+  "lat": 40.813026,
+  "lon": -73.944056,
   "radius_m": 1300,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -25277,8 +27037,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.789233,
-  "lon": -73.976305,
+  "lat": 40.78927,
+  "lon": -73.976127,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -25410,8 +27170,8 @@
   "borough": "Manhattan",
   "neighborhood": "Upper West Side",
   "precision": "neighborhood",
-  "lat": 40.788715,
-  "lon": -73.977495,
+  "lat": 40.78885,
+  "lon": -73.977283,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -25654,6 +27414,38 @@
    }
   ],
   "batch": "tv"
+ },
+ {
+  "id": "675bcad32f",
+  "home_key": "john-reese-loft",
+  "kind": "story",
+  "character": "John Reese",
+  "household": null,
+  "work": "Person of Interest",
+  "medium": "tv",
+  "creator": "Jonathan Nolan",
+  "work_year": 2011,
+  "start": 2012,
+  "end": 2016,
+  "address": "810 Baxter St., facing Columbus Park",
+  "borough": "Manhattan",
+  "neighborhood": "Chinatown",
+  "precision": "invented",
+  "lat": 40.716,
+  "lon": -73.9995,
+  "radius_m": 150,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Finch gives Reese the loft for his birthday in 2012. Baxter Street's numbers run nowhere near 810, so the number is invented; the mark sits on Baxter Street across from Columbus Park, as the show says.",
+  "sources": [
+   {
+    "url": "https://personofinterest.fandom.com/wiki/Reese%27s_Loft",
+    "quote": "Located at 810 Baxter St., it faces Columbus Park, where Reese occasionally plays xiangqi",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_crime"
  },
  {
   "id": "724b3ae192",
@@ -26804,8 +28596,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.813931,
-  "lon": -73.946689,
+  "lat": 40.813935,
+  "lon": -73.946587,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",
@@ -27363,8 +29155,8 @@
   "borough": "Manhattan",
   "neighborhood": "Harlem",
   "precision": "neighborhood",
-  "lat": 40.810127,
-  "lon": -73.944106,
+  "lat": 40.810281,
+  "lon": -73.943953,
   "radius_m": 1500,
   "placed_by": "approx",
   "geocode_label": "placed by hand",

@@ -69,5 +69,11 @@
   "approx_lon": -73.962418,
   "radius_m": 60,
   "precision": "address_in_work"
+ },
+ "8a18907a32": {
+  "geocode_query": null,
+  "approx_lat": 40.7985,
+  "approx_lon": -73.9433,
+  "radius_m": 150
  }
 }
