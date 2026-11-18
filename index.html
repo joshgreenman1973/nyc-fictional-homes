@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fictional New Yorkers at home</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23111311'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23f2c14e'/%3E%3C/svg%3E">
+<meta name="description" content="A map of where characters from novels, plays, films, television and comics lived in New York City, with every address cited and graded for how precise it is.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Karla:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<link rel="stylesheet" href="house.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="sheet">
+  <div class="strip">
+    <span>Novels, plays, films, television and comics, each address cited to a source</span>
+    <span id="span-years"></span>
+  </div>
+
+  <header class="head">
+    <h1>Fictional New Yorkers at home</h1>
+    <p class="finding" id="finding"></p>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <section class="fig" aria-label="Fictional residents by decade">
+    <div class="figcap">
+      <span>Fictional households living in the city, by the decade the story puts them there. Pick a decade to see who was in town.</span>
+      <span class="keys" id="media-keys"></span>
+    </div>
+    <div id="decades" class="decades"></div>
+    <div class="readout" id="readout"></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search a character, a work, a street or a neighborhood" autocomplete="off">
+    <span class="chips" id="media-chips" role="group" aria-label="Medium"></span>
+    <button class="chip" id="all-years" aria-pressed="true">All years</button>
+  </div>
+
+  <div class="cols">
+    <div class="col mapcol">
+      <div id="map" role="region" aria-label="Map of fictional homes"></div>
+      <div class="marks" id="marks"></div>
+    </div>
+    <div class="col">
+      <div class="colhead"><span id="count"></span><span>Sorted by when they lived there</span></div>
+      <div id="list" class="listwrap"></div>
+    </div>
+  </div>
+
+  <section class="sec gal" aria-label="The homes in pictures">
+    <div class="galhead">
+      <h2>At home</h2>
+      <span id="gal-count"></span>
+    </div>
+    <p class="aside">Each card pairs the work with the quotation that places the home. Where a freely licensed photograph of the real building exists, it sits in the corner. The gallery follows the decade, medium and search picked above.</p>
+    <div id="gallery" class="gallery"></div>
+    <button class="chip" id="gal-more">Show every home, pictures or not</button>
+  </section>
+
+  <section class="sec method" id="method">
+    <h2>How the addresses were found and graded</h2>
+    <div class="split">
+      <div>
+        <p>Every home on this map comes with a source you can open and a short quotation from it that supports the location. Where a work is in the public domain, the quotation is from the work itself. Otherwise it comes from the publisher, the creator, an encyclopedia entry, a script service or a press account. Homes that could not be backed up this way were left off.</p>
+        <p>The map covers the five boroughs only. Gatsby's West Egg, the Long Island and Westchester suburbs and New Jersey are out, which is why the Barones of Everybody Loves Raymond (Lynbrook) and the Petries of The Dick Van Dyke Show (New Rochelle) are not here. So are real people, even when a novel or film fictionalizes them under their own names. A home means where someone lived: a flat, a house, a boarding house, a hotel suite they kept, a museum they hid in. Workplaces and one-night scenes are not counted.</p>
+        <p>Addresses were matched to the map with the city planning department's free address search and, for street corners and named buildings, OpenStreetMap. Each point was then checked against borough boundaries, and anything that landed in the wrong borough was fixed by hand.</p>
+      </div>
+      <div>
+        <p><b>How precise each mark is.</b> The shape of each mark says how much the source actually pins down.</p>
+        <div id="prec-legend" class="prec-legend"></div>
+        <p class="caution">Manhattan renumbered some streets in the 19th century, and many of the buildings named here are gone. A point marks where an address falls on today's map. It is not a claim that the building still stands.</p>
+        <p>Television and film often give a home one address and show a different building, sometimes one in Los Angeles. Where both are known, the map draws both and connects them with a thin line.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, basemap © <a href="https://carto.com/attributions">CARTO</a>. Geocoding: <a href="https://geosearch.planninglabs.nyc/">NYC GeoSearch</a> and <a href="https://nominatim.openstreetmap.org/">Nominatim</a>. Corrections and additions welcome. The data is in <a href="data/homes.json">homes.json</a>.
+  </footer>
+</div>
+
+<div class="drawer" id="drawer" aria-hidden="true">
+  <div class="scrim" data-close></div>
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="d-title">
+    <div class="dhead">
+      <div><div class="lbl" id="d-lbl"></div><h2 id="d-title"></h2></div>
+      <button class="xbtn" data-close aria-label="Close">×</button>
+    </div>
+    <div class="dbody" id="d-body"></div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

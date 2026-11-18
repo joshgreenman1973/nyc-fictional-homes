@@ -1,0 +1,2250 @@
+{
+ "works": {
+  "Satanstoe|book": {},
+  "The Story of a New York House|book": {},
+  "A History of New York|book": {
+   "wiki": "https://en.wikipedia.org/wiki/A_History_of_New_York",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_History_of_New_York.png/500px-A_History_of_New_York.png"
+  },
+  "Washington Square|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Washington_Square_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/James_Washington_Square_cover.JPG/500px-James_Washington_Square_cover.JPG"
+  },
+  "Old New York: The Old Maid|book": {},
+  "Old New York: False Dawn|book": {},
+  "Bartleby, the Scrivener: A Story of Wall-Street|book": {},
+  "The Heiress|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Heiress_(1947_play)"
+  },
+  "Pierre; or, The Ambiguities|book": {},
+  "The Diamond Lens|book": {},
+  "What Was It? A Mystery|book": {},
+  "Paradise Alley|book": {},
+  "Ragged Dick|book": {},
+  "Mark, the Match Boy|book": {},
+  "Mark, the Match Boy (looking back to Fame and Fortune)|book": {},
+  "Rough and Ready|book": {},
+  "Ben, the Luggage Boy|book": {},
+  "Old New York: New Year's Day|book": {},
+  "The Age of Innocence|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Age_of_Innocence_(1993_film)",
+   "still": "https://image.tmdb.org/t/p/w780/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10436",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Age_Of_Innocence.jpg"
+  },
+  "The Virgin Cure|book": {},
+  "Bunner Sisters|book": {},
+  "The Age of Innocence|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Age_of_Innocence",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Age_of_Innocence_%281st_ed_dust_jacket%29.jpg"
+  },
+  "The Bostonians|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Bostonians",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/86/TheBostonians.jpg"
+  },
+  "The Imported Bridegroom|book": {},
+  "The Fountainhead|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Fountainhead",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg/500px-The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg"
+  },
+  "Old New York: The Spark|book": {},
+  "Maggie: A Girl of the Streets|book": {},
+  "The Gilded Age|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Gilded_Age_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Title_screen_of_The_Gilded_Age_on_HBO.jpg"
+  },
+  "Time and Again|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Time_and_Again_(Finney_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/03/Time_and_Again.jpg"
+  },
+  "An American Tail|film": {
+   "wiki": "https://en.wikipedia.org/wiki/An_American_Tail",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/ba/An_American_Tail_poster.jpg"
+  },
+  "A Hazard of New Fortunes|book": {},
+  "Sister Carrie|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Sister_Carrie",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sister.carrie.cover.jpg"
+  },
+  "Colonel Carter of Cartersville|book": {},
+  "The Rise of David Levinsky|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Rise_of_David_Levinsky"
+  },
+  "Roller Skates|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Roller_Skates",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Roller_Skates_Ruth_Sawyer.jpg"
+  },
+  "To Paradise|book": {
+   "wiki": "https://en.wikipedia.org/wiki/To_Paradise",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Cover_of_To_Paradise.jpg"
+  },
+  "The \"Genius\"|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_%22Genius%22_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_%22Genius%22_by_Theodore_Dreiser%2C_cover.jpg"
+  },
+  "Yekl: A Tale of the New York Ghetto|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Yekl%3A_A_Tale_of_the_New_York_Ghetto",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Yekl_Title_Page.png"
+  },
+  "A Sweat-Shop Romance|book": {},
+  "A Ghetto Wedding|book": {},
+  "Circumstances|book": {},
+  "The Alienist|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Alienist",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Alienist-thumb.jpg"
+  },
+  "Manhattan Transfer|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ManhattanTransfer.jpg/500px-ManhattanTransfer.jpg"
+  },
+  "The Angel of Darkness|book": {},
+  "The Golem and the Jinni|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Golem_and_the_Jinni",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Golem_and_the_Jinni_book_cover.jpg"
+  },
+  "Newsies|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Newsies_(musical)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Newsies_%28musical%29_poster.jpg"
+  },
+  "Coming, Aphrodite!|book": {},
+  "There Is Confusion|book": {},
+  "Humoresque|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Humoresque_(1946_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/67/Humoresquedvdcover.gif"
+  },
+  "Susan Lenox: Her Fall and Rise|book": {},
+  "A Tree Grows in Brooklyn|book": {
+   "wiki": "https://en.wikipedia.org/wiki/A_Tree_Grows_in_Brooklyn_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e6/TreeGrowsInBrooklyn.jpg"
+  },
+  "The House of Mirth|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_House_of_Mirth",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_House_of_Mirth-FirstEdition.JPG"
+  },
+  "The Cop and the Anthem|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Cop_and_the_Anthem"
+  },
+  "The Furnished Room|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Furnished_Room"
+  },
+  "Intimate Apparel|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Intimate_Apparel_(play)"
+  },
+  "Patty in the City|book": {},
+  "The Custom of the Country|book": {},
+  "Bread Givers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Bread_Givers",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/46/BreadGiversNovel.jpg"
+  },
+  "The Last Leaf|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Last_Leaf"
+  },
+  "The Jolly Corner|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Jolly_Corner"
+  },
+  "The Count and the Wedding Guest|book": {},
+  "Ragtime|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Ragtime_(musical)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Ragtime_%28musical%29_%28cast_recording_-_cover_art%29.jpg"
+  },
+  "The Social Triangle|book": {},
+  "Ragtime|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Ragtime_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f5/RagtimeDoctrorowHardcover.jpg"
+  },
+  "The Guilty Party|book": {},
+  "Psmith, Journalist|book": {},
+  "Schools and Schools|book": {},
+  "Call It Sleep|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Call_It_Sleep",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6a/CallItSleep.JPG"
+  },
+  "The Lions of Fifth Avenue|book": {},
+  "The Iceman Cometh|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Iceman_Cometh"
+  },
+  "All-of-a-Kind Family|book": {
+   "wiki": "https://en.wikipedia.org/wiki/All-of-a-Kind_Family",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/12/All-of-a-Kind-Family-Cover.jpg"
+  },
+  "The Beautiful and Damned|book": {},
+  "Meet Rebecca (American Girl: Rebecca Rubin)|book": {},
+  "Winter's Tale|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Winter's_Tale_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/51/MarkHelprin_WintersTale.jpg"
+  },
+  "Leave It to Jeeves (in My Man Jeeves)|book": {},
+  "Piccadilly Jim|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Piccadilly_Jim",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/PiccadillyJim.jpg/500px-PiccadillyJim.jpg"
+  },
+  "All-of-a-Kind Family Uptown|book": {},
+  "The Godfather Part II|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+   "still": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/240",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg"
+  },
+  "The Fat of the Land (in Hungry Hearts)|book": {},
+  "The Haunted Bookshop|book": {},
+  "Home to Harlem|book": {},
+  "This Side of Paradise|book": {
+   "wiki": "https://en.wikipedia.org/wiki/This_Side_of_Paradise",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/This_Side_of_Paradise_Cover_1920_Retouched.jpg/500px-This_Side_of_Paradise_Cover_1920_Retouched.jpg"
+  },
+  "Captain America Comics|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Captain_America_Comics",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Captain_America_Comics-1_%28March_1941_Timely_Comics%29.jpg"
+  },
+  "The Great Gatsby|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/250px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+  },
+  "Plum Bun|book": {},
+  "Of Time and the River|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Of_Time_and_the_River",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3b/OfTimeAndTheRiver.jpg"
+  },
+  "Ex-Wife|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Ex-Wife_(Ursula_Parrott)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ex-Wife.png"
+  },
+  "The Blacker the Berry|book": {},
+  "Quicksand|book": {},
+  "Dave at Night|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Dave_at_Night",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Dave_at_Night_%28novel%29.jpg"
+  },
+  "The Diviners|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Diviners",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/23/Margaret_Laurence._The_Diviners.jpg"
+  },
+  "Jazz|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Jazz_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e2/Jazz_%28novel%29.jpg"
+  },
+  "The Benson Murder Case|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Benson_Murder_Case",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TheBensonMurderCase.jpg"
+  },
+  "The Walls of Jericho|book": {},
+  "Passing|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Passing_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Passing_%28Nella_Larsen%29.png"
+  },
+  "Tell Me How Long the Train's Been Gone|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Tell_Me_How_Long_the_Train's_Been_Gone",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/65/TellMeHowLongTheTrainsBeenGone.jpg"
+  },
+  "The Roman Hat Mystery|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Roman_Hat_Mystery",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Theromanhatcover.jpg"
+  },
+  "The Fortunate Pilgrim|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Fortunate_Pilgrim",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Fortunate_pilgrim_novel.jpg"
+  },
+  "Auntie Mame|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Auntie_Mame_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/kCFkOwAQFMZ7YhldEpvNZzWLCCv.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/uH810rwkYEbUaV6IlwTaAExbXUm.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/16347",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Auntie_Mame_Poster.jpg"
+  },
+  "Mame|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Mame_(musical)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b3/MamePoster.jpg"
+  },
+  "Street Scene|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Street_Scene_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Street_Scene_%281929%29_title_page.jpg/500px-Street_Scene_%281929%29_title_page.jpg"
+  },
+  "A Contract with God|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/A_Contract_with_God",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/43/A_Contract_with_God_-_Baronet_trade_paper.jpg"
+  },
+  "A Life Force|comics": {},
+  "Closing Time|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Closing_Time_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d4/Closing_Time_%28Joseph_Heller_novel%29.jpg"
+  },
+  "World's Fair|book": {
+   "wiki": "https://en.wikipedia.org/wiki/World's_Fair_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f7/World%27s_Fair_%28book_cover%29.jpg"
+  },
+  "Annie|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Annie_(musical)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Annie_Musical_Poster.jpg"
+  },
+  "Marjorie Morningstar|book": {},
+  "Manhattan Beach|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Manhattan_Beach_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/59/Manhattan_Beach_-_bookcover.jpg"
+  },
+  "Nero Wolfe novels and stories (from Fer-de-Lance)|book": {},
+  "Awake and Sing!|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Awake_and_Sing!",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/21/Awake_and_Sing%21_Playbill.jpg"
+  },
+  "Billy Bathgate|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Billy_Bathgate",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/64/BillyBathgate.jpg"
+  },
+  "Dead End|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Dead_End_(play)"
+  },
+  "My Man Godfrey|film": {
+   "wiki": "https://en.wikipedia.org/wiki/My_Man_Godfrey",
+   "still": "https://image.tmdb.org/t/p/w780/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/13562",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/My_Man_Godfrey_%281936_poster_-_Style_C%29.jpg/500px-My_Man_Godfrey_%281936_poster_-_Style_C%29.jpg"
+  },
+  "Go Tell It on the Mountain|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Go_Tell_It_on_the_Mountain_%281953%29_front_cover%2C_first_edition.jpg/500px-Go_Tell_It_on_the_Mountain_%281953%29_front_cover%2C_first_edition.jpg"
+  },
+  "Another Country|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Another_Country_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5a/AnotherCountry.JPG"
+  },
+  "Wonderful Town|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Wonderful_Town",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rosalind-Russell-Illustration-TIME-1953.jpg/500px-Rosalind-Russell-Illustration-TIME-1953.jpg"
+  },
+  "You Can't Take It with You|theater": {},
+  "Brighton Beach Memoirs|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Brighton_Beach_Memoirs",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f7/BrightonBeachMemoirs.jpg"
+  },
+  "Dead End|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Dead_End_(1937_film)",
+   "still": "https://image.tmdb.org/t/p/w780/4q7kVPAgX8tgRvG99JrWdgo5FLK.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5ZYJY5qZOj7dPfjSdnM7gFk2Ch0.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/27973",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/22/DeadEnd.png"
+  },
+  "Trust|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Trust_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/75/Trust_novel.jpg"
+  },
+  "Radio Days|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Radio_Days",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/1f/RadioDaysPoster.jpg"
+  },
+  "Broken Glass|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Broken_Glass_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Arthur_Miller%27s_Broken_Glass.jpg"
+  },
+  "Tar Beach|book": {},
+  "The Amazing Adventures of Kavalier & Clay|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ed/Amazingadventuresbook.jpg"
+  },
+  "Brown Girl, Brownstones|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Brown_Girl%2C_Brownstones",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/19/Marshall_brown_girl.jpg"
+  },
+  "Annie Hall|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Annie_Hall",
+   "still": "https://image.tmdb.org/t/p/w780/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/703",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg"
+  },
+  "Dissident Gardens|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Dissident_Gardens",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/05/Jonathan_Lethem%2C_Dissident_Gardens%2C_cover.jpg"
+  },
+  "Invisible Man|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Invisible_Man",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Invisible_Man_%281952_1st_ed_jacket_cover%29.jpg/500px-Invisible_Man_%281952_1st_ed_jacket_cover%29.jpg"
+  },
+  "Arsenic and Old Lace|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Arsenic_and_Old_Lace_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/52/Arsenic-and-Old-Lace-1941-FE.jpg"
+  },
+  "Laura|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Laura_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0e/LauraNovel.jpg"
+  },
+  "Breakfast at Tiffany's|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(novella)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Breakfast_at_Tiffany%27s_%281958%29_1st_edition_front_cover.jpg"
+  },
+  "Our House in the Last World|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Oscar_Hijuelos",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hijuelos.jpg"
+  },
+  "Lily's Crossing|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Lily's_Crossing",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3e/Giff_Lily%27s_Crossing_cover.jpg"
+  },
+  "The Street|book": {},
+  "The Chosen|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Chosen_(Potok_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/49/ChaimPotok_TheChosen.jpg"
+  },
+  "Summer Crossing|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Summer_Crossing",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f1/Summer_Crossing_Small.JPG"
+  },
+  "Stuart Little|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Stuart_Little",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0b/StuartLittle.jpg"
+  },
+  "Street Scene (opera)|theater": {},
+  "Miracle on 34th Street|film": {
+   "still": "https://image.tmdb.org/t/p/w780/rSnMQ82mFlpBLRt2UvohO6sgemd.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/11881"
+  },
+  "Ghosts (The New York Trilogy)|book": {},
+  "Sophie's Choice|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Sophie's_Choice_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/15764",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/47/Sophie%27s_Choice1.jpg"
+  },
+  "Sophie's Choice|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Sophie's_Choice_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/eb/SophiesChoice.jpg"
+  },
+  "The Bonfire of the Vanities|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bonfirewolf.jpg"
+  },
+  "The Mambo Kings Play Songs of Love|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Mambo_Kings_Play_Songs_of_Love",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Mambokingsplaysongsoflove.jpg"
+  },
+  "Broadway Bound|theater": {},
+  "Enemies, A Love Story|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Enemies%2C_A_Love_Story",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/48/Enemiesalovestorycover.jpg"
+  },
+  "The Catcher in the Rye|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/500px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+  },
+  "Someone|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Someone_(McDermott_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/97/Someone_%28book%29.jpg"
+  },
+  "The Goldbergs|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Goldbergs_(radio_series)",
+   "still": "https://image.tmdb.org/t/p/w780/yLSiExHukav0gFshgzOx2980W9Y.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/f389aPM586V6N55gSNM6DUuQbxU.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/11109",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b8/TheGoldbergs.jpg"
+  },
+  "Death of a Salesman|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Death_of_a_Salesman",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/20/DeathOfASalesman.jpg"
+  },
+  "My Name Is Asher Lev|book": {
+   "wiki": "https://en.wikipedia.org/wiki/My_Name_Is_Asher_Lev",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Asherlev_cover.jpg"
+  },
+  "Camilla Dickinson|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Camilla_Dickinson",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/cc/Cover_art_of_1951_first_edition_of_novel_%22Camilla_Dickinson%22_by_Madeleine_L%27Engle.jpg"
+  },
+  "Wonder Wheel|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Wonder_Wheel_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wonderwheelfilmposter.jpg"
+  },
+  "Crumbs from the Table of Joy|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Crumbs_from_the_Table_of_Joy"
+  },
+  "The Price of Salt|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Price_of_Salt",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cover_of_The_Price_Of_Salt_by_Claire_Morgan_-_Illustration_by_Barye_Phillips_-_Bantam-1148_1953.jpg"
+  },
+  "Brooklyn|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Brooklyn_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/67/Brooklyn_Colm_Toibin.jpg"
+  },
+  "I Love Lucy|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/I_Love_Lucy",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/I_Love_Lucy_title.svg",
+   "still": "https://image.tmdb.org/t/p/w780/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/2730"
+  },
+  "Underworld|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Underworld_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Underworld.jpeg"
+  },
+  "The Honeymooners|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Honeymooners",
+   "still": "https://image.tmdb.org/t/p/w780/p7I2J46QEqSYRDLWgDGvJ79TUU4.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/vBXD45yVIjvucXAwes8vu7SqgSy.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4439",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Honeymooners_title_screen.png"
+  },
+  "Brooklyn|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Brooklyn_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Brooklyn_FilmPoster.jpg"
+  },
+  "The Bell Jar|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Bell_Jar",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/80/Belljarfirstedition.jpg"
+  },
+  "How to Marry a Millionaire|film": {
+   "wiki": "https://en.wikipedia.org/wiki/How_to_Marry_a_Millionaire",
+   "still": "https://image.tmdb.org/t/p/w780/pkOgOztKdFadcarmNZwrOcNHrdq.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/dFwefYyEOOZaWVn15xGY6CbYYJ2.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10297",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/How_to_marry_a_millionaire_1953_poster.jpg/500px-How_to_marry_a_millionaire_1953_poster.jpg"
+  },
+  "Rear Window|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Rear_Window",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rear_Window_film_poster.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/5bN06p5OwRUEqcfrtNs5egV16yb.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/567"
+  },
+  "The Seven Year Itch|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Seven_Year_Itch",
+   "still": "https://image.tmdb.org/t/p/w780/o1rW0pM3nxyY6YKl0bQVXbEqKHt.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10653",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Seven_Year_Itch.png"
+  },
+  "The Last Angry Man|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Last_Angry_Man",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c2/LastAngryManPoster.jpg"
+  },
+  "A View from the Bridge|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/A_View_from_the_Bridge",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3c/A_View_from_the_Bridge_cover.jpg"
+  },
+  "Eloise|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Eloise_(books)",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Eloise_Logo.svg/500px-Eloise_Logo.svg.png"
+  },
+  "Marty|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Marty_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Marty_%281955_film_poster%29.jpg/500px-Marty_%281955_film_poster%29.jpg"
+  },
+  "Seize the Day|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Seize_the_Day_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f4/SeizeTheDay.JPG"
+  },
+  "Franny and Zooey|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Franny_and_Zooey",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Franny_and_Zooey_book_cover.jpg"
+  },
+  "Last Exit to Brooklyn|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Last_Exit_to_Brooklyn",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ee/LastExitToBrooklyn.JPG"
+  },
+  "the Harlem Detective novels|book": {},
+  "Sweet Smell of Success|film": {
+   "still": "https://image.tmdb.org/t/p/w780/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/976"
+  },
+  "West Side Story|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/West_Side_Story",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6a/West_Side_001.jpg"
+  },
+  "The Marvelous Mrs. Maisel|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
+   "still": "https://image.tmdb.org/t/p/w780/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/zS7fQiOZiKCVH2vlYSiIsFWW8hh.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/70796",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Marvelous_Mrs._Maisel.svg/250px-The_Marvelous_Mrs._Maisel.svg.png"
+  },
+  "The Apartment|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Apartment",
+   "still": "https://image.tmdb.org/t/p/w780/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/284",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Apartment_%281960_poster%29.jpg/500px-The_Apartment_%281960_poster%29.jpg"
+  },
+  "The Dark Tower II: The Drawing of the Three|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Dark_Tower_II%3A_The_Drawing_of_the_Three",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_Drawing_of_the_Three.jpg"
+  },
+  "The Zoo Story|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Zoo_Story",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zoo-story-kufa-betz_19.JPG/500px-Zoo-story-kufa-betz_19.JPG"
+  },
+  "Harlem Shuffle|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Harlem_Shuffle_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/72/Harlem_Shuffle_%28Colson_Whitehead%29.png"
+  },
+  "A Bronx Tale|film": {
+   "wiki": "https://en.wikipedia.org/wiki/A_Bronx_Tale",
+   "still": "https://image.tmdb.org/t/p/w780/ggzzn1Hf4zBz1VVywpQhGtDxKtA.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/7Obzc6svsHSR1za0LqzkpwFsEhw.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/1607",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3e/A_Bronx_Tale.jpg"
+  },
+  "The Cricket in Times Square|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Cricket_in_Times_Square",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Cricket_in_Times_Square_Cover.jpeg"
+  },
+  "The Golden Spur|book": {},
+  "Breakfast at Tiffany's|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/164",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Breakfast_at_Tiffany%27s_%281961_poster%29.jpg/500px-Breakfast_at_Tiffany%27s_%281961_poster%29.jpg"
+  },
+  "Mad Men|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Mad_Men",
+   "still": "https://image.tmdb.org/t/p/w780/A5lVyejMsP5G7rAJBwU9ug3Wzou.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1104",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/33/Mad-men-title-card.jpg"
+  },
+  "My Sister Eileen|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/My_Sister_Eileen_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f2/My_Sister_Eileen_title_card.PNG"
+  },
+  "Inside Llewyn Davis|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Inside_Llewyn_Davis",
+   "still": "https://image.tmdb.org/t/p/w780/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/cjiE3mMvDSYqVBh1iTmPs3RNY3x.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/86829",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/df/Inside_Llewyn_Davis_Poster.jpg"
+  },
+  "Come Blow Your Horn|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Come_Blow_Your_Horn",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/86/Image-Comeblowyourhorn.jpg"
+  },
+  "Fantastic Four|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Fantastic_Four",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Fantastic_Four_%28Marvel_Comics_characters%29.jpg"
+  },
+  "Top Cat|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Top_Cat",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Top_Cat_%28Hanna-Barbera_Production%29_logo.svg/330px-Top_Cat_%28Hanna-Barbera_Production%29_logo.svg.png"
+  },
+  "It's Like This, Cat|book": {
+   "wiki": "https://en.wikipedia.org/wiki/It's_Like_This%2C_Cat",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/It%27s_like_this%2C_cat_by_Emily_Neville_cover.jpg/500px-It%27s_like_this%2C_cat_by_Emily_Neville_cover.jpg"
+  },
+  "The House on East 88th Street|book": {},
+  "Amazing Fantasy #15 / The Amazing Spider-Man|comics": {},
+  "Fantastic Four #3|comics": {},
+  "The Wanderers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Wanderers_(Price_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bf/WanderersBookCoverOrig1974.jpg"
+  },
+  "Barefoot in the Park|theater": {},
+  "Strange Tales #110|comics": {},
+  "The Patty Duke Show|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Patty_Duke_Show",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Pattydukeshowintro.jpg/250px-Pattydukeshowintro.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/eEf6acBj8wbXdE3rngQOJO0Nrjf.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rjBKHT0et8oWpqLhhyiLQwfKtPz.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/12444"
+  },
+  "Funnyhouse of a Negro|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Funnyhouse_of_a_Negro"
+  },
+  "The Avengers #2|comics": {},
+  "Harriet the Spy|book": {},
+  "Daredevil #1|comics": {},
+  "The Sign in Sidney Brustein's Window|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Sign_in_Sidney_Brustein's_Window",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%22The_Sign_in_Sidney_Brustein%27s_Window%22%2C_by_Lorraine_Hansberry.tif/lossy-page1-330px-%22The_Sign_in_Sidney_Brustein%27s_Window%22%2C_by_Lorraine_Hansberry.tif.jpg"
+  },
+  "The House of Blue Leaves|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_House_of_Blue_Leaves",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/32/The_House_of_Blue_Leaves.jpg"
+  },
+  "The Warriors|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Warriors_(Yurick_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bf/TheWarriors.jpg"
+  },
+  "The Odd Couple|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Odd_Couple_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walter_Matthau_Art_Carney_The_Odd_Couple_Broadway_1965.JPG/500px-Walter_Matthau_Art_Carney_The_Odd_Couple_Broadway_1965.JPG"
+  },
+  "Rosemary's Baby|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/kKvQ0pyMnJweWVz2Pwbyeivq5Zk.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/805",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg"
+  },
+  "Rosemary's Baby|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Rosemary's_Baby_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rosemary%27s_Baby_%281967%29_front_cover%2C_first_edition.jpg/500px-Rosemary%27s_Baby_%281967%29_front_cover%2C_first_edition.jpg"
+  },
+  "That Girl|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/That_Girl",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Thatgirllogo.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/odibULDlYVrOWolHV4eK5MsZrcp.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rqde9J8qNnyhxjAK9UVgSzWJxiq.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1925"
+  },
+  "Family Affair|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Family_Affair_(1966_TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/okAjTwGuB0LfWCNiXrDnArOHhsX.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ox29HlZkjVPAihnIr1tIL9fWcp9.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/503",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/4f/Family_Affair_Logo.jpg"
+  },
+  "Moon Palace|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Moon_Palace",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/23/MoonPalace.jpg"
+  },
+  "The Amazing Spider-Man|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(comic_strip)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/38/Amazing_Spider-Man_Ultimate_Newspaper_Comics_Collection_Volume_1.png"
+  },
+  "Wait Until Dark|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Wait_Until_Dark",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/26/Wait-Until-Dark-1966-Playbill.jpg"
+  },
+  "The Jazz Man|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Jazz_Man",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a6/Weik_The_Jazz_Man_cover.jpg"
+  },
+  "The Contender|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Contender_(Lipsyte_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3c/TheContender.jpg"
+  },
+  "Bye Bye Braverman|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Bye_Bye_Braverman",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/53/ByeByeBraverman.jpg"
+  },
+  "From the Mixed-Up Files of Mrs. Basil E. Frankweiler|book": {
+   "wiki": "https://en.wikipedia.org/wiki/From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Basil_E_Frankweiler.jpg"
+  },
+  "Barefoot in the Park|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/1hNQtElM8RfieC2xJHvsoUylMZ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/qh64tAOmbQNoYMLTETkhmBQgSbu.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/17887",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/04/Barefoot_in_the_Park_film_poster.jpg"
+  },
+  "Wait Until Dark|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Wait_Until_Dark_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Wait_Until_Dark_1967.jpg"
+  },
+  "Midnight Cowboy|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Midnight_Cowboy-poster.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/wY04PHkTBqdlaEbsDj6cchfRL98.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/3116"
+  },
+  "The Boys in the Band|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Boys_in_the_Band_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5d/BoysInTheBandOn_Stage.jpg"
+  },
+  "The Odd Couple|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Odd_Couple_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/11356",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Odd_Couple_poster.jpg"
+  },
+  "Mr. Sammler's Planet|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Mr._Sammler's_Planet",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/73/MrSammlersPlanet.JPG"
+  },
+  "Sesame Street|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Sesame_Street_(fictional_location)",
+   "still": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/502",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BlogHer_08_-_Sesame_Street_Suite_%282682321763%29.jpg/500px-BlogHer_08_-_Sesame_Street_Suite_%282682321763%29.jpg"
+  },
+  "Mo' Better Blues|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Mo'_Better_Blues",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Mo%27_Better_Blues%3B_Movie_poster.jpg"
+  },
+  "Sweet Charity|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Sweet_Charity_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/6WxX5d90NVYyFUciyn4KxaCPSSg.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/brwDwtckSCp2t4Hz3JU3vwCv83h.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/42618",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/33/Poster_of_Sweet_Charity_%28film%29.jpg"
+  },
+  "Butterflies Are Free|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Butterflies_Are_Free_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ButterfliesAreFree1_%2826918907803%29.jpg/500px-ButterfliesAreFree1_%2826918907803%29.jpg"
+  },
+  "The Landlord|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Landlord",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/76/Landlord_movie_poster.jpg"
+  },
+  "The Tenants|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Tenants_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_Tenants_%28novel%29.jpg"
+  },
+  "Captain America #117|comics": {},
+  "Desperate Characters|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Desperate_Characters_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Desperate_Characters_%28novel%29.jpg"
+  },
+  "Klute|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Klute",
+   "still": "https://image.tmdb.org/t/p/w780/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/466",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/90/Klute-Poster.jpg"
+  },
+  "The Fortress of Solitude|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Fortress_of_Solitude_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/67/Fortresssolitudecvr.jpg"
+  },
+  "The Anderson Tapes|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Anderson_Tapes",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f3/The_Anderson_Tapes_film_poster.jpg"
+  },
+  "The Odd Couple|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Odd_Couple_(1970_TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/hIcdjwYzMUDeF1m48IJvxHjFNve.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5NYUeWc7lXq6pbHDP0Pz3xxKhPC.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1809",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Odd_Couple_%28TV_series%29_titlecard.jpg"
+  },
+  "The Royal Tenenbaums|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Royal_Tenenbaums",
+   "still": "https://image.tmdb.org/t/p/w780/cbuX448RKetr5Y5cZkmJEfu3xji.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9428",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Tenenbaums.jpg"
+  },
+  "The Hot Rock (Dortmunder series)|book": {},
+  "Looking for Mr. Goodbar|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Looking_for_Mr._Goodbar_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/48/Looking_for_Mr._Goodbar%28novel%29_1st_edition_cover.jpg"
+  },
+  "All in the Family|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/All_in_the_Family",
+   "still": "https://image.tmdb.org/t/p/w780/qP6w5T2aMTTkIW5qFqziWhgYlPu.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/s2Y9QWyuyjRP78DZsatknEjn0iN.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1922",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/All_in_the_Family_%28official_television_logo%29.svg/500px-All_in_the_Family_%28official_television_logo%29.svg.png"
+  },
+  "The Prisoner of Second Avenue|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Prisoner_of_Second_Avenue",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Prisonersecondave.jpeg"
+  },
+  "If Beale Street Could Talk|book": {
+   "wiki": "https://en.wikipedia.org/wiki/If_Beale_Street_Could_Talk",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/79/IfBealeStreetCouldTalk.JPG"
+  },
+  "Great Jones Street|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Great_Jones_Street_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Greatjones_cover.jpeg"
+  },
+  "Luke Cage, Hero for Hire #1|comics": {},
+  "Tales of a Fourth Grade Nothing|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Tales_of_a_Fourth_Grade_Nothing",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/14/Tales_of_a_Fourth_Grade_Nothing_book_cover.jpg"
+  },
+  "The Genie of Sutton Place|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Genie_of_Sutton_Place",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9f/The_Genie_of_Sutton_Place.jpg"
+  },
+  "Another Brooklyn|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Another_Brooklyn",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/50/Another_Brooklyn_-_bookcover.jpg"
+  },
+  "Mean Streets|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Mean_Streets",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/26/Mean_Streets_original_1973_theatrical_poster.png"
+  },
+  "Claudine|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Claudine_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Claudine-film-1974.jpg"
+  },
+  "Crooklyn|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Crooklyn",
+   "still": "https://image.tmdb.org/t/p/w780/mIKuvEhBvDf9LGxE9x6m0hDR9Au.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/34152",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/26/Crooklyn_poster.jpg"
+  },
+  "Slake's Limbo|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Slake's_Limbo",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Slakes_Limbo_cover.jpg"
+  },
+  "Let the Great World Spin|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Let_the_Great_World_Spin",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/da/Let-the-great-world-spin.jpg"
+  },
+  "Rhoda|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Rhoda",
+   "still": "https://image.tmdb.org/t/p/w780/7x3MrOXE1f3B1JzmW4p2kIxidzr.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/7nVSlqyqtlXuTiEYjku7fzWYav5.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/645",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Rhoda_title_screen.png"
+  },
+  "Welcome Back, Kotter|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Welcome_Back%2C_Kotter",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Kotterdvdcover.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/yyeyf8FYlJzQERUfrOb5PndyLwI.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/xBNM75kZjHdWcE4brawakg1uQQf.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/738"
+  },
+  "The Jeffersons|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Jeffersons",
+   "still": "https://image.tmdb.org/t/p/w780/JdMKUtYVUKUqXaMh2ZzlxAphR8.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1964",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Jeffersons_title.svg/500px-The_Jeffersons_title.svg.png"
+  },
+  "What I Loved|book": {
+   "wiki": "https://en.wikipedia.org/wiki/What_I_Loved",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/20/What_I_Loved.jpg"
+  },
+  "Network|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Network_(1976_film)",
+   "still": "https://image.tmdb.org/t/p/w780/m4Iyzh9YVOh0ra7UwdMoJcrjxkx.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10774",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Network_%281976_poster%29.png"
+  },
+  "The Flamethrowers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Flamethrowers_(Kushner_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/af/TheFlamethrowersKushner.jpg"
+  },
+  "Bloodbrothers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Bloodbrothers_(Price_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fd/BloodbrothersNovel.jpg"
+  },
+  "Taxi Driver|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Taxi_Driver",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg"
+  },
+  "Dancer from the Dance|book": {},
+  "the Matthew Scudder series (The Sins of the Fathers onward)|book": {},
+  "Saturday Night Fever|film": {
+   "still": "https://image.tmdb.org/t/p/w780/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/11009"
+  },
+  "Wonderstruck|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Wonderstruck_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/dd/Wonderstruck_by_Brian_Selznick_first_edition_2011.jpg"
+  },
+  "the Burglar series (Burglars Can't Be Choosers onward)|book": {},
+  "Chapter Two|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Chapter_Two_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/98/ChapterTwoPlaybill.jpg"
+  },
+  "Summer of Sam|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Summer_of_Sam",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Summer_Of_Sam_%28movie%29.jpg"
+  },
+  "The Wiz|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Wiz_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9d/The-wiz-1978.jpg"
+  },
+  "Manhattan|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Manhattan_(1979_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Manhattan-poster01.jpg"
+  },
+  "When You Reach Me|book": {
+   "wiki": "https://en.wikipedia.org/wiki/When_You_Reach_Me",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/f8/When_you_reach_me.jpg"
+  },
+  "Diff'rent Strokes|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Diff'rent_Strokes",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/69/Diffrentstrokes.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/brlf6CqE8GP0bxYZkuTDUB7h7w1.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/3MNIPC2v9a43IJCwEYiiY327rKH.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/2410"
+  },
+  "Kramer vs. Kramer|film": {
+   "still": "https://image.tmdb.org/t/p/w780/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/12102"
+  },
+  "Olga Dies Dreaming|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Olga_Dies_Dreaming",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/de/Olga_Dies_Dreaming_%28Xochitl_Gonzalez%29.png"
+  },
+  "Captain America|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Captain_America"
+  },
+  "DC Comics Presents #26 / The New Teen Titans|comics": {},
+  "Arthur|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Arthur",
+   "still": "https://image.tmdb.org/t/p/w780/s7m59L9kv1JufLXsrWRRow9k2vT.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/m8yOFRDVZPxtsr4D2hVdzls6q6t.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/13665",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/ArthurCharacter.jpg"
+  },
+  "Annie on My Mind|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Annie_on_My_Mind",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/00/NancyGarden_AnnieOnMyMind.jpg"
+  },
+  "Morningside Heights|book": {},
+  "Everybody Hates Chris|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Everybody_Hates_Chris",
+   "still": "https://image.tmdb.org/t/p/w780/qji729gwCW88RpIIWidlaLTul3V.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/252",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Everybodyhateschrislogo.svg/500px-Everybodyhateschrislogo.svg.png"
+  },
+  "This Is Our Youth|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/This_Is_Our_Youth",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Michael_Cera_%286840267202%29.jpg/500px-Michael_Cera_%286840267202%29.jpg"
+  },
+  "Tootsie|film": {
+   "still": "https://image.tmdb.org/t/p/w780/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9576"
+  },
+  "Oracle Night|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Oracle_Night",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/36/OracleNight.jpg"
+  },
+  "Broadway Danny Rose|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Broadway_Danny_Rose",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/df/Broadway_danny_rose.jpg"
+  },
+  "Moscow on the Hudson|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Moscow_on_the_Hudson",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/66/Moscow_on_the_Hudson_%281984%29_%28Original_Poster%29.PNG",
+   "still": "https://image.tmdb.org/t/p/w780/qKZNKurkt3A8d3ga7wmYXfJFPAr.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/cQtyCH6E2Xg5cqlsykwfdvbhB5y.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/23111"
+  },
+  "Bright Lights, Big City|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Bright_Lights%2C_Big_City_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9a/BrightLightsBigCity.jpg"
+  },
+  "Splash|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Splash_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/wQGjjM7gbCAjh8ZvAoxBhwQ64zC.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/2619",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Splash_ver2.jpg"
+  },
+  "The Cosby Show|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Cosby_Show",
+   "still": "https://image.tmdb.org/t/p/w780/wWXFRPABf2D0eFjYNXNM0JhmTZF.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/dc6sR5FWN4uX8fZENq2UTsrSg3x.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1759",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Cosby_Show_%28Carsey-Werner_Television%29_logo.svg/330px-The_Cosby_Show_%28Carsey-Werner_Television%29_logo.svg.png"
+  },
+  "Ghostbusters|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Ghostbusters",
+   "still": "https://image.tmdb.org/t/p/w780/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/620",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghostbusters_%281984%29_theatrical_poster.png"
+  },
+  "City of Glass|book": {},
+  "Motown and Didi|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Motown_and_Didi",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/62/Motown_and_Didi.jpg"
+  },
+  "Hannah and Her Sisters|film": {
+   "still": "https://image.tmdb.org/t/p/w780/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/5143"
+  },
+  "Kate & Allie|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Kate_%26_Allie",
+   "still": "https://image.tmdb.org/t/p/w780/qIV7ixpoW7d8kVkoG84hhwYcDZF.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/dZX5pGw0BZ9woVQqtmC6DlaP5e5.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/917",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/49/Kate_%26_Allie.png"
+  },
+  "Lillian Boxfish Takes a Walk|book": {},
+  "Wall Street|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Wall_Street_(1987_film)",
+   "still": "https://image.tmdb.org/t/p/w780/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10673",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bc/Wall_Street_film.jpg"
+  },
+  "Desperately Seeking Susan|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Desperately_Seeking_Susan",
+   "still": "https://image.tmdb.org/t/p/w780/hr1JookM2iftEu2k8HaFfDD6QSC.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ighImRgzYzZ88skBHaT4B7ntJG8.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/8130",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/56/Desperately_Seeking_Susan_movie_poster.jpg"
+  },
+  "Slaves of New York|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Slaves_of_New_York_(short_story_collection)"
+  },
+  "9½ Weeks|film": {
+   "wiki": "https://en.wikipedia.org/wiki/9%C2%BD_Weeks",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/49/Nine-12-weeks-theatrical-movie-poster-md.jpg"
+  },
+  "Angels in America|theater": {},
+  "After Hours|film": {
+   "wiki": "https://en.wikipedia.org/wiki/After_Hours_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/8upjM945SVY99tu2Z8OG27Jd4m6.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10843",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/75/After_Hours_%28film%29_POSTER.jpg"
+  },
+  "She's Gotta Have It|film": {
+   "wiki": "https://en.wikipedia.org/wiki/She's_Gotta_Have_It",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c8/She%27s_Gotta_Have_It_film_poster.jpg"
+  },
+  "The Squid and the Whale|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Squid_and_the_Whale",
+   "still": "https://image.tmdb.org/t/p/w780/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10707",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Squid_and_the_Whale_poster.png"
+  },
+  "The Real Ghostbusters|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Real_Ghostbusters",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Realghostbusters_title.jpg"
+  },
+  "Precious|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Precious_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/3b2B5dXamKae9sleQZ9ugpARv7b.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/kUKrXmiHFNh62zLSF8mFdWJNTZ0.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/761844",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Precious2009poster.jpg"
+  },
+  "Push|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Push_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/cf/PushNovel.jpg"
+  },
+  "Frankie and Johnny in the Clair de Lune|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Frankie_and_Johnny_in_the_Clair_de_Lune",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Frankie%26Johnny.JPG"
+  },
+  "When Harry Met Sally...|film": {
+   "still": "https://image.tmdb.org/t/p/w780/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/639"
+  },
+  "Big|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Big_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/2280",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/be/Big_Poster.jpg"
+  },
+  "Moonstruck|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Moonstruck",
+   "still": "https://image.tmdb.org/t/p/w780/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/2039",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/7d/Chermoonstruck.jpg"
+  },
+  "My Two Dads|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/My_Two_Dads",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/95/My_Two_Dads.png"
+  },
+  "American Psycho|book": {},
+  "American Psycho|film": {
+   "wiki": "https://en.wikipedia.org/wiki/American_Psycho_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/1359",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0c/American_Psycho.png"
+  },
+  "Three Men and a Baby|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Three_Men_and_a_Baby",
+   "still": "https://image.tmdb.org/t/p/w780/g1cr5KW5HB9VBjRqAaYuasTFYUF.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/97KHf9lPWs3HL7IXkBttsexLdDC.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/1624707",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Three_Men_and_a_Baby.png"
+  },
+  "The Bonfire of the Vanities|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Bonfire_of_the_vanities_movie_poster.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/uSInqX82oDeEHSDUwekneCJ2HLc.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9586"
+  },
+  "Oliver & Company|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Oliver_%26_Company",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Oliver_poster.jpg"
+  },
+  "Crossing Delancey|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Crossing_Delancey",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Crossing_Delancey_film.jpg"
+  },
+  "Scorpions|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Scorpions_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/73/Scorpions_%28novel%29.jpg"
+  },
+  "Dear John|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Dear_John_(American_TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Dear_John_%28U.S._TV_series%29.jpg"
+  },
+  "Working Girl|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Working_Girl",
+   "still": "https://image.tmdb.org/t/p/w780/lRWIiRSOMH7qQT6UGcmx8Uykix3.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/3525",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/84/Working_Girl_film_poster.jpg"
+  },
+  "Coming to America|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Coming_to_America",
+   "still": "https://image.tmdb.org/t/p/w780/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9602",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/38/ComingtoAmerica1988MoviePoster.jpg"
+  },
+  "Seinfeld|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Seinfeld",
+   "still": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1400",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Seinfeld_logo.svg/250px-Seinfeld_logo.svg.png"
+  },
+  "Rent|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Rent_(musical)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Rentpostera.jpg"
+  },
+  "Do the Right Thing|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Do_the_Right_Thing",
+   "still": "https://image.tmdb.org/t/p/w780/xnLh9CNRxkpkSNikVhi5qLwcfUG.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/925",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/03/Do_the_Right_Thing_poster.png"
+  },
+  "Family Business|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Family_Business_(1989_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/09/Family_Business_%28movie_poster%29.jpg"
+  },
+  "Ghost|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Ghost_(1990_film)",
+   "still": "https://image.tmdb.org/t/p/w780/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/251",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/41/Ghost_%281990_movie_poster%29.jpg"
+  },
+  "Jungle Fever|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Jungle_Fever",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Jungle_Fever_film_poster.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/2YQfKfYX0mvHPnFMP5wiL1kYYBU.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/1713"
+  },
+  "Six Degrees of Separation|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Six_Degrees_of_Separation_(play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a8/SixDegreesPoster.jpg"
+  },
+  "Christodora|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Christodora",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6c/ChristodoraNovel.jpg"
+  },
+  "Husbands and Wives|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Husbands_and_Wives",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/70/Husbands_moviep.jpg"
+  },
+  "Banana Fish|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Banana_Fish",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/51/BananaFishVol1.png"
+  },
+  "Between Two Rivers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Between_Two_Rivers",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/ae/BetweenTwoRivers.JPG"
+  },
+  "Mad About You|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Mad_About_You",
+   "still": "https://image.tmdb.org/t/p/w780/bEjFkaFctIXgCUeYn4ei3ECULQi.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/vvnslQjc1LnERuroGVh8bPdBi2r.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/500"
+  },
+  "Sliver|film": {
+   "still": "https://image.tmdb.org/t/p/w780/zu09Mwoo69qwHpcj3gNtKntgUB7.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/g7PC2e2KqDkIfOoJx9iXJJez99d.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/867"
+  },
+  "Free Food for Millionaires|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Free_Food_for_Millionaires",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Free_Food_for_Millionaires.jpg"
+  },
+  "The Nanny|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Nanny",
+   "still": "https://image.tmdb.org/t/p/w780/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/2352",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c5/The_Nanny_%28TriStar_Television%29_logo.svg/500px-The_Nanny_%28TriStar_Television%29_logo.svg.png"
+  },
+  "Manhattan Murder Mystery|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Manhattan_Murder_Mystery",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/26/Manhattan_Murder_Mystery.png"
+  },
+  "Living Single|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Living_Single",
+   "still": "https://image.tmdb.org/t/p/w780/F0aJ6CVPJhIMwBtvHQpMC9FPvm.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/mgttYgspalxaLVrjJ9rxzDG9owO.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4270",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Living_Single_%28Warner_Bros._Television_sitcom%29_logo.svg/500px-Living_Single_%28Warner_Bros._Television_sitcom%29_logo.svg.png"
+  },
+  "The Russian Debutante's Handbook|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Russian_Debutante's_Handbook",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Russian_Debutante%27s_Handbook.jpg"
+  },
+  "Gargoyles|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Gargoyles_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gargoyles_1994_logo.svg/500px-Gargoyles_1994_logo.svg.png"
+  },
+  "Native Speaker|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Native_Speaker_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/35/Native_Speaker_cover_first_edition.jpg"
+  },
+  "Friends|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Friends",
+   "still": "https://image.tmdb.org/t/p/w780/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1668"
+  },
+  "Clockers|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Clockers_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Clockers_film_poster.jpg"
+  },
+  "Caroline in the City|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Caroline_in_the_City",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Caroline_in_the_City_%28logo%29.svg/500px-Caroline_in_the_City_%28logo%29.svg.png"
+  },
+  "Mighty Aphrodite|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Mighty_Aphrodite",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/80/Mighty_aphrodite_ver2.jpg"
+  },
+  "Kids|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Kids_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Kids_film.jpg"
+  },
+  "Everyone Says I Love You|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Everyone_Says_I_Love_You",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/56/Everyone_Says_I_Love_You_Poster.jpg"
+  },
+  "Cosby|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Cosby_(TV_series)"
+  },
+  "My Year of Rest and Relaxation|book": {},
+  "Deconstructing Harry|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Deconstructing_Harry",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Deconstructing_harry.jpg"
+  },
+  "Celebrity|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Celebrity_(1998_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ed/Celebrity_ver2.jpg"
+  },
+  "The Book of Night with Moon|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Book_of_Night_with_Moon",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/65/Book_of_Night_with_Moon.gif"
+  },
+  "The Willow Tree|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Willow_Tree_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d8/TheWillowTree.jpg"
+  },
+  "Sex and the City|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Sex_and_the_City",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/55/SATC_Title.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/105"
+  },
+  "The King of Queens|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_King_of_Queens",
+   "still": "https://image.tmdb.org/t/p/w780/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4238",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/King_of_Queens_logo.png"
+  },
+  "Felicity|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Felicity_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Felicity_%28Touchstone_Television_series%29_logo.svg/500px-Felicity_%28Touchstone_Television_series%29_logo.svg.png"
+  },
+  "Netherland|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Netherland_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Netherland.jpg"
+  },
+  "He Got Game|film": {
+   "wiki": "https://en.wikipedia.org/wiki/He_Got_Game",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/4e/He_got_game_poster.jpg"
+  },
+  "You've Got Mail|film": {
+   "wiki": "https://en.wikipedia.org/wiki/You've_Got_Mail",
+   "still": "https://image.tmdb.org/t/p/w780/9lYpkcO7WuruOXB2mn8ppC6Ecaq.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/rJLUSpmdxSMqqEsyzeCni3vy1ca.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9489",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/ee/You%27ve_Got_Mail.jpg"
+  },
+  "Miracle's Boys|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Miracle's_Boys_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Miracles_Boys_cover.jpg"
+  },
+  "the Matthew Scudder series (later novels)|book": {},
+  "Will & Grace|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Will_%26_Grace",
+   "still": "https://image.tmdb.org/t/p/w780/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/aEaYdyHcpHN3fIXHhXHtXOs8Rtk.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4454"
+  },
+  "Make Room! Make Room!|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Make_Room!_Make_Room!",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/53/Make_Room%21_Make_Room%21.jpg"
+  },
+  "The Hours|book": {},
+  "Law & Order: Special Victims Unit|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Law_%26_Order%3A_Special_Victims_Unit"
+  },
+  "Motherless Brooklyn|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Motherless_Brooklyn_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Motherless_Brooklyn.jpg"
+  },
+  "Requiem for a Dream|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Requiem_for_a_Dream",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/92/Requiem_for_a_dream.jpg"
+  },
+  "Big Daddy|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Big_Daddy_(1999_film)",
+   "still": "https://image.tmdb.org/t/p/w780/fl3no3IMXGjZAUa2iU9aBzlid5m.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/lEYg1X8RjqNB5NWEtodcbK7vm1G.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/9032",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/ca/Big_Daddy_film.jpg"
+  },
+  "Stuart Little|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Stuart_Little_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/dECKGAenue36W50HYhd3Jh1OJs.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/362lcwTJlNyAhitTlp2UraECISR.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10137",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/96/Stuart_Little.jpg"
+  },
+  "Twelve|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Twelve_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/bc/Twelve_%28novel%29.jpg"
+  },
+  "Cosmopolis|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Cosmopolis_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Cosmopolis_book_cover.jpg"
+  },
+  "The History of Love|book": {},
+  "The Princess Diaries|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Princess_Diaries",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/49/Princess_Diaries_Complete_Collection_Cover.jpeg"
+  },
+  "The Nanny Diaries|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Nanny_Diaries",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Nanny_Diaries_cover.jpg"
+  },
+  "The Brooklyn Follies|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Brooklyn_Follies",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Brooklyn_Follies_bookcover.jpg"
+  },
+  "Small Time Crooks|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Small_Time_Crooks",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Small_time_crooks.jpg"
+  },
+  "Bright, Precious Days|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Bright%2C_Precious_Days",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/51/Bright%2C_Precious_Days.jpg"
+  },
+  "The Emperor's Children|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Emperor's_Children",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/c7/The_Emperor%27s_Children_book_cover.jpg"
+  },
+  "TimeRiders|book": {
+   "wiki": "https://en.wikipedia.org/wiki/TimeRiders",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/34/TimeRidersLogo.jpg"
+  },
+  "Bleeding Edge|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Bleeding_Edge_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/02/Bleeding_Edge_by_Thomas_Pynchon.jpg"
+  },
+  "Panic Room|film": {
+   "still": "https://image.tmdb.org/t/p/w780/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/4547"
+  },
+  "Shopaholic Ties the Knot|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Shopaholic_Ties_the_Knot",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Shopaholic_Ties_the_Knot.jpg"
+  },
+  "Gossip Girl (novels)|book": {},
+  "25th Hour|film": {
+   "wiki": "https://en.wikipedia.org/wiki/25th_Hour",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/24/25th_Hour_Poster.jpg"
+  },
+  "Maid in Manhattan|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Maid_in_Manhattan",
+   "still": "https://image.tmdb.org/t/p/w780/l5sD0AK286fBpXyDHRCbtaFMArN.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/7303",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3c/Maid_in_manhattan.jpg"
+  },
+  "Spider-Man|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
+   "still": "https://image.tmdb.org/t/p/w780/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/557",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Spider-Man_%282002_film%29_poster.jpg"
+  },
+  "Extremely Loud & Incredibly Close|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Extremely_Loud_%26_Incredibly_Close",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/05/Extremely_loud_and_incredibly_close_large.JPEG"
+  },
+  "Fables|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Fables_(comics)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Fables-logo-original.png"
+  },
+  "The Earth, My Butt, and Other Big Round Things|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Earth%2C_My_Butt%2C_and_Other_Big_Round_Things",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/1/14/The_Earth%2C_My_Butt%2C_and_Other_Big_Round_Things_cover.jpg"
+  },
+  "Anything Else|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Anything_Else",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Anythingelseposter.jpg"
+  },
+  "Eternal Sunshine of the Spotless Mind|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind",
+   "still": "https://image.tmdb.org/t/p/w780/95qi5TJMIBI5VzWHia88Pbrye7Z.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/38",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Eternal_Sunshine_of_the_Spotless_Mind.png"
+  },
+  "The Goldfinch|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Goldfinch_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/eb/The_goldfinch_by_donna_tart.png"
+  },
+  "Elf|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Elf_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/df/Elf_movie.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/10719"
+  },
+  "Melinda and Melinda|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Melinda_and_Melinda",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/42/Melinda_and_melinda_poster.jpg"
+  },
+  "Spider-Man 2|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Spider-Man_2",
+   "still": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/558",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/4e/Spider-Man_2_USA_poster.jpg"
+  },
+  "Knuffle Bunny: A Cautionary Tale|book": {},
+  "Hitch|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Hitch_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/a6tIX4fGgp60w2d9pqYRbFM91ne.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/8488",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d4/Hitch_poster.JPG"
+  },
+  "Madagascar|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Madagascar_(2005_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/36/Madagascar_Theatrical_Poster.jpg"
+  },
+  "How I Met Your Mother|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother",
+   "still": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1100",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HowIMetYourMother.svg/500px-HowIMetYourMother.svg.png"
+  },
+  "Gossip Girl: Nobody Does It Better|book": {},
+  "30 Rock|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/30_Rock",
+   "still": "https://image.tmdb.org/t/p/w780/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4608"
+  },
+  "The Lightning Thief|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Lightning_Thief",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Lightning_Thief_cover.jpg"
+  },
+  "The Amazing Spider-Man / New Avengers|comics": {},
+  "The Devil Wears Prada|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/350",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Devil_Wears_Prada_main_onesheet.jpg"
+  },
+  "Ugly Betty|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Ugly_Betty",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Ugly_Betty_intertitle.png/250px-Ugly_Betty_intertitle.png",
+   "still": "https://image.tmdb.org/t/p/w780/5syecfwO1pkIVViRG3j7UuStCpm.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/prGylxnFpIWMcvHh9sUC46hmiIC.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/4626"
+  },
+  "Everybody Rise|book": {},
+  "The New Avengers (Civil War era)|comics": {},
+  "Open City|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Open_City_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/7/70/Open_City_%28novel%29.jpg"
+  },
+  "Wizards of Waverly Place|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Wizards_of_Waverly_Place",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/55/Disney_Wizards_of_Waverly_Place_%28television_series_logo%29.png"
+  },
+  "Before the Devil Knows You're Dead|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Before_the_Devil_Knows_You're_Dead",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/21/Before_the_Devil_Knows_You%27re_Dead_%282007_film%29.jpg"
+  },
+  "One Fifth Avenue|book": {
+   "wiki": "https://en.wikipedia.org/wiki/One_Fifth_Avenue_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b9/OneFifthAvenue.jpg"
+  },
+  "Gossip Girl|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Gossip_Girl",
+   "still": "https://image.tmdb.org/t/p/w780/5RWAjCYhu3D8Ai2QBYP7GjaxFb3.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ep03M6KKZGeljOizPEbt3Geja5n.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1395",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gossip_Girl_%282007%29_logo.svg/500px-Gossip_Girl_%282007%29_logo.svg.png"
+  },
+  "Flight of the Conchords|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/4/47/Conchords_Intro.png"
+  },
+  "Behold the Dreamers|book": {},
+  "City of Bones (The Mortal Instruments)|book": {},
+  "Sex and the City|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Sex_and_the_City_(film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Sex_and_the_City_The_Movie.jpg"
+  },
+  "Enchanted|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Enchanted_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/4523",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Enchantedposter.jpg"
+  },
+  "In the Heights|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/In_the_Heights",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0d/In_the_Heights.jpg"
+  },
+  "Homeland Elegies|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Homeland_Elegies",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/87/Homeland_Elegies.jpg"
+  },
+  "Chronic City|book": {},
+  "Two Lovers|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Two_Lovers_(2008_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/55/Two_lovers_ver2.jpg"
+  },
+  "Sunset Park|book": {},
+  "The Darlings|book": {},
+  "By Nightfall|book": {
+   "wiki": "https://en.wikipedia.org/wiki/By_Nightfall",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/cb/CunninghamByNightfall.jpg"
+  },
+  "The Penguins of Madagascar|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Penguins_of_Madagascar",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/83/The_Penguins_of_Madagascar_logo.png"
+  },
+  "Lives of the Monster Dogs|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Lives_of_the_Monster_Dogs",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/c/cf/LivesOfTheMonsterDogs.jpg"
+  },
+  "Bored to Death|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Bored_to_Death",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/8/84/Bored_to_Death_title_screen.png"
+  },
+  "White Collar|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/White_Collar_(TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/aUyweq31etaay92oF4crwdDcnoT.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/21510"
+  },
+  "Sex and the City 2|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Sex_and_the_City_2",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Sex_and_the_City_2_poster.jpg"
+  },
+  "And Just Like That...|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/And_Just_Like_That..."
+  },
+  "Blue Bloods|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Blue_Bloods",
+   "still": "https://image.tmdb.org/t/p/w780/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/32692"
+  },
+  "New Avengers (Heroic Age)|comics": {},
+  "Super Sad True Love Story|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Super_Sad_True_Love_Story",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/57/Super_Sad_True_Love_Story_book_cover.jpg"
+  },
+  "Black Swan|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Black_Swan_(film)",
+   "still": "https://image.tmdb.org/t/p/w780/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/viWheBd44bouiLCHgNMvahLThqx.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/44214",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/68/Black_Swan_poster.jpg"
+  },
+  "Disgraced|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Disgraced"
+  },
+  "Shame|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Shame_(2011_film)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Shame2011Poster.jpg",
+   "still": "https://image.tmdb.org/t/p/w780/rKVqCSqy6jfjpeUCs4Ka6DSITzR.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/76025"
+  },
+  "Red Hook Summer|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Red_Hook_Summer",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Red_Hook_Summer_film_poster.jpg"
+  },
+  "Jessie|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Jessie_(2011_TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/00/Jessie_logo.png"
+  },
+  "2 Broke Girls|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/2_Broke_Girls",
+   "still": "https://image.tmdb.org/t/p/w780/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/39340",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg"
+  },
+  "Ultimate Comics: Spider-Man|comics": {},
+  "& Sons|book": {
+   "wiki": "https://en.wikipedia.org/wiki/%26_Sons",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/26/And_Sons_poster.jpeg"
+  },
+  "Girls|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Girls_(TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/9O2k1lfAMes2UgrWzHVvpMJHjw.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/42282"
+  },
+  "Wonder|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Wonder_(Palacio_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/03/Wonder_Cover_Art.png"
+  },
+  "Hawkeye|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/Hawkeye_(comics)"
+  },
+  "Frances Ha|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Frances_Ha",
+   "still": "https://image.tmdb.org/t/p/w780/oUVd42KgJWW6YnZLfzI7SDTdcPL.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/121986",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/69/Frances_Ha_poster.png"
+  },
+  "Elementary|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Elementary_(TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/1415",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/69/Elementary_intertitle.png"
+  },
+  "You|book": {
+   "wiki": "https://en.wikipedia.org/wiki/You_(Kepnes_novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Book_cover_of_Kepnes%27s_2014_novel_%22You%22.png"
+  },
+  "Brooklyn Nine-Nine|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brooklyn_Nine-Nine_Logo.png/500px-Brooklyn_Nine-Nine_Logo.png"
+  },
+  "Broad City|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Broad_City",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Broad_City_Logo_2014-02-07_20-26.gif",
+   "still": "https://image.tmdb.org/t/p/w780/mm7p3l1XkMAp4u5T8z7r8McGjkJ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/60839"
+  },
+  "Between Riverside and Crazy|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Between_Riverside_and_Crazy"
+  },
+  "The Humans|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Humans_(2015_play)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Humans_-_Broadway_playbill.jpg"
+  },
+  "Master of None|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Master_of_None",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Master_of_None_Logo.svg/500px-Master_of_None_Logo.svg.png"
+  },
+  "Mr. Robot|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Mr._Robot",
+   "still": "https://image.tmdb.org/t/p/w780/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/62560"
+  },
+  "Jessica Jones|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Jessica_Jones_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/2/22/Jessica_Jones_%28TV_series%29_logo.jpg"
+  },
+  "Odd Mom Out|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Odd_Mom_Out",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Odd_Mom_Out_bravo_logo.png"
+  },
+  "A Little Life|book": {
+   "wiki": "https://en.wikipedia.org/wiki/A_Little_Life",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/9/94/A_Little_LIfe.jpg"
+  },
+  "Unbreakable Kimmy Schmidt|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Unbreakable_Kimmy_Schmidt",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Unbreakable_Kimmy_Schmidt.png",
+   "still": "https://image.tmdb.org/t/p/w780/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/61671"
+  },
+  "Younger|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Younger_(TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/wCdhtaLMNtQ37j4OEch4dSKXyoE.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/62117",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Younger_%28Darren_Star_TV_series%29.svg/500px-Younger_%28Darren_Star_TV_series%29.svg.png"
+  },
+  "Modern Lovers|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Modern_Lovers_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/0/01/Modern_Lovers_by_Emma_Straub_book_cover.jpg"
+  },
+  "The Secret Life of Pets|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg"
+  },
+  "She's Gotta Have It|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/She's_Gotta_Have_It_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3d/ShesGottaHaveIt_poster.png"
+  },
+  "Spider-Man: Homecoming|film": {
+   "still": "https://image.tmdb.org/t/p/w780/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+   "tmdb": "https://www.themoviedb.org/movie/315635"
+  },
+  "The Woman in the Window|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Woman_in_the_Window_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d3/The_Woman_in_the_Window_%28A._J._Finn%29.png"
+  },
+  "The Vanderbeekers of 141st Street|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Vanderbeekers_of_141st_Street",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/3e/The_Vanderbeekers_of_141st_Street_cover.jpg"
+  },
+  "Luster|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Luster_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/33/Luster_Raven_Leilani.jpg"
+  },
+  "Lock Every Door|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Lock_Every_Door",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Lock_Every_Door.jpg"
+  },
+  "Succession|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Succession_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/7/73/SuccessionTV.png"
+  },
+  "Spider-Man: Into the Spider-Verse|film": {
+   "wiki": "https://en.wikipedia.org/wiki/Spider-Man%3A_Into_the_Spider-Verse",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png"
+  },
+  "The Poet X|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_Poet_X",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/5/56/The_Poet_X_%28Elizabeth_Acevedo_book%29_cover.jpg"
+  },
+  "The City We Became|book": {
+   "wiki": "https://en.wikipedia.org/wiki/The_City_We_Became",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/d/d9/The_City_We_Became.jpg"
+  },
+  "New Kid|comics": {
+   "wiki": "https://en.wikipedia.org/wiki/New_Kid",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/b6/New_Kid_Cover.jpg"
+  },
+  "Russian Doll|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)",
+   "still": "https://image.tmdb.org/t/p/w780/5TgMzFqbOEcEo99uhIo8DmiENOx.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/1ju4vQ1EwlIkQxEgWiYmxOs3iBG.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/84977",
+   "wiki_img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/RussianDoll.svg/500px-RussianDoll.svg.png"
+  },
+  "What We Do in the Shadows|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/3/31/What_We_Do_in_the_Shadows_Title_Card.jpg"
+  },
+  "The King of Staten Island|film": {
+   "wiki": "https://en.wikipedia.org/wiki/The_King_of_Staten_Island",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e4/The_King_of_Staten_Island.jpeg"
+  },
+  "Blue|theater": {
+   "wiki": "https://en.wikipedia.org/wiki/Blue_(opera)"
+  },
+  "Leave the World Behind|book": {
+   "wiki": "https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Leave_the_World_Behind_%28book_cover%29.jpeg"
+  },
+  "Central Park|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Central_Park_(TV_series)"
+  },
+  "Awkwafina Is Nora from Queens|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Awkwafina_Is_Nora_from_Queens",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Awkwafina_is_Nora_From_Queens_logo.png/500px-Awkwafina_is_Nora_From_Queens_logo.png"
+  },
+  "Harlem|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Harlem_(TV_series)",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Harlem_TV_series_poster.jpg"
+  },
+  "Only Murders in the Building|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building",
+   "still": "https://image.tmdb.org/t/p/w780/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+   "tmdb": "https://www.themoviedb.org/tv/107113",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/b/be/Only_Murders_logo.jpeg"
+  },
+  "How I Met Your Father|tv": {
+   "wiki": "https://en.wikipedia.org/wiki/How_I_Met_Your_Father",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/How_I_Met_Your_Father_%28Hulu_logo%29.png"
+  },
+  "New York 2140|book": {
+   "wiki": "https://en.wikipedia.org/wiki/New_York_2140",
+   "wiki_img": "https://upload.wikimedia.org/wikipedia/en/e/e8/New_York_2140.jpg"
+  }
+ },
+ "venues": {
+  "5585162380": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/National_arts_club.jpg/500px-National_arts_club.jpg",
+   "title": "National Arts Club",
+   "link": "https://en.wikipedia.org/wiki/National_Arts_Club",
+   "credit": "Wikipedia"
+  },
+  "456c5831ed": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/19_Gramercy_Park_South_%2854574028491%29.jpg/500px-19_Gramercy_Park_South_%2854574028491%29.jpg",
+   "title": "19 Gramercy Park South",
+   "link": "https://en.wikipedia.org/wiki/19_Gramercy_Park_South",
+   "credit": "Wikipedia"
+  },
+  "73d4bb2da2": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Waldorf_and_The_Astoria_Hotels%2C_New_York_City_c1915.jpg",
+   "title": "Waldorf-Astoria (1893–1929)",
+   "link": "https://en.wikipedia.org/wiki/Waldorf-Astoria_(1893%E2%80%931929)",
+   "credit": "Wikipedia"
+  },
+  "beea86de41": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/19-26_Washington_Square_North_from_east.jpg/500px-19-26_Washington_Square_North_from_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "19-26 Washington Square North from east",
+   "link": "https://commons.wikimedia.org/wiki/File:19-26_Washington_Square_North_from_east.jpg",
+   "credit": "Beyond My Ken, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "61c2bc6910": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Times_Square_Hotel_Astor%2C_New_York_1909.jpg/500px-Times_Square_Hotel_Astor%2C_New_York_1909.jpg",
+   "title": "Hotel Astor",
+   "link": "https://en.wikipedia.org/wiki/Hotel_Astor",
+   "credit": "Wikipedia"
+  },
+  "d6cf94fd8f": {
+   "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7c/New_York_Public_Library_logo.svg/500px-New_York_Public_Library_logo.svg.png",
+   "title": "New York Public Library",
+   "link": "https://en.wikipedia.org/wiki/New_York_Public_Library",
+   "credit": "Wikipedia"
+  },
+  "21a497f89e": {
+   "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Plaza_Hotel_logo.png",
+   "title": "Plaza Hotel",
+   "link": "https://en.wikipedia.org/wiki/Plaza_Hotel",
+   "credit": "Wikipedia"
+  },
+  "3d77272cb3": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Paradise_garage.jpg",
+   "title": "Paradise Garage",
+   "link": "https://en.wikipedia.org/wiki/Paradise_Garage",
+   "credit": "Wikipedia"
+  },
+  "88137e3746": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/101_Rugby_Road_Prospect_Park_South_from_front.jpg/500px-101_Rugby_Road_Prospect_Park_South_from_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "101 Rugby Road Prospect Park South from front",
+   "link": "https://commons.wikimedia.org/wiki/File:101_Rugby_Road_Prospect_Park_South_from_front.jpg",
+   "credit": "Beyond My Ken, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "8a9881f8f7": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Empire_State_%28Unsplash%29.jpg/500px-Empire_State_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Empire State (Unsplash)",
+   "link": "https://commons.wikimedia.org/wiki/File:Empire_State_(Unsplash).jpg",
+   "credit": "William Wachter waktr, CC0 via Wikimedia Commons"
+  },
+  "6834b68460": {
+   "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Plaza_Hotel_logo.png",
+   "title": "Plaza Hotel",
+   "link": "https://en.wikipedia.org/wiki/Plaza_Hotel",
+   "credit": "Wikipedia"
+  },
+  "633e36c380": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Brill_Building_%2854077164908%29.jpg/500px-The_Brill_Building_%2854077164908%29.jpg",
+   "title": "Brill Building",
+   "link": "https://en.wikipedia.org/wiki/Brill_Building",
+   "credit": "Wikipedia"
+  },
+  "4d439d93e2": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Dakota_%2848269594271%29.jpg/500px-The_Dakota_%2848269594271%29.jpg",
+   "title": "The Dakota",
+   "link": "https://en.wikipedia.org/wiki/The_Dakota",
+   "credit": "Wikipedia"
+  },
+  "0b33b94b68": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/500px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
+   "title": "Metropolitan Museum of Art",
+   "link": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+   "credit": "Wikipedia"
+  },
+  "1adc6aa501": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hotel_Claridge%2C_New_York%2C_1910.jpg/500px-Hotel_Claridge%2C_New_York%2C_1910.jpg",
+   "title": "Hotel Claridge",
+   "link": "https://en.wikipedia.org/wiki/Hotel_Claridge",
+   "credit": "Wikipedia"
+  },
+  "d1376d0a4b": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Central_Station_%288868722095%29.jpg/500px-Central_Station_%288868722095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Central Station (8868722095)",
+   "link": "https://commons.wikimedia.org/wiki/File:Central_Station_(8868722095).jpg",
+   "credit": "Nicolas Vollmer from Munich [Allemagne], CC BY 2.0 via Wikimedia Commons"
+  },
+  "299ed11301": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Apthorp_NE_sunny_jeh.jpg/500px-Apthorp_NE_sunny_jeh.jpg",
+   "title": "The Apthorp",
+   "link": "https://en.wikipedia.org/wiki/The_Apthorp",
+   "credit": "Wikipedia"
+  },
+  "b1a1c8ef83": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Wooster_%26_Broome_Sts_jeh.jpg/500px-Wooster_%26_Broome_Sts_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wooster & Broome Sts jeh",
+   "link": "https://commons.wikimedia.org/wiki/File:Wooster_%26_Broome_Sts_jeh.jpg",
+   "credit": "Jim.henderson, CC0 via Wikimedia Commons"
+  },
+  "ec4d537eca": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/USA-NYC-American_Museum_of_Natural_History.JPG/500px-USA-NYC-American_Museum_of_Natural_History.JPG",
+   "title": "American Museum of Natural History",
+   "link": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History",
+   "credit": "Wikipedia"
+  },
+  "28dc9b533d": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Washington_Mews.jpg/500px-Washington_Mews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Washington Mews",
+   "link": "https://commons.wikimedia.org/wiki/File:Washington_Mews.jpg",
+   "credit": "Kidfly182, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "7581daa0c3": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Waldorf_Astoria_New_York_%2855272623437%29.jpg/500px-Waldorf_Astoria_New_York_%2855272623437%29.jpg",
+   "title": "Waldorf Astoria New York",
+   "link": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York",
+   "credit": "Wikipedia"
+  },
+  "a3cd43bdc6": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1067_Fifth_Avenue_HDR2021_jeh.jpg/500px-1067_Fifth_Avenue_HDR2021_jeh.jpg",
+   "title": "1067 Fifth Avenue",
+   "link": "https://en.wikipedia.org/wiki/1067_Fifth_Avenue",
+   "credit": "Wikipedia"
+  },
+  "026228ef45": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cooper_Hewitt_%2848059131921%29.jpg/500px-Cooper_Hewitt_%2848059131921%29.jpg",
+   "title": "Andrew Carnegie Mansion",
+   "link": "https://en.wikipedia.org/wiki/Andrew_Carnegie_Mansion",
+   "credit": "Wikipedia"
+  },
+  "0cd1f04eed": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/NYC_tree_tag.jpg/500px-NYC_tree_tag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "NYC tree tag",
+   "link": "https://commons.wikimedia.org/wiki/File:NYC_tree_tag.jpg",
+   "credit": "Bristolfolks, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "33d8e5177a": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tudor_City_jeh.JPG/500px-Tudor_City_jeh.JPG",
+   "title": "Tudor City",
+   "link": "https://en.wikipedia.org/wiki/Tudor_City",
+   "credit": "Wikipedia"
+  },
+  "065e097447": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/55_Central_Park_West_%28Ghostbusters_Building%29_by_David_Shankbone.jpg/500px-55_Central_Park_West_%28Ghostbusters_Building%29_by_David_Shankbone.jpg",
+   "title": "55 Central Park West",
+   "link": "https://en.wikipedia.org/wiki/55_Central_Park_West",
+   "credit": "Wikipedia"
+  },
+  "acc933e6f6": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Langham_%2855465048662%29.jpg/500px-The_Langham_%2855465048662%29.jpg",
+   "title": "The Langham (apartment building)",
+   "link": "https://en.wikipedia.org/wiki/The_Langham_(apartment_building)",
+   "credit": "Wikipedia"
+  },
+  "7b8398fdc7": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Firehouse%2C_Hook_and_Ladder_8.jpg/500px-Firehouse%2C_Hook_and_Ladder_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Firehouse, Hook and Ladder 8",
+   "link": "https://commons.wikimedia.org/wiki/File:Firehouse,_Hook_and_Ladder_8.jpg",
+   "credit": "Kidfly182, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "a52b4f5d53": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/28_Howard_Street.jpg/500px-28_Howard_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "28 Howard Street",
+   "link": "https://commons.wikimedia.org/wiki/File:28_Howard_Street.jpg",
+   "credit": "Beyond My Ken, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "a735b5fa28": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Prasada_tall_bright_jeh.jpg/500px-The_Prasada_tall_bright_jeh.jpg",
+   "title": "The Prasada",
+   "link": "https://en.wikipedia.org/wiki/The_Prasada",
+   "credit": "Wikipedia"
+  },
+  "b909f4f7cf": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/80_Irving_Place_entrance.jpg/500px-80_Irving_Place_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "80 Irving Place entrance",
+   "link": "https://commons.wikimedia.org/wiki/File:80_Irving_Place_entrance.jpg",
+   "credit": "Beyond My Ken, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "5bc88e1a30": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Richmond_Terrace_jeh.jpg/500px-Richmond_Terrace_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Richmond Terrace jeh",
+   "link": "https://commons.wikimedia.org/wiki/File:Richmond_Terrace_jeh.jpg",
+   "credit": "Jim.henderson, CC0 via Wikimedia Commons"
+  },
+  "8b2c75f090": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Christadora-house-147-ave-b.jpg/500px-Christadora-house-147-ave-b.jpg",
+   "title": "Christodora House",
+   "link": "https://en.wikipedia.org/wiki/Christodora_House",
+   "credit": "Wikipedia"
+  },
+  "1050a0d8cb": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Christadora-house-147-ave-b.jpg/500px-Christadora-house-147-ave-b.jpg",
+   "title": "Christodora House",
+   "link": "https://en.wikipedia.org/wiki/Christodora_House",
+   "credit": "Wikipedia"
+  },
+  "5f69b166fc": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Morgan_Court%2C_New_York_City.jpg/500px-Morgan_Court%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Morgan Court, New York City",
+   "link": "https://commons.wikimedia.org/wiki/File:Morgan_Court,_New_York_City.jpg",
+   "credit": "Z22, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "657659abe4": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NYCHA_Gowanus_Houses.jpg/500px-NYCHA_Gowanus_Houses.jpg",
+   "title": "Gowanus Houses",
+   "link": "https://en.wikipedia.org/wiki/Gowanus_Houses",
+   "credit": "Wikipedia"
+  },
+  "ea531b837f": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/February_23_2026_Blizzard_in_Manhattan%2C_snow_removal_on_1172_Park_Avenue%2C_Carnegie_Hill%2C_Upper_East_Side%2C_New_York_City_05.jpg/500px-February_23_2026_Blizzard_in_Manhattan%2C_snow_removal_on_1172_Park_Avenue%2C_Carnegie_Hill%2C_Upper_East_Side%2C_New_York_City_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "February 23 2026 Blizzard in Manhattan, snow removal on 1172 Park Avenue, Carnegie Hill, Upper East Side, New York City 05",
+   "link": "https://commons.wikimedia.org/wiki/File:February_23_2026_Blizzard_in_Manhattan,_snow_removal_on_1172_Park_Avenue,_Carnegie_Hill,_Upper_East_Side,_New_York_City_05.jpg",
+   "credit": "Deans Charbal, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "db774b5535": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/66_Perry_St_2022_jeh.jpg/500px-66_Perry_St_2022_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "66 Perry St 2022 jeh",
+   "link": "https://commons.wikimedia.org/wiki/File:66_Perry_St_2022_jeh.jpg",
+   "credit": "Jim.henderson, CC BY 4.0 via Wikimedia Commons"
+  },
+  "7c3f417aeb": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/275_Central_Park_West.jpg/500px-275_Central_Park_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "275 Central Park West",
+   "link": "https://commons.wikimedia.org/wiki/File:275_Central_Park_West.jpg",
+   "credit": "Danifel, CC0 via Wikimedia Commons"
+  },
+  "3870c3dc18": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/66_Perry_St_2022_jeh.jpg/500px-66_Perry_St_2022_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "66 Perry St 2022 jeh",
+   "link": "https://commons.wikimedia.org/wiki/File:66_Perry_St_2022_jeh.jpg",
+   "credit": "Jim.henderson, CC BY 4.0 via Wikimedia Commons"
+  },
+  "5010b04a8a": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/930_Park_Avenue%2C_81st_Street%2C_Carnegie_Hill%2C_Upper_East_Side%2C_Manhattan%2C_Apr_21_2024.jpg/500px-930_Park_Avenue%2C_81st_Street%2C_Carnegie_Hill%2C_Upper_East_Side%2C_Manhattan%2C_Apr_21_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "930 Park Avenue, 81st Street, Carnegie Hill, Upper East Side, Manhattan, Apr 21 2024",
+   "link": "https://commons.wikimedia.org/wiki/File:930_Park_Avenue,_81st_Street,_Carnegie_Hill,_Upper_East_Side,_Manhattan,_Apr_21_2024.jpg",
+   "credit": "Deans Charbal, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "6dcbc4ed9e": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hotel_Chelsea_wordmark.svg/500px-Hotel_Chelsea_wordmark.svg.png",
+   "title": "Hotel Chelsea",
+   "link": "https://en.wikipedia.org/wiki/Hotel_Chelsea",
+   "credit": "Wikipedia"
+  },
+  "eb08d8269a": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tudor_City_jeh.JPG/500px-Tudor_City_jeh.JPG",
+   "title": "Tudor City",
+   "link": "https://en.wikipedia.org/wiki/Tudor_City",
+   "credit": "Wikipedia"
+  },
+  "e79b2e6804": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/55_Central_Park_West_%28Ghostbusters_Building%29_by_David_Shankbone.jpg/500px-55_Central_Park_West_%28Ghostbusters_Building%29_by_David_Shankbone.jpg",
+   "title": "55 Central Park West",
+   "link": "https://en.wikipedia.org/wiki/55_Central_Park_West",
+   "credit": "Wikipedia"
+  },
+  "5007922f14": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/The_River_Mansion%2C_337_Riverside_Drive%2C_New_York_City.jpg/500px-The_River_Mansion%2C_337_Riverside_Drive%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The River Mansion, 337 Riverside Drive, New York City",
+   "link": "https://commons.wikimedia.org/wiki/File:The_River_Mansion,_337_Riverside_Drive,_New_York_City.jpg",
+   "credit": "UnDeuxTroisCatsSank, CC0 via Wikimedia Commons"
+  },
+  "a6c4743d61": {
+   "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Plaza_Hotel_logo.png",
+   "title": "Plaza Hotel",
+   "link": "https://en.wikipedia.org/wiki/Plaza_Hotel",
+   "credit": "Wikipedia"
+  },
+  "aca654e82a": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Broadway_Upper_West_Side_Mar_2023_36_%28cropped%29.jpg/500px-Broadway_Upper_West_Side_Mar_2023_36_%28cropped%29.jpg",
+   "title": "The Ansonia",
+   "link": "https://en.wikipedia.org/wiki/The_Ansonia",
+   "credit": "Wikipedia"
+  },
+  "0564d98eaa": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Madison_Av_Oct_2024_57.jpg/500px-Madison_Av_Oct_2024_57.jpg",
+   "title": "Lotte New York Palace Hotel",
+   "link": "https://en.wikipedia.org/wiki/Lotte_New_York_Palace_Hotel",
+   "credit": "Wikipedia"
+  },
+  "ff8e8000be": {
+   "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/The_Empire_Hotel_%28New_York_City%29_logo.svg/330px-The_Empire_Hotel_%28New_York_City%29_logo.svg.png",
+   "title": "The Empire Hotel (New York City)",
+   "link": "https://en.wikipedia.org/wiki/The_Empire_Hotel_(New_York_City)",
+   "credit": "Wikipedia"
+  },
+  "1a0aab5c87": {
+   "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/The_Empire_Hotel_%28New_York_City%29_logo.svg/330px-The_Empire_Hotel_%28New_York_City%29_logo.svg.png",
+   "title": "The Empire Hotel (New York City)",
+   "link": "https://en.wikipedia.org/wiki/The_Empire_Hotel_(New_York_City)",
+   "credit": "Wikipedia"
+  },
+  "4bb6cb0786": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Schinasi-351-riverside.jpg",
+   "title": "Schinasi House",
+   "link": "https://en.wikipedia.org/wiki/Schinasi_House",
+   "credit": "Wikipedia"
+  },
+  "27c3858070": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Turner_Towers_%28front_facade_and_awning%29%2C_135_Eastern_Parkway%2C_Prospect_Heights%2C_Brooklyn.jpg/500px-Turner_Towers_%28front_facade_and_awning%29%2C_135_Eastern_Parkway%2C_Prospect_Heights%2C_Brooklyn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Turner Towers (front facade and awning), 135 Eastern Parkway, Prospect Heights, Brooklyn",
+   "link": "https://commons.wikimedia.org/wiki/File:Turner_Towers_(front_facade_and_awning),_135_Eastern_Parkway,_Prospect_Heights,_Brooklyn.jpg",
+   "credit": "Deansfa, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "d15ad5abbd": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/American_Irish_Historical_Society_%284675641165%29.jpg/500px-American_Irish_Historical_Society_%284675641165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "American Irish Historical Society (4675641165)",
+   "link": "https://commons.wikimedia.org/wiki/File:American_Irish_Historical_Society_(4675641165).jpg",
+   "credit": "Tony Hisgett from Birmingham, UK, CC BY 2.0 via Wikimedia Commons"
+  },
+  "c10fc4480f": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/1150_Fifth_Avenue_%28green_awning%29%2C_96th_Street_entrance%2C_Carnegie_Hill%2C_Upper_East_Side%2C_Manhattan%2C_NY.jpg/500px-1150_Fifth_Avenue_%28green_awning%29%2C_96th_Street_entrance%2C_Carnegie_Hill%2C_Upper_East_Side%2C_Manhattan%2C_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1150 Fifth Avenue (green awning), 96th Street entrance, Carnegie Hill, Upper East Side, Manhattan, NY",
+   "link": "https://commons.wikimedia.org/wiki/File:1150_Fifth_Avenue_(green_awning),_96th_Street_entrance,_Carnegie_Hill,_Upper_East_Side,_Manhattan,_NY.jpg",
+   "credit": "Deansfa, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "00917bad0f": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Upper_West_Side_May_2026_198.jpg/500px-Upper_West_Side_May_2026_198.jpg",
+   "title": "The Belnord",
+   "link": "https://en.wikipedia.org/wiki/The_Belnord",
+   "credit": "Wikipedia"
+  },
+  "82d4e527cb": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Woolworth_Building_word_logo.svg/250px-Woolworth_Building_word_logo.svg.png",
+   "title": "Woolworth Building",
+   "link": "https://en.wikipedia.org/wiki/Woolworth_Building",
+   "credit": "Wikipedia"
+  },
+  "1bd2bbc2db": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hudson_Yards_facing_east_%28cropped%2C_35%29.jpg/500px-Hudson_Yards_facing_east_%28cropped%2C_35%29.jpg",
+   "title": "35 Hudson Yards",
+   "link": "https://en.wikipedia.org/wiki/35_Hudson_Yards",
+   "credit": "Wikipedia"
+  },
+  "62c874dce2": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/3%264_Gramercy_Park_doorways.jpg/500px-3%264_Gramercy_Park_doorways.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "3&4 Gramercy Park doorways",
+   "link": "https://commons.wikimedia.org/wiki/File:3%264_Gramercy_Park_doorways.jpg",
+   "credit": "Beyond My Ken, CC BY-SA 4.0 via Wikimedia Commons"
+  }
+ }
+}

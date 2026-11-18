@@ -1,0 +1,73 @@
+{
+ "a83838db2d": {
+  "geocode_query": null,
+  "approx_lat": 40.73534,
+  "approx_lon": -73.98992,
+  "radius_m": 150,
+  "notes_append": "Park Avenue South does not reach 15th Street; at that corner the avenue is Union Square East, so the mark sits there."
+ },
+ "c85e296630": {
+  "geocode_query": null,
+  "approx_lat": 40.7103,
+  "approx_lon": -74.0027,
+  "radius_m": 150,
+  "notes_append": "Vandewater Street survives only as a stub near Pace University and is not in the street data used here; the mark sits on Frankfort Street beside it."
+ },
+ "40f80fde39": {
+  "approx_lat": 40.8462,
+  "approx_lon": -73.8968,
+  "radius_m": 800,
+  "notes_append": "The sources name only Bathgate Avenue, so the mark is placed by hand at the avenue's middle stretch with a wide circle."
+ },
+ "f3c1e728f1": {
+  "drop": true,
+  "_why": "replaced by the three Nolan flats in gaps_tree_grows.json"
+ },
+ "84486f3f69": {
+  "drop": true,
+  "_why": "duplicate of carrie-lola-17th-st in books_1900_1959"
+ },
+ "9d80ef5d3a": {
+  "drop": true,
+  "_why": "duplicate of the Spruce Street box in books_pre1900"
+ },
+ "90e49765e0": {
+  "drop": true,
+  "_why": "duplicate of the Mott Street lodging house in books_pre1900"
+ },
+ "7f046358f8": {
+  "drop": true,
+  "_why": "Avenue Q is in an unnamed outer borough; cannot be mapped"
+ },
+ "2f7bc73e95": {
+  "precision": "invented",
+  "radius_m": 60
+ },
+ "907926cb97": {
+  "precision": "address_in_work",
+  "notes_append": "Carr's text gives the number: Moore arrives at \"Kreizler's house, at 283 East Seventeenth Street,\" across from Stuyvesant Park. The number existed in the 19th century (an 1883 notice places the Sisters of St. John Baptist at No. 283 East Seventeenth Street), though the building is gone."
+ },
+ "beea86de41": {
+  "precision": "address_in_work",
+  "notes_append": "The novel itself gives the number: \"my grandmother's house at 19 Washington Square North.\""
+ },
+ "e394c1ad2c": {
+  "approx_lat": 40.765646,
+  "approx_lon": -73.972117,
+  "geocode_query": null,
+  "notes_append": "The show sets the two houses across East 61st Street from each other; the two marks are pulled slightly apart so both can be clicked, not to claim which side each is on."
+ },
+ "2f54f777ac": {
+  "approx_lat": 40.765406,
+  "approx_lon": -73.972117,
+  "geocode_query": null,
+  "notes_append": "The show sets the two houses across East 61st Street from each other; the two marks are pulled slightly apart so both can be clicked, not to claim which side each is on."
+ },
+ "1a9e3351a5": {
+  "geocode_query": null,
+  "approx_lat": 40.773202,
+  "approx_lon": -73.962418,
+  "radius_m": 60,
+  "precision": "address_in_work"
+ }
+}

@@ -1,0 +1,5 @@
+data/osm_streets.json
+data/osm_slices/
+research/pages/
+__pycache__/
+.DS_Store

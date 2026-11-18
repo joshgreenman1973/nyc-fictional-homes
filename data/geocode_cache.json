@@ -1,0 +1,2072 @@
+{
+ "3 Beekman Place, Manhattan|Manhattan": {
+  "lat": 40.752796,
+  "lon": -73.964754,
+  "label": "3 BEEKMAN PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1038 East Tremont Avenue, Bronx|Bronx": {
+  "lat": 40.8401087,
+  "lon": -73.8802435,
+  "label": "1038, East Tremont Avenue, West Farms, The Bronx, Bronx County, New York, 10460, United States",
+  "via": "nominatim"
+ },
+ "328 Chauncey Street, Brooklyn|Brooklyn": {
+  "lat": 40.681359,
+  "lon": -73.91934,
+  "label": "328 CHAUNCEY STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "8 Remsen Street, Brooklyn|Brooklyn": {
+  "lat": 40.694994,
+  "lon": -73.99833,
+  "label": "8 REMSEN STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "1049 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.780498,
+  "lon": -73.956517,
+  "label": "1049 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "89-70 Cooper Avenue, Queens|Queens": {
+  "lat": 40.712581,
+  "lon": -73.860897,
+  "label": "89-70 COOPER AVENUE, Fresh Pond, NY, USA",
+  "via": "geosearch"
+ },
+ "185 East 85th Street, Manhattan|Manhattan": {
+  "lat": 40.778701,
+  "lon": -73.954646,
+  "label": "185 EAST 85 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "332 East 64th Street, Manhattan|Manhattan": {
+  "lat": 40.763392,
+  "lon": -73.96147,
+  "label": "332, East 64th Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",
+  "via": "nominatim"
+ },
+ "332 East 84th Street, Manhattan|Manhattan": {
+  "lat": 40.77579,
+  "lon": -73.951411,
+  "label": "332 EAST 84 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "10 St. Luke's Place, Manhattan|Manhattan": {
+  "lat": 40.730311,
+  "lon": -74.005876,
+  "label": "10 SAINT LUKE'S PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "51 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.734411,
+  "lon": -73.994365,
+  "label": "51 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "155 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.79097,
+  "lon": -73.979232,
+  "label": "155 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "129 West 81st Street, Manhattan|Manhattan": {
+  "lat": 40.783846,
+  "lon": -73.97536,
+  "label": "129 WEST 81 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "17 East 7th Street, Manhattan|Manhattan": {
+  "lat": 40.728789,
+  "lon": -73.989577,
+  "label": "17 EAST 7 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "448 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.79737,
+  "lon": -73.960853,
+  "label": "448 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "16 West 75th Street, Manhattan|Manhattan": {
+  "lat": 40.778392,
+  "lon": -73.975668,
+  "label": "16 WEST 75 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "78 West 86th Street, Manhattan|Manhattan": {
+  "lat": 40.78614,
+  "lon": -73.972018,
+  "label": "78 WEST 86 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "321 West 90th Street, Manhattan|Manhattan": {
+  "lat": 40.792004,
+  "lon": -73.976772,
+  "label": "321 WEST 90 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "90 Bedford Street, Manhattan|Manhattan": {
+  "lat": 40.732292,
+  "lon": -74.005243,
+  "label": "90 BEDFORD STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "19 Grove Street, Manhattan|Manhattan": {
+  "lat": 40.732658,
+  "lon": -74.005305,
+  "label": "19 GROVE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "5 Morton Street, Manhattan|Manhattan": {
+  "lat": 40.731511,
+  "lon": -74.003504,
+  "label": "5 MORTON STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "66 Perry Street, Manhattan|Manhattan": {
+  "lat": 40.735306,
+  "lon": -74.00384,
+  "label": "66 PERRY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1136 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.786941,
+  "lon": -73.956091,
+  "label": "1136 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "455 Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.757994,
+  "lon": -73.974923,
+  "label": "455 MADISON AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "22 North 6th Street, Brooklyn|Brooklyn": {
+  "lat": 40.719878,
+  "lon": -73.963516,
+  "label": "22 NORTH 6 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "160 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.791274,
+  "lon": -73.979086,
+  "label": "160 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "404 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.806563,
+  "lon": -73.967043,
+  "label": "404 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "288 East 10th Street, Manhattan|Manhattan": {
+  "lat": 40.727837,
+  "lon": -73.982619,
+  "label": "288 EAST 10 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "311 East 12th Street, Manhattan|Manhattan": {
+  "lat": 40.73087,
+  "lon": -73.985114,
+  "label": "311 EAST 12 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "225 West 86th Street, Manhattan|Manhattan": {
+  "lat": 40.788339,
+  "lon": -73.975977,
+  "label": "225 WEST 86 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "217 East Broadway, Manhattan|Manhattan": {
+  "lat": 40.714101,
+  "lon": -73.987377,
+  "label": "217 EAST B'WAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "87 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.77516,
+  "lon": -73.99133,
+  "label": "87 RIVERSIDE DRIVE SOUTH, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "351 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.802988,
+  "lon": -73.969278,
+  "label": "351 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "106 Cambridge Place, Brooklyn|Brooklyn": {
+  "lat": 40.683917,
+  "lon": -73.963126,
+  "label": "106 CAMBRIDGE PLACE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "8070 Harbor View Terrace, Brooklyn|Brooklyn": {
+  "lat": 40.628783,
+  "lon": -74.038961,
+  "label": "8070 HARBOR VIEW TERRACE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "697 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.7685,
+  "lon": -73.96461,
+  "label": "697 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "900 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.776124,
+  "lon": -73.960695,
+  "label": "900 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "7 East 75th Street, Manhattan|Manhattan": {
+  "lat": 40.774265,
+  "lon": -73.964663,
+  "label": "7 EAST 75 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "485 West 46th Street, Manhattan|Manhattan": {
+  "lat": 40.7621234,
+  "lon": -73.9932408,
+  "label": "485, West 46th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",
+  "via": "nominatim"
+ },
+ "344 West 78th Street, Manhattan|Manhattan": {
+  "lat": 40.7839058,
+  "lon": -73.9824636,
+  "label": "344, West 78th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",
+  "via": "nominatim"
+ },
+ "74 Freeman Street, Brooklyn|Brooklyn": {
+  "lat": 40.733925,
+  "lon": -73.958967,
+  "label": "74 FREEMAN STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "140 Metropolitan Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.715987,
+  "lon": -73.962358,
+  "label": "140 METROPOLITAN AVENUE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "112 West 13th Street, Manhattan|Manhattan": {
+  "lat": 40.736856,
+  "lon": -73.998205,
+  "label": "112 WEST 13 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "768 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.76446,
+  "lon": -73.97449,
+  "label": "768 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "218 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.794644,
+  "lon": -73.9761596,
+  "label": "218, Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",
+  "via": "nominatim"
+ },
+ "Madison Square Park, Manhattan|Manhattan": {
+  "lat": 40.742203,
+  "lon": -73.9879655,
+  "label": "Madison Square Park, 11, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",
+  "via": "nominatim"
+ },
+ "1515 Broadway, Manhattan|Manhattan": {
+  "lat": 40.757925,
+  "lon": -73.986425,
+  "label": "1515 B'WAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "61 Washington Square South, Manhattan|Manhattan": {
+  "lat": 40.7298,
+  "lon": -73.997904,
+  "label": "61 WASHINGTON SQUARE SOUTH, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "175 West 137th Street, Manhattan|Manhattan": {
+  "lat": 40.81644,
+  "lon": -73.9418,
+  "label": "175 WEST 137 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "140 East 63rd Street, Manhattan|Manhattan": {
+  "lat": 40.764414,
+  "lon": -73.966215,
+  "label": "140 EAST 63 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "55 West 81st Street, Manhattan|Manhattan": {
+  "lat": 40.783251,
+  "lon": -73.974079,
+  "label": "55 WEST 81 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "235 East 84th Street, Manhattan|Manhattan": {
+  "lat": 40.777121,
+  "lon": -73.95346,
+  "label": "235 EAST 84 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "35 Great Jones Street, Manhattan|Manhattan": {
+  "lat": 40.726763,
+  "lon": -73.993112,
+  "label": "35 GREAT JONES STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "222 West 23rd Street, Manhattan|Manhattan": {
+  "lat": 40.744327,
+  "lon": -73.996869,
+  "label": "222 WEST 23 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "575 Grand Street, Manhattan|Manhattan": {
+  "lat": 40.713164,
+  "lon": -73.979333,
+  "label": "575 GRAND STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "West 78th Street and Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.7824641,
+  "lon": -73.9788209,
+  "label": "West 78th Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and West 33rd Street, Manhattan|Manhattan": {
+  "lat": 40.747774,
+  "lon": -73.9850381,
+  "label": "Fifth Avenue and West 33rd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 72nd Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7787867,
+  "lon": -73.9820522,
+  "label": "West 72nd Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Washington Square North and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7314217,
+  "lon": -73.996981,
+  "label": "Washington Square North and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 158th Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.8347297,
+  "lon": -73.9445301,
+  "label": "West 158th Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and West 52nd Street, Manhattan|Manhattan": {
+  "lat": 40.7597993,
+  "lon": -73.9762894,
+  "label": "Fifth Avenue and West 52nd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and East 8th Street, Manhattan|Manhattan": {
+  "lat": 40.7322611,
+  "lon": -73.9963683,
+  "label": "Fifth Avenue and East 8th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Delancey Street and Chrystie Street, Manhattan|Manhattan": {
+  "lat": 40.7200534,
+  "lon": -73.9928771,
+  "label": "Delancey Street and Chrystie Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Irving Place and East 17th Street, Manhattan|Manhattan": {
+  "lat": 40.7358905,
+  "lon": -73.987395,
+  "label": "Irving Place and East 17th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 14th Street and Second Avenue, Manhattan|Manhattan": {
+  "lat": 40.732353,
+  "lon": -73.9849374,
+  "label": "East 14th Street and Second Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Washington Square South and Thompson Street, Manhattan|Manhattan": {
+  "lat": 40.7302937,
+  "lon": -73.9980762,
+  "label": "Washington Square South and Thompson Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 38th Street and Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.7496429,
+  "lon": -73.9796046,
+  "label": "East 38th Street and Park Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 87th Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7890078,
+  "lon": -73.976052,
+  "label": "West 87th Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 44th Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7572664,
+  "lon": -73.9858286,
+  "label": "West 44th Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 43rd Street and Eighth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7579117,
+  "lon": -73.9892961,
+  "label": "West 43rd Street and Eighth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Riverside Drive and West 79th Street, Manhattan|Manhattan": {
+  "lat": 40.7849764,
+  "lon": -73.9826519,
+  "label": "Riverside Drive and West 79th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Allen Street and Grand Street, Manhattan|Manhattan": {
+  "lat": 40.7174356,
+  "lon": -73.991452,
+  "label": "Allen Street and Grand Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Delancey Street and Essex Street, Manhattan|Manhattan": {
+  "lat": 40.7186305,
+  "lon": -73.9881675,
+  "label": "Delancey Street and Essex Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 59th Street and Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.7704036,
+  "lon": -73.9875948,
+  "label": "West 59th Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 35th Street and Seventh Avenue, Manhattan|Manhattan": {
+  "lat": 40.7516588,
+  "lon": -73.9901341,
+  "label": "West 35th Street and Seventh Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 138th Street and Frederick Douglass Boulevard, Manhattan|Manhattan": {
+  "lat": 40.818424,
+  "lon": -73.945141,
+  "label": "West 138th Street and Frederick Douglass Boulevard (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 139th Street and Adam Clayton Powell Jr. Boulevard, Manhattan|Manhattan": {
+  "lat": 40.8178879,
+  "lon": -73.941924,
+  "label": "West 139th Street and Adam Clayton Powell Jr. Boulevard (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 133rd Street and Lenox Avenue, Manhattan|Manhattan": {
+  "lat": 40.8128495,
+  "lon": -73.9418835,
+  "label": "West 133rd Street and Lenox Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Myrtle Avenue and Prince Street, Brooklyn|Brooklyn": {
+  "lat": 40.693651,
+  "lon": -73.9825055,
+  "label": "Myrtle Avenue and Prince Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Jane Street and Hudson Street, Manhattan|Manhattan": {
+  "lat": 40.7381397,
+  "lon": -74.00561,
+  "label": "Jane Street and Hudson Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 35th Street and Eleventh Avenue, Manhattan|Manhattan": {
+  "lat": 40.7564645,
+  "lon": -74.0014663,
+  "label": "West 35th Street and Eleventh Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 116th Street and Frederick Douglass Boulevard, Manhattan|Manhattan": {
+  "lat": 40.8044178,
+  "lon": -73.9553696,
+  "label": "West 116th Street and Frederick Douglass Boulevard (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Seventh Avenue and West 55th Street, Manhattan|Manhattan": {
+  "lat": 40.764227,
+  "lon": -73.9809769,
+  "label": "Seventh Avenue and West 55th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "La Salle Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.8138218,
+  "lon": -73.9598,
+  "label": "La Salle Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 125th Street and Lenox Avenue, Manhattan|Manhattan": {
+  "lat": 40.8078108,
+  "lon": -73.9455708,
+  "label": "West 125th Street and Lenox Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Park Avenue and East 76th Street, Manhattan|Manhattan": {
+  "lat": 40.773735,
+  "lon": -73.9620329,
+  "label": "Park Avenue and East 76th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 90th Street and Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.792175,
+  "lon": -73.9776753,
+  "label": "West 90th Street and Riverside Drive (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West End Avenue and West 71st Street, Manhattan|Manhattan": {
+  "lat": 40.7791258,
+  "lon": -73.9849751,
+  "label": "West End Avenue and West 71st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Second Avenue and East 10th Street, Manhattan|Manhattan": {
+  "lat": 40.729779,
+  "lon": -73.986812,
+  "label": "Second Avenue and East 10th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and East 57th Street, Manhattan|Manhattan": {
+  "lat": 40.7629723,
+  "lon": -73.9739744,
+  "label": "Fifth Avenue and East 57th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 28th Street and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7446783,
+  "lon": -73.9873007,
+  "label": "West 28th Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 39th Street and Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.7509069,
+  "lon": -73.9806768,
+  "label": "East 39th Street and Madison Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 23rd Street and Ninth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7465212,
+  "lon": -74.0013497,
+  "label": "West 23rd Street and Ninth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Madison Avenue and East 36th Street, Manhattan|Manhattan": {
+  "lat": 40.7490548,
+  "lon": -73.9820225,
+  "label": "Madison Avenue and East 36th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and West 12th Street, Manhattan|Manhattan": {
+  "lat": 40.7346805,
+  "lon": -73.9946012,
+  "label": "Fifth Avenue and West 12th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mercer Street and Prince Street, Manhattan|Manhattan": {
+  "lat": 40.724632,
+  "lon": -73.998585,
+  "label": "Mercer Street and Prince Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "York Avenue and East 91st Street, Manhattan|Manhattan": {
+  "lat": 40.779149,
+  "lon": -73.944779,
+  "label": "York Avenue and East 91st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Canal Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7194015,
+  "lon": -74.0018814,
+  "label": "Canal Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Third Avenue and East 10th Street, Manhattan|Manhattan": {
+  "lat": 40.7307259,
+  "lon": -73.9890608,
+  "label": "Third Avenue and East 10th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Great Jones Street and Lafayette Street, Manhattan|Manhattan": {
+  "lat": 40.7272894,
+  "lon": -73.9936231,
+  "label": "Great Jones Street and Lafayette Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 23rd Street and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7415506,
+  "lon": -73.9895966,
+  "label": "West 23rd Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "218 West 58th Street, Manhattan|Manhattan": {
+  "lat": 40.766438,
+  "lon": -73.981058,
+  "label": "218 WEST 58 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Broadway and West 32nd Street, Manhattan|Manhattan": {
+  "lat": 40.7483045,
+  "lon": -73.9881935,
+  "label": "Broadway and West 32nd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mott Street and Hester Street, Manhattan|Manhattan": {
+  "lat": 40.7178782,
+  "lon": -73.9971031,
+  "label": "Mott Street and Hester Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 11th Street and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7340457,
+  "lon": -73.9950635,
+  "label": "West 11th Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Spruce Street and Nassau Street, Manhattan|Manhattan": {
+  "lat": 40.7116883,
+  "lon": -74.0058474,
+  "label": "Spruce Street and Nassau Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mott Street and Grand Street, Manhattan|Manhattan": {
+  "lat": 40.7190617,
+  "lon": -73.9964718,
+  "label": "Mott Street and Grand Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Wall Street and Broad Street, Manhattan|Manhattan": {
+  "lat": 40.7071202,
+  "lon": -74.0106735,
+  "label": "Wall Street and Broad Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 10th Street and Avenue of the Americas, Manhattan|Manhattan": {
+  "lat": 40.7347874,
+  "lon": -73.9987127,
+  "label": "West 10th Street and Avenue of the Americas (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mulberry Street and Bayard Street, Manhattan|Manhattan": {
+  "lat": 40.7159216,
+  "lon": -73.9993221,
+  "label": "Mulberry Street and Bayard Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Pearl Street and Hanover Square, Manhattan|Manhattan": {
+  "lat": 40.7045596,
+  "lon": -74.0094849,
+  "label": "Pearl Street and Hanover Square (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Liberty Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7091731,
+  "lon": -74.0105706,
+  "label": "Liberty Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "State Street and Bridge Street, Manhattan|Manhattan": {
+  "lat": 40.7036181,
+  "lon": -74.0144028,
+  "label": "State Street and Bridge Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Pine Street and William Street, Manhattan|Manhattan": {
+  "lat": 40.7069579,
+  "lon": -74.0090037,
+  "label": "Pine Street and William Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mott Street and Bayard Street, Manhattan|Manhattan": {
+  "lat": 40.7156303,
+  "lon": -73.9984926,
+  "label": "Mott Street and Bayard Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Essex Street and Hester Street, Manhattan|Manhattan": {
+  "lat": 40.7155607,
+  "lon": -73.9897482,
+  "label": "Essex Street and Hester Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Division Street and Eldridge Street, Manhattan|Manhattan": {
+  "lat": 40.7142862,
+  "lon": -73.9939355,
+  "label": "Division Street and Eldridge Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Madison Street and Pike Street, Manhattan|Manhattan": {
+  "lat": 40.7124807,
+  "lon": -73.9922797,
+  "label": "Madison Street and Pike Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Cherry Street and Clinton Street, Manhattan|Manhattan": {
+  "lat": 40.7115328,
+  "lon": -73.9867498,
+  "label": "Cherry Street and Clinton Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Henry Street and Clinton Street, Manhattan|Manhattan": {
+  "lat": 40.7136336,
+  "lon": -73.9870806,
+  "label": "Henry Street and Clinton Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Clinton Street and Delancey Street, Manhattan|Manhattan": {
+  "lat": 40.7176161,
+  "lon": -73.9858243,
+  "label": "Clinton Street and Delancey Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 19th Street and Second Avenue, Manhattan|Manhattan": {
+  "lat": 40.7354311,
+  "lon": -73.9826949,
+  "label": "East 19th Street and Second Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 26th Street and Seventh Avenue, Manhattan|Manhattan": {
+  "lat": 40.7460176,
+  "lon": -73.9942525,
+  "label": "West 26th Street and Seventh Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "237 East 17th Street, Manhattan|Manhattan": {
+  "lat": 40.734774,
+  "lon": -73.984183,
+  "label": "237 EAST 17 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "19 Washington Square North, Manhattan|Manhattan": {
+  "lat": 40.731981,
+  "lon": -73.997517,
+  "label": "19 WASHINGTON SQUARE NORTH, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "34 Gramercy Park East, Manhattan|Manhattan": {
+  "lat": 40.737362,
+  "lon": -73.984973,
+  "label": "34 GRAMERCY PARK EAST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "19 Gramercy Park South, Manhattan|Manhattan": {
+  "lat": 40.737421,
+  "lon": -73.986056,
+  "label": "19 GRAMERCY PARK SOUTH, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "169 East 71st Street, Manhattan|Manhattan": {
+  "lat": 40.76961,
+  "lon": -73.961921,
+  "label": "169 EAST 71 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1 West 72nd Street, Manhattan|Manhattan": {
+  "lat": 40.776785,
+  "lon": -73.975905,
+  "label": "1 WEST 72 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "55 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.772204,
+  "lon": -73.979213,
+  "label": "55 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "14 North Moore Street, Manhattan|Manhattan": {
+  "lat": 40.719574,
+  "lon": -74.00662,
+  "label": "14 NO MOORE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "51 West 67th Street, Manhattan|Manhattan": {
+  "lat": 40.774261,
+  "lon": -73.980663,
+  "label": "51 WEST 67 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "55 West 69th Street, Manhattan|Manhattan": {
+  "lat": 40.775349,
+  "lon": -73.979373,
+  "label": "55 WEST 69 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "49 West 10th Street, Manhattan|Manhattan": {
+  "lat": 40.734573,
+  "lon": -73.997655,
+  "label": "49 WEST 10 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "111 Waverly Place, Manhattan|Manhattan": {
+  "lat": 40.732625,
+  "lon": -73.999024,
+  "label": "111 WAVERLY PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "131 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.789325,
+  "lon": -73.980294,
+  "label": "131 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "135 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.777279,
+  "lon": -73.975521,
+  "label": "135 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Broadway and West 44th Street, Manhattan|Manhattan": {
+  "lat": 40.7572664,
+  "lon": -73.9858286,
+  "label": "Broadway and West 44th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "221 79th Street, Brooklyn|Brooklyn": {
+  "lat": 40.629195,
+  "lon": -74.030815,
+  "label": "221 79 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "19 Cranberry Street, Brooklyn|Brooklyn": {
+  "lat": 40.700242,
+  "lon": -73.994596,
+  "label": "19 CRANBERRY STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "173 Stuyvesant Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.689116,
+  "lon": -73.933049,
+  "label": "173 STUYVESANT AVENUE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "7 Arlington Place, Brooklyn|Brooklyn": {
+  "lat": 40.681385,
+  "lon": -73.951052,
+  "label": "7 ARLINGTON PLACE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "57 East 11th Street, Manhattan|Manhattan": {
+  "lat": 40.733153,
+  "lon": -73.992362,
+  "label": "57 EAST 11 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "32 West 89th Street, Manhattan|Manhattan": {
+  "lat": 40.787533,
+  "lon": -73.969188,
+  "label": "32 WEST 89 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "328 West 89th Street, Manhattan|Manhattan": {
+  "lat": 40.791194,
+  "lon": -73.97785,
+  "label": "328 WEST 89 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "210 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.794072,
+  "lon": -73.97601,
+  "label": "210 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "85 Grand Street, Manhattan|Manhattan": {
+  "lat": 40.721538,
+  "lon": -74.002505,
+  "label": "85 GRAND STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "60 West 75th Street, Manhattan|Manhattan": {
+  "lat": 40.779106,
+  "lon": -73.977159,
+  "label": "60 WEST 75 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "300 East 54th Street, Manhattan|Manhattan": {
+  "lat": 40.757012,
+  "lon": -73.966532,
+  "label": "300 EAST 54 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "506 Richmond Terrace, Staten Island|Staten Island": {
+  "lat": 40.646344,
+  "lon": -74.089004,
+  "label": "506 RICHMOND TERRACE, Staten Island, NY, USA",
+  "via": "geosearch"
+ },
+ "80 Irving Place, Manhattan|Manhattan": {
+  "lat": 40.737055,
+  "lon": -73.986224,
+  "label": "80 IRVING PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "176 East 77th Street, Manhattan|Manhattan": {
+  "lat": 40.77286,
+  "lon": -73.9587,
+  "label": "176 EAST 77 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "339 Convent Avenue, Manhattan|Manhattan": {
+  "lat": 40.823765,
+  "lon": -73.946486,
+  "label": "339 CONVENT AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "301 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.756511,
+  "lon": -73.973347,
+  "label": "301 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "196 16th Street, Brooklyn|Brooklyn": {
+  "lat": 40.66404,
+  "lon": -73.98942,
+  "label": "196 16 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "88-39 69th Road, Queens|Queens": {
+  "lat": 40.710405,
+  "lon": -73.855045,
+  "label": "88-39 69 ROAD, Forest Hills, NY, USA",
+  "via": "geosearch"
+ },
+ "88-37 69th Road, Queens|Queens": {
+  "lat": 40.71034,
+  "lon": -73.855062,
+  "label": "88-37 69 ROAD, Forest Hills, NY, USA",
+  "via": "geosearch"
+ },
+ "Tudor City Place and East 41st Street, Manhattan|Manhattan": {
+  "lat": 40.7484102,
+  "lon": -73.9709247,
+  "label": "Tudor City Place and East 41st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "187 Chrystie Street, Manhattan|Manhattan": {
+  "lat": 40.721817,
+  "lon": -73.992263,
+  "label": "187 CHRYSTIE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "43-25 43rd Street, Queens|Queens": {
+  "lat": 40.744466,
+  "lon": -73.921018,
+  "label": "43-25 43 STREET, Sunnyside, NY, USA",
+  "via": "geosearch"
+ },
+ "392 South 5th Street, Brooklyn|Brooklyn": {
+  "lat": 40.707477,
+  "lon": -73.953461,
+  "label": "392 SOUTH 5 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "441 West 43rd Street, Manhattan|Manhattan": {
+  "lat": 40.759909,
+  "lon": -73.993611,
+  "label": "441 WEST 43 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "2211 Broadway, Manhattan|Manhattan": {
+  "lat": 40.783752,
+  "lon": -73.980498,
+  "label": "2211 BROADWAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "15 West 18th Street, Manhattan|Manhattan": {
+  "lat": 40.739162,
+  "lon": -73.992813,
+  "label": "15 WEST 18 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "6 West 19th Street, Manhattan|Manhattan": {
+  "lat": 40.73916,
+  "lon": -73.991859,
+  "label": "6 WEST 19 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "28 Howard Street, Manhattan|Manhattan": {
+  "lat": 40.719671,
+  "lon": -74.000369,
+  "label": "28 HOWARD STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "307 Spring Street, Manhattan|Manhattan": {
+  "lat": 40.726107,
+  "lon": -74.008455,
+  "label": "307 SPRING STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1067 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.782475,
+  "lon": -73.959407,
+  "label": "1067 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "2 East 91st Street, Manhattan|Manhattan": {
+  "lat": 40.784327,
+  "lon": -73.957762,
+  "label": "2 EAST 91 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "25 Tudor City Place, Manhattan|Manhattan": {
+  "lat": 40.748601,
+  "lon": -73.970507,
+  "label": "25 TUDOR CITY PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "838 West End Avenue, Manhattan|Manhattan": {
+  "lat": 40.798217,
+  "lon": -73.97071,
+  "label": "838 WEST END AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "50 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.77163,
+  "lon": -73.979645,
+  "label": "50 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "101 Rugby Road, Brooklyn|Brooklyn": {
+  "lat": 40.647372,
+  "lon": -73.966238,
+  "label": "101 RUGBY ROAD, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "102 Prince Street, Manhattan|Manhattan": {
+  "lat": 40.724766,
+  "lon": -73.999214,
+  "label": "102 PRINCE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "800 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.77272,
+  "lon": -73.962999,
+  "label": "800 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "252 West 139th Street, Manhattan|Manhattan": {
+  "lat": 40.818555,
+  "lon": -73.944003,
+  "label": "252 WEST 139 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1478 East 57th Street, Brooklyn|Brooklyn": {
+  "lat": 40.617508,
+  "lon": -73.920153,
+  "label": "1478 EAST 57 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "113 East 38th Street, Manhattan|Manhattan": {
+  "lat": 40.749387,
+  "lon": -73.978451,
+  "label": "113 EAST 38 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "211 Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.748659,
+  "lon": -73.981921,
+  "label": "211 MADISON AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "16 Mercer Street, Manhattan|Manhattan": {
+  "lat": 40.72038,
+  "lon": -74.001871,
+  "label": "16 MERCER STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "2 East 88th Street, Manhattan|Manhattan": {
+  "lat": 40.7826,
+  "lon": -73.959284,
+  "label": "2 EAST 88 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "38 West 94th Street, Manhattan|Manhattan": {
+  "lat": 40.790748,
+  "lon": -73.967004,
+  "label": "38 WEST 94 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "59 Clifford Place, Bronx|Bronx": {
+  "lat": 40.846182,
+  "lon": -73.911697,
+  "label": "59 CLIFFORD PLACE, Bronx, NY, USA",
+  "via": "geosearch"
+ },
+ "59 Orient Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.715432,
+  "lon": -73.939339,
+  "label": "59 ORIENT AVENUE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "25 North Moore Street, Manhattan|Manhattan": {
+  "lat": 40.720011,
+  "lon": -74.007141,
+  "label": "25 NORTH MOORE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "252 Broome Street, Manhattan|Manhattan": {
+  "lat": 40.718197,
+  "lon": -73.989815,
+  "label": "252 BROOME STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "129 East 73rd Street, Manhattan|Manhattan": {
+  "lat": 40.77143,
+  "lon": -73.961901,
+  "label": "129 EAST 73 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "440 Riverside Drive, Manhattan|Manhattan": {
+  "lat": 40.808942,
+  "lon": -73.965157,
+  "label": "440 RIVERSIDE DRIVE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "135 Eastern Parkway, Brooklyn|Brooklyn": {
+  "lat": 40.67254,
+  "lon": -73.964102,
+  "label": "135 EASTERN PARKWAY, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "9 West 31st Street, Manhattan|Manhattan": {
+  "lat": 40.747121,
+  "lon": -73.986661,
+  "label": "9 WEST 31 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "77 East 2nd Street, Manhattan|Manhattan": {
+  "lat": 40.724149,
+  "lon": -73.988907,
+  "label": "77 EAST 2 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "58-56 41st Drive, Queens|Queens": {
+  "lat": 40.743535,
+  "lon": -73.905089,
+  "label": "58-56 41 DRIVE, Woodside, NY, USA",
+  "via": "geosearch"
+ },
+ "Sutton Place and East 57th Street, Manhattan|Manhattan": {
+  "lat": 40.7573667,
+  "lon": -73.9606728,
+  "label": "Sutton Place and East 57th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "164 East 61st Street, Manhattan|Manhattan": {
+  "lat": 40.762934,
+  "lon": -73.966424,
+  "label": "164 EAST 61 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1619 Broadway, Manhattan|Manhattan": {
+  "lat": 40.761138,
+  "lon": -73.984652,
+  "label": "1619 B'WAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Beekman Place and East 50th Street, Manhattan|Manhattan": {
+  "lat": 40.753314,
+  "lon": -73.964811,
+  "label": "Beekman Place and East 50th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "317 West 46th Street, Manhattan|Manhattan": {
+  "lat": 40.760316,
+  "lon": -73.988725,
+  "label": "317 WEST 46 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "15 Gramercy Park South, Manhattan|Manhattan": {
+  "lat": 40.737632,
+  "lon": -73.98683,
+  "label": "15 GRAMERCY PARK SOUTH, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "4 Gramercy Park West, Manhattan|Manhattan": {
+  "lat": 40.738351,
+  "lon": -73.986879,
+  "label": "4 GRAMERCY PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "558 East 87th Street, Manhattan|Manhattan": {
+  "lat": 40.77561,
+  "lon": -73.944562,
+  "label": "558 EAST 87 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "235 East 88th Street, Manhattan|Manhattan": {
+  "lat": 40.779555,
+  "lon": -73.951191,
+  "label": "235 EAST 88 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "25 West 68th Street, Manhattan|Manhattan": {
+  "lat": 40.774345,
+  "lon": -73.978905,
+  "label": "25 WEST 68 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1000 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.779393,
+  "lon": -73.963409,
+  "label": "1000 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "West 42nd Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7558193,
+  "lon": -73.9864249,
+  "label": "West 42nd Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "994 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.777867,
+  "lon": -73.962741,
+  "label": "994 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "200 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.78136,
+  "lon": -73.97406,
+  "label": "200 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Fulton Street and Nassau Street, Manhattan|Manhattan": {
+  "lat": 40.7102231,
+  "lon": -74.0077439,
+  "label": "Fulton Street and Nassau Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Dover Street and South Street, Manhattan|Manhattan": {
+  "lat": 40.707926,
+  "lon": -74.0001461,
+  "label": "Dover Street and South Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "177 Bleecker Street, Manhattan|Manhattan": {
+  "lat": 40.729131,
+  "lon": -74.000633,
+  "label": "177 BLEECKER STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "East 42nd Street and Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.7528125,
+  "lon": -73.9792873,
+  "label": "East 42nd Street and Madison Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and East 70th Street, Manhattan|Manhattan": {
+  "lat": 40.771147,
+  "lon": -73.967994,
+  "label": "Fifth Avenue and East 70th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "20 Ingram Street, Queens|Queens": {
+  "lat": 40.712979,
+  "lon": -73.843214,
+  "label": "20 INGRAM STREET, Forest Hills, NY, USA",
+  "via": "geosearch"
+ },
+ "East 11th Street & Avenue B, Manhattan|Manhattan": {
+  "lat": 40.727468,
+  "lon": -73.979469,
+  "label": "East 11th Street and Avenue B (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and East 12th Street, Manhattan|Manhattan": {
+  "lat": 40.7346805,
+  "lon": -73.9946012,
+  "label": "Fifth Avenue and East 12th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Water Street and Washington Street, Brooklyn|Brooklyn": {
+  "lat": 40.7032012,
+  "lon": -73.98958,
+  "label": "Water Street and Washington Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 75th Street and Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.780561,
+  "lon": -73.98021,
+  "label": "West 75th Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Waverly Place and Washington Square West, Manhattan|Manhattan": {
+  "lat": 40.732218,
+  "lon": -73.998616,
+  "label": "Waverly Place and Washington Square West (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 10th Street and Avenue A, Manhattan|Manhattan": {
+  "lat": 40.7278454,
+  "lon": -73.982238,
+  "label": "East 10th Street and Avenue A (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 101st Street and Broadway, Manhattan|Manhattan": {
+  "lat": 40.7978923,
+  "lon": -73.9695597,
+  "label": "West 101st Street and Broadway (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 121st Street and Lenox Avenue, Manhattan|Manhattan": {
+  "lat": 40.8052502,
+  "lon": -73.9474392,
+  "label": "West 121st Street and Lenox Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Washington Square North, Manhattan|Manhattan": {
+  "lat": 40.7318185,
+  "lon": -73.9977991,
+  "label": "Washington Square North, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",
+  "via": "nominatim"
+ },
+ "Gramercy Park, Manhattan|Manhattan": {
+  "lat": 40.7379502,
+  "lon": -73.9859154,
+  "label": "Gramercy Park, Manhattan Community Board 6, Manhattan, New York County, New York, United States",
+  "via": "nominatim"
+ },
+ "66 Suffolk Street, Manhattan|Manhattan": {
+  "lat": 40.7187441,
+  "lon": -73.9860905,
+  "label": "66, Suffolk Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+  "via": "nominatim"
+ },
+ "337 West 106th Street, Manhattan|Manhattan": {
+  "lat": 40.8020795,
+  "lon": -73.9700272,
+  "label": "River Mansion, 337, West 106th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",
+  "via": "nominatim"
+ },
+ "Fifth Avenue and 31st Street, Manhattan|Manhattan": {
+  "lat": 40.7465313,
+  "lon": -73.9859434,
+  "label": "Fifth Avenue and 31st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "St. Marks Place and Second Avenue, Manhattan|Manhattan": {
+  "lat": 40.7286043,
+  "lon": -73.9876651,
+  "label": "St. Marks Place and Second Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "245 East 73rd Street, Manhattan|Manhattan": {
+  "lat": 40.7701154,
+  "lon": -73.9591355,
+  "label": "245, East 73rd Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",
+  "via": "nominatim"
+ },
+ "East 71st Street and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7717837,
+  "lon": -73.9675292,
+  "label": "East 71st Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Sutton Place and East 58th Street, Manhattan|Manhattan": {
+  "lat": 40.7580419,
+  "lon": -73.960182,
+  "label": "Sutton Place and East 58th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Chauncey Street and Stuyvesant Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.6801686,
+  "lon": -73.9315038,
+  "label": "Chauncey Street and Stuyvesant Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Hester Street and Forsyth Street, Manhattan|Manhattan": {
+  "lat": 40.7167392,
+  "lon": -73.9936732,
+  "label": "Hester Street and Forsyth Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Lenox Avenue and West 130th Street, Manhattan|Manhattan": {
+  "lat": 40.8109749,
+  "lon": -73.9432528,
+  "label": "Lenox Avenue and West 130th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Ocean Avenue and Cortelyou Road, Brooklyn|Brooklyn": {
+  "lat": 40.643333,
+  "lon": -73.9597215,
+  "label": "Ocean Avenue and Cortelyou Road (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "350 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.748441,
+  "lon": -73.985656,
+  "label": "350 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Bergen Street and Smith Street, Brooklyn|Brooklyn": {
+  "lat": 40.6867236,
+  "lon": -73.9904587,
+  "label": "Bergen Street and Smith Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "62 Mill Street, Brooklyn|Brooklyn": {
+  "lat": 40.675639,
+  "lon": -74.005081,
+  "label": "62 MILL STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "Bank Street and Bleecker Street, Manhattan|Manhattan": {
+  "lat": 40.736611,
+  "lon": -74.005314,
+  "label": "Bank Street and Bleecker Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 12th Street and Seventh Avenue, Manhattan|Manhattan": {
+  "lat": 40.7372222,
+  "lon": -74.0006278,
+  "label": "West 12th Street and Seventh Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "89 East 42nd Street, Manhattan|Manhattan": {
+  "lat": 40.752732,
+  "lon": -73.977218,
+  "label": "89 EAST 42 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Eastburn Avenue and East 173rd Street, Bronx|Bronx": {
+  "lat": 40.843733,
+  "lon": -73.908566,
+  "label": "Eastburn Avenue and East 173rd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Central Park West and West 87th Street, Manhattan|Manhattan": {
+  "lat": 40.7859742,
+  "lon": -73.9688537,
+  "label": "Central Park West and West 87th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Broadway and West 77th Street, Manhattan|Manhattan": {
+  "lat": 40.7825317,
+  "lon": -73.9809157,
+  "label": "Broadway and West 77th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Clinton Street and Atlantic Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.6902401,
+  "lon": -73.994356,
+  "label": "Clinton Street and Atlantic Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Columbus Avenue and West 88th Street, Manhattan|Manhattan": {
+  "lat": 40.7877988,
+  "lon": -73.9712361,
+  "label": "Columbus Avenue and West 88th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "154 Broome Street, Manhattan|Manhattan": {
+  "lat": 40.716959,
+  "lon": -73.985232,
+  "label": "154 BROOME STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "51 Prospect Place, Brooklyn|Brooklyn": {
+  "lat": 40.679786,
+  "lon": -73.976038,
+  "label": "51 PROSPECT PLACE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "139 Edgecombe Avenue, Manhattan|Manhattan": {
+  "lat": 40.821566,
+  "lon": -73.945156,
+  "label": "139 EDGECOMBE AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "64 St. Marks Place, Manhattan|Manhattan": {
+  "lat": 40.727829,
+  "lon": -73.986433,
+  "label": "64 SAINT MARKS PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "240 East Houston Street, Manhattan|Manhattan": {
+  "lat": 40.722405,
+  "lon": -73.985836,
+  "label": "240 EAST HOUSTON STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Grand Street and Graham Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.711641,
+  "lon": -73.943911,
+  "label": "Grand Street and Graham Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Crescent Street and Fulton Street, Brooklyn|Brooklyn": {
+  "lat": 40.683649,
+  "lon": -73.872187,
+  "label": "Crescent Street and Fulton Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "816 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.773202,
+  "lon": -73.962418,
+  "label": "816, Park Avenue, Carnegie Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",
+  "via": "nominatim"
+ },
+ "180 Claremont Avenue, Manhattan|Manhattan": {
+  "lat": 40.814396,
+  "lon": -73.960279,
+  "label": "180 CLAREMONT AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Caton Avenue and Marlborough Road, Brooklyn|Brooklyn": {
+  "lat": 40.6502956,
+  "lon": -73.9661434,
+  "label": "Caton Avenue and Marlborough Road (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "458 9th Street, Brooklyn|Brooklyn": {
+  "lat": 40.666457,
+  "lon": -73.9812,
+  "label": "458 9 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "54 White Street, Manhattan|Manhattan": {
+  "lat": 40.718594,
+  "lon": -74.003701,
+  "label": "54 WHITE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "South Portland Avenue and Lafayette Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.687191,
+  "lon": -73.974616,
+  "label": "South Portland Avenue and Lafayette Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "1 Hanson Place, Brooklyn|Brooklyn": {
+  "lat": 40.68552,
+  "lon": -73.977711,
+  "label": "1 HANSON PLACE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "158 Clinton Street, Brooklyn|Brooklyn": {
+  "lat": 40.691786,
+  "lon": -73.993836,
+  "label": "158 CLINTON STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "274 Clinton Street, Brooklyn|Brooklyn": {
+  "lat": 40.68766,
+  "lon": -73.995826,
+  "label": "274 CLINTON STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "3152 Brighton 6th Street, Brooklyn|Brooklyn": {
+  "lat": 40.575451,
+  "lon": -73.961438,
+  "label": "3152 BRIGHTON 6 STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "180 Beach 115th Street, Queens, NY|Queens": {
+  "lat": 40.579533,
+  "lon": -73.835715,
+  "label": "180 BEACH 115 STREET, Rockaway Park, NY, USA",
+  "via": "geosearch"
+ },
+ "84 King Street, Manhattan, NY|Manhattan": {
+  "lat": 40.727611,
+  "lon": -74.006388,
+  "label": "84 KING STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "200 East 78th Street, Manhattan, NY|Manhattan": {
+  "lat": 40.773269,
+  "lon": -73.957613,
+  "label": "200 EAST 78 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "200 West 54th Street, Manhattan, NY|Manhattan": {
+  "lat": 40.763495,
+  "lon": -73.981891,
+  "label": "200 WEST 54 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "809 Greenwich Street, Manhattan, NY|Manhattan": {
+  "lat": 40.73832,
+  "lon": -74.006235,
+  "label": "809 GREENWICH STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1172 Park Avenue, Manhattan, NY|Manhattan": {
+  "lat": 40.784609,
+  "lon": -73.954344,
+  "label": "1172 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "West 84th Street and Riverside Drive, Manhattan, NY|Manhattan": {
+  "lat": 40.788486,
+  "lon": -73.9810702,
+  "label": "West 84th Street and Riverside Drive (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "85 South Street, Manhattan, NY|Manhattan": {
+  "lat": 40.705862,
+  "lon": -74.004449,
+  "label": "85 SOUTH STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "49 East 92nd Street, Manhattan, NY|Manhattan": {
+  "lat": 40.784651,
+  "lon": -73.955455,
+  "label": "49 EAST 92 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "12-06 31st Drive, Queens, NY|Queens": {
+  "lat": 40.767616,
+  "lon": -73.934119,
+  "label": "12-06 31 DRIVE, Astoria, NY, USA",
+  "via": "geosearch"
+ },
+ "14 Washington Mews, Manhattan, NY|Manhattan": {
+  "lat": 40.731326,
+  "lon": -73.995625,
+  "label": "14 WASHINGTON MEWS, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "79 Hudson Avenue, Brooklyn, NY|Brooklyn": {
+  "lat": 40.702414,
+  "lon": -73.981001,
+  "label": "79 HUDSON AVENUE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "333 East 75th Street, Manhattan, NY|Manhattan": {
+  "lat": 40.770229,
+  "lon": -73.955169,
+  "label": "333 EAST 75 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "52 East 82nd Street, Manhattan, NY|Manhattan": {
+  "lat": 40.777703,
+  "lon": -73.959822,
+  "label": "52 EAST 82 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "441 East 87th Street, Manhattan, NY|Manhattan": {
+  "lat": 40.777001,
+  "lon": -73.947094,
+  "label": "441 EAST 87 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "112 East 91st Street, Manhattan, NY|Manhattan": {
+  "lat": 40.782891,
+  "lon": -73.954271,
+  "label": "112 EAST 91 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "87 Crosby Street, Manhattan, NY|Manhattan": {
+  "lat": 40.723112,
+  "lon": -73.997201,
+  "label": "87 CROSBY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1169 Park Avenue, Manhattan, NY|Manhattan": {
+  "lat": 40.784257,
+  "lon": -73.953515,
+  "label": "1169 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "8 Furman Street, Brooklyn, NY|Brooklyn": {
+  "lat": 40.7026813,
+  "lon": -73.9947837,
+  "label": "8, Furman Street, Dumbo, Brooklyn, Kings County, New York, 11201, United States",
+  "via": "nominatim"
+ },
+ "Layton Avenue, Bronx, NY|Bronx": {
+  "lat": 40.8349542,
+  "lon": -73.8205768,
+  "label": "Layton Avenue, Eastchester Bay, The Bronx, Bronx County, New York, 10465, United States",
+  "via": "nominatim"
+ },
+ "1 East 91st Street, Manhattan, NY|Manhattan": {
+  "lat": 40.784766,
+  "lon": -73.957569,
+  "label": "1 EAST 91 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "250 East 40th Street, Manhattan, NY|Manhattan": {
+  "lat": 40.748504,
+  "lon": -73.973596,
+  "label": "250 EAST 40 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Davidson Avenue, Bronx, NY|Bronx": {
+  "lat": 40.8643591,
+  "lon": -73.901048,
+  "label": "Davidson Avenue, Fordham, The Bronx, Bronx County, New York, 10468, United States",
+  "via": "nominatim"
+ },
+ "168 Duane Street, Manhattan|Manhattan": {
+  "lat": 40.71685,
+  "lon": -74.009562,
+  "label": "168 DUANE STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "28 Henry Street, Manhattan|Manhattan": {
+  "lat": 40.712659,
+  "lon": -73.996441,
+  "label": "28 HENRY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "27-56 27th Street, Queens|Queens": {
+  "lat": 40.768649,
+  "lon": -73.924209,
+  "label": "27-56 27 STREET, Astoria, NY, USA",
+  "via": "geosearch"
+ },
+ "East 64th Street and Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.767394,
+  "lon": -73.970728,
+  "label": "East 64th Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "1125 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.786352,
+  "lon": -73.956525,
+  "label": "1125 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "991 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.777723,
+  "lon": -73.962805,
+  "label": "991 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "180 East 88th Street, Manhattan|Manhattan": {
+  "lat": 40.780012,
+  "lon": -73.953594,
+  "label": "180 EAST 88 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "2 Park Place, Manhattan|Manhattan": {
+  "lat": 40.712462,
+  "lon": -74.008139,
+  "label": "2 PARK PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "35 Hudson Yards, Manhattan|Manhattan": {
+  "lat": 40.754639,
+  "lon": -74.002248,
+  "label": "35 HUDSON YARDS, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "714 Broadway, Manhattan|Manhattan": {
+  "lat": 40.728825,
+  "lon": -73.993476,
+  "label": "714 B'WAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "East 61st Street & Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.7655257,
+  "lon": -73.9721171,
+  "label": "East 61st Street and Fifth Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Hester Street & Orchard Street, Manhattan|Manhattan": {
+  "lat": 40.7160318,
+  "lon": -73.9913119,
+  "label": "Hester Street and Orchard Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "227 Henry Street, Manhattan|Manhattan": {
+  "lat": 40.713858,
+  "lon": -73.986217,
+  "label": "227 HENRY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "West 89th Street & Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.7896131,
+  "lon": -73.9736025,
+  "label": "West 89th Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 82nd Street & York Avenue, Manhattan|Manhattan": {
+  "lat": 40.7733435,
+  "lon": -73.9490103,
+  "label": "East 82nd Street and York Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "4 St. Luke's Place, Manhattan|Manhattan": {
+  "lat": 40.730359,
+  "lon": -74.006333,
+  "label": "4 SAINT LUKE'S PLACE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "962 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.775691,
+  "lon": -73.964139,
+  "label": "962 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "44 West 77th Street, Manhattan|Manhattan": {
+  "lat": 40.780137,
+  "lon": -73.975776,
+  "label": "44 WEST 77 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "East 84th Street and 3rd Avenue, Manhattan|Manhattan": {
+  "lat": 40.7775056,
+  "lon": -73.9549422,
+  "label": "East 84th Street and 3rd Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "8th Avenue and 8th Street, Brooklyn|Brooklyn": {
+  "lat": 40.666361,
+  "lon": -73.978715,
+  "label": "8th Avenue and 8th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "462 Bergen Street, Brooklyn|Brooklyn": {
+  "lat": 40.680942,
+  "lon": -73.976025,
+  "label": "462 BERGEN STREET, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "4 East 74th Street, Manhattan|Manhattan": {
+  "lat": 40.773369,
+  "lon": -73.965615,
+  "label": "4 EAST 74 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "44 West 63rd Street, Manhattan|Manhattan": {
+  "lat": 40.771381,
+  "lon": -73.982719,
+  "label": "44 WEST 63 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "300 East 55th Street, Manhattan|Manhattan": {
+  "lat": 40.757691,
+  "lon": -73.96607,
+  "label": "300 EAST 55 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Ascan Avenue and Burns Street, Queens|Queens": {
+  "lat": 40.717643,
+  "lon": -73.841016,
+  "label": "Ascan Avenue and Burns Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "2109 Broadway, Manhattan|Manhattan": {
+  "lat": 40.780179,
+  "lon": -73.982247,
+  "label": "2109 B'WAY, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.73191,
+  "lon": -73.996187,
+  "label": "1 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Bank Street and West 4th Street, Manhattan|Manhattan": {
+  "lat": 40.736839,
+  "lon": -74.003714,
+  "label": "Bank Street and West 4th Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "East 63rd Street and Lexington Avenue, Manhattan|Manhattan": {
+  "lat": 40.764739,
+  "lon": -73.9663609,
+  "label": "East 63rd Street and Lexington Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Central Park South and 7th Avenue, Manhattan|Manhattan": {
+  "lat": 40.766876,
+  "lon": -73.979076,
+  "label": "Central Park South and 7th Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "1 Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.740847,
+  "lon": -73.986756,
+  "label": "1 MADISON AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Chrystie Street and Delancey Street, Manhattan|Manhattan": {
+  "lat": 40.7200534,
+  "lon": -73.9928771,
+  "label": "Chrystie Street and Delancey Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "53rd Street and 5th Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.643425,
+  "lon": -74.012066,
+  "label": "53rd Street and 5th Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Fifth Avenue and East 71st Street, Manhattan|Manhattan": {
+  "lat": 40.7717837,
+  "lon": -73.9675292,
+  "label": "Fifth Avenue and East 71st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "143 Avenue B, Manhattan|Manhattan": {
+  "lat": 40.726338,
+  "lon": -73.97998,
+  "label": "143 AVENUE B, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "476 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.753202,
+  "lon": -73.98225,
+  "label": "476 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "42 West 12th Street, Manhattan|Manhattan": {
+  "lat": 40.735152,
+  "lon": -73.99629,
+  "label": "42 WEST 12 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Park Avenue and East 83rd Street, Manhattan|Manhattan": {
+  "lat": 40.7782722,
+  "lon": -73.9587235,
+  "label": "Park Avenue and East 83rd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "960 Madison Avenue, Manhattan|Manhattan": {
+  "lat": 40.774146,
+  "lon": -73.964081,
+  "label": "960 MADISON AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "34 East 62nd Street, Manhattan|Manhattan": {
+  "lat": 40.765104,
+  "lon": -73.969668,
+  "label": "34 EAST 62 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "64 Perry Street, Manhattan|Manhattan": {
+  "lat": 40.735314,
+  "lon": -74.003769,
+  "label": "64 PERRY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1010 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.77899,
+  "lon": -73.961955,
+  "label": "1010 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1030 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.78023,
+  "lon": -73.960961,
+  "label": "1030 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "1150 Fifth Avenue, Manhattan|Manhattan": {
+  "lat": 40.787994,
+  "lon": -73.955246,
+  "label": "1150 FIFTH AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "3 Gramercy Park West, Manhattan|Manhattan": {
+  "lat": 40.738412,
+  "lon": -73.98683,
+  "label": "3 GRAMERCY PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "148 Henry Street, Manhattan|Manhattan": {
+  "lat": 40.71325,
+  "lon": -73.989887,
+  "label": "148 HENRY STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "275 Central Park West, Manhattan|Manhattan": {
+  "lat": 40.786546,
+  "lon": -73.968743,
+  "label": "275 CENTRAL PARK WEST, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "700 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.769553,
+  "lon": -73.965498,
+  "label": "700 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "930 Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.776909,
+  "lon": -73.960001,
+  "label": "930 PARK AVENUE, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "Gansevoort Street and Greenwich Street, Manhattan|Manhattan": {
+  "lat": 40.7394038,
+  "lon": -74.0064406,
+  "label": "Gansevoort Street and Greenwich Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "403 West 13th Street, Manhattan|Manhattan": {
+  "lat": 40.740594,
+  "lon": -74.006033,
+  "label": "403 WEST 13 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "East 76th Street and Park Avenue, Manhattan|Manhattan": {
+  "lat": 40.773735,
+  "lon": -73.9620329,
+  "label": "East 76th Street and Park Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "167 6th Avenue, Brooklyn|Brooklyn": {
+  "lat": 40.676945,
+  "lon": -73.976671,
+  "label": "167 6 AVENUE, Brooklyn, NY, USA",
+  "via": "geosearch"
+ },
+ "Stratford Road and Beverley Road, Brooklyn|Brooklyn": {
+  "lat": 40.6438933,
+  "lon": -73.9687195,
+  "label": "Stratford Road and Beverley Road (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Lexington Avenue and East 42nd Street, Manhattan|Manhattan": {
+  "lat": 40.7514392,
+  "lon": -73.9760552,
+  "label": "Lexington Avenue and East 42nd Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Mulberry Street and Spring Street, Manhattan|Manhattan": {
+  "lat": 40.7219524,
+  "lon": -73.9962656,
+  "label": "Mulberry Street and Spring Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Broome Street and Wooster Street, Manhattan|Manhattan": {
+  "lat": 40.7229396,
+  "lon": -74.0021789,
+  "label": "Broome Street and Wooster Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "Broadway and West 71st Street, Manhattan|Manhattan": {
+  "lat": 40.7779528,
+  "lon": -73.9821878,
+  "label": "Broadway and West 71st Street (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "West 72nd Street and West End Avenue, Manhattan|Manhattan": {
+  "lat": 40.7798127,
+  "lon": -73.9844806,
+  "label": "West 72nd Street and West End Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ },
+ "253 West 4th Street, Manhattan|Manhattan": {
+  "lat": 40.735152,
+  "lon": -74.003119,
+  "label": "253 WEST 4 STREET, New York, NY, USA",
+  "via": "geosearch"
+ },
+ "West 105th Street and Amsterdam Avenue, Manhattan|Manhattan": {
+  "lat": 40.7997657,
+  "lon": -73.9662021,
+  "label": "West 105th Street and Amsterdam Avenue (OpenStreetMap)",
+  "via": "osm-corner"
+ }
+}
