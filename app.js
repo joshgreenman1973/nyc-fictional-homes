@@ -31,8 +31,28 @@
   const yr = r => (r.start === r.end || r.end == null) ? `${r.start}` : `${r.start}–${String(r.end)}`;
   const decadeOf = y => Math.floor(y / 10) * 10;
 
-  const state = { decade: null, media: new Set(MEDIA.map(m => m.k)), q: '', sel: null };
-  let ALL = [], byKey = {}, map, mapReady = false;
+  const state = { decade: null, media: new Set(MEDIA.map(m => m.k)), q: '', sel: null, near: null };
+  let ALL = [], byKey = {}, map, mapReady = false, youMarker = null;
+  // phones and tablets: no hover, one finger scrolls the page, taps get a wider target
+  const TOUCH = window.matchMedia('(hover: none)').matches;
+  const narrow = () => window.innerWidth <= 900;
+  const LIST_STEP = 40;
+  let listLimit = LIST_STEP;
+
+  // ---------- distance ----------
+  function meters(aLat, aLon, bLat, bLon) {
+    const R = 6371000, t = Math.PI / 180, dLat = (bLat - aLat) * t, dLon = (bLon - aLon) * t;
+    const h = Math.sin(dLat / 2) ** 2 + Math.cos(aLat * t) * Math.cos(bLat * t) * Math.sin(dLon / 2) ** 2;
+    return 2 * R * Math.asin(Math.sqrt(h));
+  }
+  const distOf = r => (state.near && r.lat != null) ? meters(state.near.lat, state.near.lon, r.lat, r.lon) : Infinity;
+  function farText(m) {
+    const ft = m * 3.28084;
+    if (ft < 1000) return `${Math.max(50, Math.round(ft / 50) * 50)} feet`;
+    const mi = m / 1609.34;
+    return `${mi < 10 ? mi.toFixed(1) : Math.round(mi)} ${mi.toFixed(1) === '1.0' ? 'mile' : 'miles'}`;
+  }
+  const IN_NYC = (lat, lon) => lat > 40.49 && lat < 40.92 && lon > -74.27 && lon < -73.68;
 
   // ---------- geometry ----------
   function ring(lat, lon, r, n = 56) {
@@ -61,7 +81,11 @@
     }
     return true;
   }
-  const filtered = () => ALL.filter(matches);
+  const filtered = () => {
+    const rows = ALL.filter(matches);
+    if (state.near) rows.sort((a, b) => distOf(a) - distOf(b));
+    return rows;
+  };
   // a home is the story's address; when a film or show gives none, its filmed building stands in
   function isHome(r) {
     if (r.kind === 'story') return true;
@@ -136,6 +160,13 @@
 
   function writeReadout(rows) {
     const el = document.getElementById('readout');
+    if (state.near) {
+      const near = rows.filter(r => isHome(r) && r.lat != null).slice(0, 3);
+      el.innerHTML = near.length
+        ? `Closest to you: ${near.map(r => `<b>${esc(r.character)}</b> (${esc(r.work)}), ${farText(distOf(r))} away`).join('; ')}.`
+        : '';
+      return;
+    }
     if (state.decade == null) { el.textContent = ''; return; }
     const homes = rows.filter(isHome);
     const names = homes.slice().sort((a, b) => (PREC[a.precision].tier === 'exact' ? 0 : 1) - (PREC[b.precision].tier === 'exact' ? 0 : 1)).slice(0, 4).map(r => r.character);
@@ -172,7 +203,7 @@
       container: 'map',
       style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
       center: [-73.968, 40.758], zoom: 11.4, minZoom: 9, maxZoom: 18,
-      attributionControl: { compact: true }, cooperativeGestures: false,
+      attributionControl: { compact: true }, cooperativeGestures: TOUCH,
     });
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
     map.on('load', () => {
@@ -183,8 +214,11 @@
       });
       const empty = { type: 'FeatureCollection', features: [] };
       ['areas', 'lines', 'pts'].forEach(s => map.addSource(s, { type: 'geojson', data: empty }));
-      map.addLayer({ id: 'area-fill', type: 'fill', source: 'areas', paint: { 'fill-color': ['get', 'color'], 'fill-opacity': ['case', ['==', ['get', 'tier'], 'invented'], 0.04, 0.07] } });
-      map.addLayer({ id: 'area-line', type: 'line', source: 'areas', filter: ['!=', ['get', 'tier'], 'invented'], paint: { 'line-color': ['get', 'color'], 'line-opacity': 0.3, 'line-width': 0.8 } });
+      // area circles fade as you zoom in, so a crowded neighborhood doesn't wash the street map out
+      const fade = (lo, hi) => ['interpolate', ['linear'], ['zoom'], 12, lo, 15, hi];
+      const inv = ['==', ['get', 'tier'], 'invented'];  // zoom must be the outermost step in a paint rule
+      map.addLayer({ id: 'area-fill', type: 'fill', source: 'areas', paint: { 'fill-color': ['get', 'color'], 'fill-opacity': ['interpolate', ['linear'], ['zoom'], 12, ['case', inv, 0.04, 0.07], 15, ['case', inv, 0.012, 0.015]] } });
+      map.addLayer({ id: 'area-line', type: 'line', source: 'areas', filter: ['!=', ['get', 'tier'], 'invented'], paint: { 'line-color': ['get', 'color'], 'line-opacity': fade(0.3, 0.12), 'line-width': 0.8 } });
       map.addLayer({ id: 'area-dash', type: 'line', source: 'areas', filter: ['==', ['get', 'tier'], 'invented'], paint: { 'line-color': ['get', 'color'], 'line-opacity': 0.8, 'line-width': 1.4, 'line-dasharray': [2, 2] } });
       map.addLayer({ id: 'pair', type: 'line', source: 'lines', paint: { 'line-color': ['get', 'color'], 'line-width': 1.2, 'line-opacity': 0.75, 'line-dasharray': [1, 2.5] } });
       const rz = (a, b) => ['interpolate', ['linear'], ['zoom'], 10, a, 15, b];
@@ -192,17 +226,30 @@
       map.addLayer({ id: 'pt-soft', type: 'circle', source: 'pts', filter: ['in', ['get', 'tier'], ['literal', ['area', 'invented']]], paint: { 'circle-radius': rz(2, 3.5), 'circle-color': ['get', 'color'], 'circle-opacity': 0.9 } });
       map.addLayer({ id: 'pt-exact', type: 'circle', source: 'pts', filter: ['==', ['get', 'tier'], 'exact'], paint: { 'circle-radius': rz(3.8, 7.5), 'circle-color': ['get', 'color'], 'circle-stroke-color': tok('bg'), 'circle-stroke-width': 1.2 } });
       map.addLayer({ id: 'pt-sel', type: 'circle', source: 'pts', filter: ['==', ['get', 'id'], ''], paint: { 'circle-radius': rz(9, 14), 'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': tok('fg'), 'circle-stroke-width': 2 } });
+      const PT = ['pt-exact', 'pt-screen', 'pt-soft'];
       const hov = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 10 });
-      ['pt-exact', 'pt-screen', 'pt-soft'].forEach(id => {
+      if (!TOUCH) PT.forEach(id => {
         map.on('mouseenter', id, e => {
           map.getCanvas().style.cursor = 'pointer';
-          const fs = map.queryRenderedFeatures(e.point, { layers: ['pt-exact', 'pt-screen', 'pt-soft'] });
+          const fs = map.queryRenderedFeatures(e.point, { layers: PT });
           const seen = new Set(), rows = fs.filter(f => !seen.has(f.properties.id) && seen.add(f.properties.id)).slice(0, 6);
           const first = ALL.find(x => x.id === rows[0].properties.id), t = first && thumbOf(first);
           hov.setLngLat(e.lngLat).setHTML((t ? `<img class="pop" src="${esc(t)}" alt="">` : '') + rows.map(f => `<b>${esc(f.properties.name)}</b> · ${esc(f.properties.work)}`).join('<br>')).addTo(map);
         });
         map.on('mouseleave', id, () => { map.getCanvas().style.cursor = ''; hov.remove(); });
-        map.on('click', id, e => { hov.remove(); openRecord(e.features[0].properties.id, false); });
+      });
+      // a tap or click opens the mark nearest the point, within a fingertip on touch screens
+      map.on('click', e => {
+        const pad = TOUCH ? 16 : 5, p = e.point;
+        const fs = map.queryRenderedFeatures([[p.x - pad, p.y - pad], [p.x + pad, p.y + pad]], { layers: PT });
+        if (!fs.length) return;
+        let best = fs[0], bd = Infinity;
+        fs.forEach(f => {
+          const q = map.project(f.geometry.coordinates), d = (q.x - p.x) ** 2 + (q.y - p.y) ** 2;
+          if (d < bd) { bd = d; best = f; }
+        });
+        hov.remove();
+        openRecord(best.properties.id, false);
       });
       mapReady = true;
       render();
@@ -251,17 +298,23 @@
   function drawList(rows) {
     const homes = rows.filter(isHome).length;
     document.getElementById('count').textContent = `${homes} ${homes === 1 ? 'home' : 'homes'}` + (rows.length > homes ? `, plus ${rows.length - homes} filmed ${rows.length - homes === 1 ? 'exterior' : 'exteriors'}` : '');
-    const el = document.getElementById('list');
-    if (!rows.length) { el.innerHTML = '<div class="empty">Nothing matches. Try another decade or clear the search.</div>'; return; }
-    el.innerHTML = rows.map(r => {
-      const t = thumbOf(r);
+    document.getElementById('sortnote').textContent = state.near ? 'Sorted by distance from you' : 'Sorted by when they lived there';
+    const el = document.getElementById('list'), more = document.getElementById('list-more');
+    if (!rows.length) { el.innerHTML = '<div class="empty">Nothing matches. Try another decade or clear the search.</div>'; more.hidden = true; return; }
+    // on a phone the list sits under the map, so show it a page at a time
+    const shown = narrow() ? rows.slice(0, listLimit) : rows;
+    const left = rows.length - shown.length;
+    more.hidden = left <= 0;
+    more.textContent = `Show ${Math.min(left, LIST_STEP)} more of ${left}`;
+    el.innerHTML = shown.map(r => {
+      const t = thumbOf(r), dist = distOf(r);
       return `
       <button class="rec${state.sel === r.id ? ' sel' : ''}" data-id="${r.id}">
         ${t ? `<img class="th" loading="lazy" src="${esc(t)}" alt="">` : ph(r)}
         <span class="rt">
-          <span class="yr">${yr(r)}</span>
+          <span class="yr">${dist < Infinity ? `${farText(dist)}` : yr(r)}</span>
           <b><span class="sw" style="background:${inkOf(r.medium)}"></span>${esc(r.character)}${r.kind === 'exterior' ? (isHome(r) ? ' <span class="dim">(building on screen)</span>' : ' <span class="dim">(filmed exterior)</span>') : ''}</b>
-          <span class="meta">${esc(r.work)}, ${esc(MEDIUM_NOUN[r.medium])} (${r.work_year ?? ''})</span>
+          <span class="meta">${esc(r.work)}, ${esc(MEDIUM_NOUN[r.medium])} (${r.work_year ?? ''})${state.near ? `, lived there ${yr(r)}` : ''}</span>
           <span class="meta">${esc(r.address || '')}${r.neighborhood ? ', ' + esc(r.neighborhood) : ''} · ${esc(PREC[r.precision].label.toLowerCase())}</span>
         </span>
       </button>`;
@@ -390,9 +443,57 @@
     document.getElementById('marks').innerHTML = TIERS.map(t => `<span>${markSvg(t.k, fg, 18)}${t.label}</span>`).join('') + `<span><svg class="mk" width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="${fg}" stroke-width="1.4" stroke-dasharray="1.5 3.5"/></svg>Story address to filmed exterior</span>`;
     document.getElementById('prec-legend').innerHTML = TIERS.map(t => `<div>${markSvg(t.k, tok('sun'), 30)}<p style="margin:0"><b>${t.label}</b><span>${t.sub}</span></p></div>`).join('');
     let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(drawDecades, 150); });
+    document.getElementById('near').addEventListener('click', findMe);
+    document.getElementById('list-more').addEventListener('click', () => { listLimit += LIST_STEP; render(true); });
   }
 
-  function render() {
+  // ---------- near me ----------
+  function findMe() {
+    const btn = document.getElementById('near'), note = document.getElementById('near-note');
+    if (state.near) {  // second press turns it off
+      state.near = null;
+      if (youMarker) { youMarker.remove(); youMarker = null; }
+      btn.setAttribute('aria-pressed', 'false');
+      note.textContent = '';
+      render();
+      return;
+    }
+    if (!navigator.geolocation) { note.textContent = 'This browser cannot share your location.'; return; }
+    note.textContent = 'Finding you…';
+    btn.disabled = true;
+    navigator.geolocation.getCurrentPosition(pos => {
+      btn.disabled = false;
+      const lat = pos.coords.latitude, lon = pos.coords.longitude;
+      if (!IN_NYC(lat, lon)) {
+        note.textContent = 'You don’t seem to be in New York City, so there is nothing nearby to sort by.';
+        return;
+      }
+      state.near = { lat, lon };
+      btn.setAttribute('aria-pressed', 'true');
+      note.textContent = '';
+      if (map) {  // a marker and a fly-to both work before the map has finished loading
+        if (youMarker) youMarker.remove();
+        const dot = document.createElement('div');
+        dot.className = 'you';
+        dot.setAttribute('aria-label', 'You are here');
+        youMarker = new maplibregl.Marker({ element: dot }).setLngLat([lon, lat]).addTo(map);
+        map.flyTo({ center: [lon, lat], zoom: Math.max(map.getZoom(), 15), speed: 1.4 });
+      }
+      render();
+      if (narrow()) {  // bring the map, with the dot on it, into view
+        const top = document.getElementById('map').getBoundingClientRect().top + window.scrollY - 8;
+        window.scrollTo({ top, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+      }
+    }, err => {
+      btn.disabled = false;
+      note.textContent = err.code === 1
+        ? 'Location is blocked for this page. Allow it in your browser’s settings to use Near me.'
+        : 'Could not find your location. Try again in a moment.';
+    }, { enableHighAccuracy: true, timeout: 12000, maximumAge: 60000 });
+  }
+
+  function render(keepLimit) {
+    if (!keepLimit) listLimit = LIST_STEP;
     const rows = filtered();
     drawDecades();
     writeReadout(rows);
