@@ -1,6 +1,6 @@
 # QA report
 
-823 records kept. 18 problems.
+825 records kept. 18 problems.
 
 - no setting years Jude St. Francis and Willem Ragnarsson — A Little Life [5c2754d2b9, books_1960_now]; using work year
 - no setting years Jude St. Francis — A Little Life [f2452ad296, books_1960_now]; using work year
@@ -19,4 +19,4 @@
 - no setting years Luke Cage (Carl Lucas) — Luke Cage, Hero for Hire #1 [2faa6c355d, kids_comics]; using work year
 - no setting years Sam Wilson (the Falcon) — Captain America #117 [63469c8601, kids_comics]; using work year
 - source dropped (failed) Liza Miller — Younger [68c2e91ae5, tv]: https://moviemaps.org/episodes/2i6
-- note: 112 hand-placed marks that shared a point with another home were fanned out
+- note: 113 hand-placed marks that shared a point with another home were fanned out

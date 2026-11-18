@@ -9009,6 +9009,43 @@
   "batch": "theater"
  },
  {
+  "id": "b38d24ad24",
+  "home_key": "maria-san-juan-hill-2021",
+  "kind": "story",
+  "character": "María",
+  "household": "with her brother Bernardo",
+  "work": "West Side Story (2021 film)",
+  "medium": "film",
+  "creator": "Steven Spielberg",
+  "work_year": 2021,
+  "start": 1957,
+  "end": 1957,
+  "address": "María and Bernardo's apartment, San Juan Hill",
+  "borough": "Manhattan",
+  "neighborhood": "San Juan Hill, Upper West Side",
+  "precision": "neighborhood",
+  "lat": 40.774854,
+  "lon": -73.986326,
+  "radius_m": 500,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "Spielberg's film sets the story in San Juan Hill in 1957, as the neighborhood was being cleared for Lincoln Center. The stage musical is a separate record.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+    "quote": "for control of San Juan Hill on Manhattan's Upper West Side",
+    "check": "verified"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+    "quote": "Tony arrives at her apartment later",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_followups"
+ },
+ {
   "id": "d4aca37c8c",
   "home_key": "vivaldo-moore-bank-st",
   "kind": "story",
@@ -14516,6 +14553,38 @@
    }
   ],
   "batch": "film"
+ },
+ {
+  "id": "bd7bfbc23f",
+  "home_key": "warriors-coney-island-film",
+  "kind": "story",
+  "character": "Swan, Cleon and the Warriors",
+  "household": "the gang",
+  "work": "The Warriors",
+  "medium": "film",
+  "creator": "Walter Hill",
+  "work_year": 1979,
+  "start": 1979,
+  "end": 1979,
+  "address": "Coney Island, the gang's home turf",
+  "borough": "Brooklyn",
+  "neighborhood": "Coney Island",
+  "precision": "neighborhood",
+  "lat": 40.5755,
+  "lon": -73.98,
+  "radius_m": 1200,
+  "placed_by": "approx",
+  "geocode_label": "placed by hand",
+  "outside_nyc": false,
+  "notes": "The film's gang comes from Coney Island and spends the night fighting its way back there from the Bronx. No street or building is given for where any of them live. The 1965 Sol Yurick novel it adapts is a separate record.",
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Warriors_(film)",
+    "quote": "a street gang must escape from the Bronx back to their home turf on Coney Island",
+    "check": "verified"
+   }
+  ],
+  "batch": "gaps_followups"
  },
  {
   "id": "000dcdcf1c",
